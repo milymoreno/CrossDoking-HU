@@ -6,6 +6,14 @@
 
 ## MER — Diagrama Entidad-Relación
 
+![MER CrossDocking — 22 tablas, 12 módulos](./MER_crossdocking.png)
+
+> Imagen generada desde el modelo de datos. Para versión interactiva: importar `modelo_crossdocking.sql` en [dbdiagram.io](https://dbdiagram.io) → `Import → PostgreSQL`.
+
+---
+
+### Versión código (Mermaid — para GitHub/mermaid.live)
+
 ```mermaid
 erDiagram
 
