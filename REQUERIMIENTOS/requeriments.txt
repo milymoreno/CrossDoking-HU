@@ -1,0 +1,31 @@
+Num Req	Proceso	Sub Procesos 	Requerimiento	Notas
+26	CROSSDOCKING	RECIBIR INFORMACIÓN DEL AGENTE DE CARGA	El sistema debera tener la capacidad de interactuar con el agente de carga en cuanto a la recepción de la información consolidada, ejemplo: Guías, facturas Z95, Pesos y dealers	
+27	CROSSDOCKING	RECEPCIÓN DE FACTURACIÓN	"El sistema debe permitir que la facturación emitida por PSC desde D365 llegue de manera automática a una tabla o archivo que permita visualizar la relación entre las Z95 CAT y las INV PSC ejemplo: La compañias del grupo. El sistema debe permitir generar las referencias con la cantidad de caracteres que traiga la OC, caracteres especiales, mayúsculas y minúsculas,  no debe ser limitante
+Contemplando algunas particulariades como los procesos remananufacturados los cuales se reflejan con un costo adicional en dynamics pero al momento de la migracion al SII se refleja solo un valor Dynamics: Valor Premium + Cargo core = SII: Valor unico total"	
+28	CROSSDOCKING	DISCREPANCIAS	El sistema debe permitir hacer un paralelo entre las facturas CAT vs las facturas PSC para asegurar que no se va nacionalizar de mas o de menos. ejemplo: Cantidades facturadas.	
+29	CROSSDOCKING	ACTUALIZACIÓN DE DATOS	El sistema debe permitir actualizar y tomar actualizaciones desde D365 en los campos de las facturas emitidad por PSC, ejemplo: cambio de articulos	
+30	CROSSDOCKING	ACTUALIZACIÓN DE DATOS	"Se requiere que el sistema traiga la informacion de las facturas para gerneracion del año en curso, dado que CAT cada dos años repite consecutivos
+
+EJ Z95123456  2023-01-06
+Z95123456  2025-01-06"	
+31	CROSSDOCKING	PARCIALIZAR GUIA	"El sistema tiene la capacidad de generar documentos de transporte parciales, de acuerdo a los siguientes criterios:
+-Parcializar guia por factura
+-Parcializar guia por referencia
+-Parcializar guia por unidades de referencia"	
+32	CROSSDOCKING	ASIGNACION DE REGISTRO Y/O LICENCIA  DE IMPORTACION 	Que el sistema prmita asignar al modelo y tipo del equipo el registro y/o licencia de importación según se requiera, que controle saldos y vencientos	
+33	CROSSDOCKING	GENERAR GUÍA	"El proceso debe ser generados por DEALERS ( VER TABLA 1)
+El sistema tendra la capacidad de asignar las facturas a un # de documento de transporte, relacionando la siguiente información: # Guía, Dealer, fecha guía, tipo mercancia, export, aduana, via transporte, transportadora, embarcadora, cargar fletes, moneda, incoterm, pais compra-origen-procedencia."	
+34	CROSSDOCKING	GENERAR GUÍA	El sistema tendrá la capacidad de identificar las referencias remanufacturadas parametrizadas. Que no cuentan con licencias y saldos en las licencias de importación y de esta manera arroje una alerta que permita visualizar: la OC, la factura PSC, la referencia, la caja, btn, la cantidad y el comentario del error.	
+35	CROSSDOCKING	VALIDACION DE DEALER	"El sistema debera generar las guias conforrme a los DEALERS logisticos( ver tabla 1 de reportes y casos especiales) , no debera permitir generae guias con DEALERS que contengan mercancia nueva y mercancia remanufacturada 
+
+Adicional debera realizar distincion de los DEALERS asignados para gecolsa y para relianz"	
+36	CROSSDOCKING	VALIDACIÓN GUÍA	El programa debe permitir generar una visual que confirme las cantidades generadas entre las intercompañias y las facturas emitidas por CAT, y a su vez el valor FOB generado.	
+37	CROSSDOCKING	CREACIÓN DO	"El sistema debe tener Conexión con FILEZILA ( programa de SIACO) en donde se cargan todas las facturas de importación INV, se conecta para creacion de DO
+El programa debe tener la capacidad de generar un DO por medio de interfaz que permita la interacción entre el sistema interno con el sistema de la Agencia de aduanas, y que a su vez se actualice a medida que avance el proceso, ejemplo, tome la clasificaciónn arancelaria, certificados VoBo."	
+38	CROSSDOCKING	REPORTE FACTURAS GENERADAS	El programa debe contar con una opcion que permita generar un reporte de facturas PSC creadas por documento de transporte.	
+39	CROSSDOCKING	GENERAR DIM	"El sistema debe contar con todos los modulos que tiene la agencia de aduanas para generación de los embarques, declaraciones de importacion y sus respectivos archivos , esto a efectos de asegurar el proceso cuando existan fallas en cualquiera de las compañias
+El sistema debe contar con una opción que permita impulsar las declaraciones de importación y que asu vez habilite los campos: Tipo DIM-modalidad-acuerdo-forma pago-manifiesto de carga-fecha-tipo impo-cod deposito-Trm-fletes-bultos-embalaje-peso bruto.
+Al momento de la generacion de la declaracion de importacion debe permitir crear cualquier modalidad de importacion asi como todos los tipos de declaracion de importacion"	
+40	CROSSDOCKING	RECEPCIÓN DE INFORMACIÓN ADUANERA.	el sistema debe tener la capaciadad de recibir la información de Aceptación, pago (Autoadhesivo) y levante	
+41	CROSSDOCKING	COSTEO Y DRS	"El sistema permite migrar información aduanera a D365 donde se costeran las lineas y posterior generara DRs
+COSTEOS EMBARQUES Y MERCANCIA ( Validar en conjunto com COSTOS) Costo estimado de mercancia ( se carga un 2% por embarque se debe validar en conjunto con COSTOS)"	

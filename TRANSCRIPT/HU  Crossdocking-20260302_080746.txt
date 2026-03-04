@@ -1,0 +1,1921 @@
+00:00:02,080 --> 00:00:09,440 [speaker_0]
+Conectando a Anderson para realizar los últimos dos requerimientos que, que tenemos, ¿vale?
+
+00:00:10,940 --> 00:00:38,050 [speaker_1]
+Vale, vale. Igual ya coloqué a grabar. [carraspeo] Ya llegó Erex. Anderson, perdón.
+
+00:00:38,080 --> 00:00:38,769 [speaker_2]
+Buenos días.
+
+00:00:40,400 --> 00:00:41,410 [speaker_1]
+Hola, Anderson, buenos días.
+
+00:00:41,410 --> 00:00:42,089 [speaker_0]
+Buenos días, Anderson.
+
+00:00:42,720 --> 00:00:48,910 [speaker_2]
+Qué pena la demora. Estábamos aquí ajustando un tema operativo y ya...
+
+00:00:48,920 --> 00:00:58,269 [speaker_0]
+Listos. Entonces damos rápidamente inicio al, aaah, requerimiento cuarenta:
+recepción de información aduanera. El sistema debe tener la capacidad-
+
+00:00:58,269 --> 00:01:07,200 [speaker_1]
+Estamos grabando. Dejemos, eh, eh, la evidencia de que todos estamos de acuerdo,
+que estamos grabando, eh, que estamos de acuerdo con la grabación.
+
+00:01:07,220 --> 00:01:07,730 [speaker_0]
+De acuerdo.
+
+00:01:08,500 --> 00:01:08,850 [speaker_1]
+Okey.
+
+00:01:08,960 --> 00:01:09,440 [speaker_2]
+De acuerdo.
+
+00:01:09,500 --> 00:01:10,130 [speaker_1]
+Ahora sí.
+
+00:01:13,040 --> 00:01:18,980 [speaker_0]
+El sistema debe tener la capacidad de recibir la información de aceptación, pago y levante.
+
+00:01:20,560 --> 00:01:37,620 [speaker_2]
+Okey. Bueno, eh, les voy a compartir un-- mi pantalla para prose--
+para poder proceder a explicar esta, esta opción. Espera un momento.
+
+00:01:37,630 --> 00:01:40,940 [speaker_0]
+Se ve.
+
+00:01:41,560 --> 00:02:33,060 [speaker_2]
+Listo. Okey. Entonces, eh, [carraspeo] como ya había mencionado... Perdón. Se me mete la garganta.
+No sé qué le pasa a esto. ¿Cómo hago? Ay, Fabián, ¿usted puede compartir la pantalla?
+
+00:02:33,080 --> 00:02:34,240 [speaker_0]
+Listo, déjame ver.
+
+00:02:35,700 --> 00:02:59,840 [speaker_2]
+Yo te voy diciendo qué, qué ejecutar, porfa. Ya. Así. Te puedes meter al query,
+al query de la revisión del-- la-- los archivos que llegan de la declaración. Ese es el--
+
+00:02:59,880 --> 00:03:00,640 [speaker_0]
+Sí.
+
+00:03:00,680 --> 00:03:03,489 [speaker_2]
+Consoli-- consolí...
+
+00:03:05,040 --> 00:03:05,920 [speaker_0]
+Okey.
+
+00:03:05,960 --> 00:03:09,240 [speaker_2]
+Consolí, eh, consolí uno. Consolí uno. Ahí.
+
+00:03:09,260 --> 00:03:10,580 [speaker_0]
+Aquí es.
+
+00:03:10,600 --> 00:03:15,200 [speaker_2]
+Libre cuarenta y seis Q-R-Y. [carraspeo]
+
+00:03:15,240 --> 00:03:16,040 [speaker_0]
+Listo.
+
+00:03:16,060 --> 00:03:18,000 [speaker_2]
+Listo. Ahí se le re-- exacto.
+
+00:03:18,010 --> 00:03:19,500 [speaker_0]
+¿Le doy a F5?
+
+00:03:19,540 --> 00:03:21,920 [speaker_2]
+Sí, ahí puedes ingresar con F5.
+
+00:03:21,940 --> 00:03:23,000 [speaker_0]
+Listo.
+
+00:03:23,020 --> 00:05:25,780 [speaker_2]
+Bueno, básicamente lo que en este requerimiento se solicita es que, como les--
+bien les había mencionado en la sesión pasada,
+
+00:05:28,000 --> 00:05:45,640 [speaker_0]
+Bueno, Óscar, yo aquí de pronto te aclaro un poquitico en, en otras palabras. Eh,
+nosotros habíamos quedado en que el sistema de nosotros generaba unos archivos para la declaración
+
+00:05:45,680 --> 00:05:45,980 [speaker_2]
+Sí.
+
+00:05:46,000 --> 00:05:47,060 [speaker_0]
+Ellos hacen su pro-
+
+00:05:47,070 --> 00:05:48,200 [speaker_2]
+Los cinco archivos.
+
+00:05:48,260 --> 00:06:06,100 [speaker_0]
+Exactamente. Ellos hacen su proceso allá de nacionalización y vuelven a cargar, mmm,
+no sé si sea por archivos o sea por, eh, cómo sea la, la, la conexión que, que,
+
+00:06:06,276 --> 00:06:40,436 [speaker_2]
+Con la información, pero ya con el número, eh, de aceptación, levante y de, y de stickers, que eso,
+eh, significa que ya la mercancía cuenta con, con nacionalización en el sistema.
+
+00:06:40,456 --> 00:08:07,296 [speaker_3]
+Listo. Buenos días a todos. Eh, bueno, yo no lo conozco muy al detalle, pero lo que,
+lo que se hace en el sistema es que vuelve y la agencia de aduanas SIACO vuelve y toma o entra al SI
+
+00:08:07,336 --> 00:08:46,586 [speaker_2]
+Sí, correcto. Es que por eso es tan importante que Deisy nos acompañe,
+porque he aquí la duda que teníamos la vez pasada con el tema de que, eh,
+
+00:08:46,586 --> 00:08:48,036 [speaker_4]
+No estoy mostrando.
+
+00:08:48,076 --> 00:10:01,536 [speaker_2]
+Ay, qué pena. Verdad que está com-compartiendo Eder. Ya le robo la pantalla a ver si me... Sí.
+Entonces he aquí, como les mencionaba,
+
+00:10:01,656 --> 00:10:06,656 [speaker_4]
+Eh, esa es como la, la recepción de, de stickers y levante, ¿cierto?
+
+00:10:06,696 --> 00:10:08,256 [speaker_2]
+Sí, señor.
+
+00:10:08,265 --> 00:10:33,546 [speaker_4]
+Es decir, que después de que ellos realizan todas esas interacciones, incluso con la DIAN,
+proceso supercomplejo,
+
+00:10:33,616 --> 00:10:35,756 [speaker_2]
+Sí, correcto.
+
+00:10:35,796 --> 00:10:56,696 [speaker_4]
+Entonces sí, ya, sí necesitamos entender sobre todo cuál es el proceso que lo toma y qué es-- cuál,
+cuál es la parte del proceso que sí está afectando o, o las tablas que está afectando,
+
+00:10:56,736 --> 00:11:14,856 [speaker_2]
+Correcto. Sí, aquí les muestro como tal la tabla que la agencia de aduanas impulsa. Eh, nos,
+nos dan la visual de esta manera, nos, nos indican pues como tal estos datos,
+
+00:11:17,196 --> 00:11:24,176 [speaker_4]
+¿En dónde los puedes observar? Como para también avanzar un poco. Eh, no en este correo, sin--
+no en este chat, sino-
+
+00:11:24,216 --> 00:11:25,776 [speaker_2]
+Ah, okey. No, este es un pantallazo.
+
+00:11:25,796 --> 00:11:27,096 [speaker_4]
+¿Dónde lo ves?
+
+00:11:27,116 --> 00:11:32,476 [speaker_2]
+Ese pantallazo nos lo comparte la agencia de aduanas,
+como ellos inicialmente nos envían la información desde el lado de allá.
+
+00:11:33,156 --> 00:11:33,916 [speaker_4]
+Okey, ya.
+
+00:11:34,016 --> 00:11:34,596 [speaker_2]
+Y a nosotros-
+
+00:11:34,616 --> 00:11:37,176 [speaker_4]
+Baja esto. ¿Y dónde tú lo verificas?
+
+00:11:37,216 --> 00:11:44,656 [speaker_2]
+Y nosotros lo verificamos en el query que acabo de va-- de mostrar Fabián. Si quieres Fabián,
+te puedes salir un momentico.
+
+00:11:48,556 --> 00:11:51,136 [speaker_4]
+Eso es, dale, vuelve a entrar.
+
+00:11:52,116 --> 00:11:58,596 [speaker_2]
+Sí, como tal uno no, no, no lo visualiza, sino ya lo visualiza, es por medio de una consulta.
+
+00:11:58,656 --> 00:12:00,716 [speaker_4]
+Eh, ahí te das cuenta que entró el dato.
+
+00:12:00,736 --> 00:12:01,086 [speaker_2]
+Mhm.
+
+00:12:01,086 --> 00:12:01,366 [speaker_4]
+Pero sí.
+
+00:12:01,476 --> 00:12:04,156 [speaker_2]
+Ahí, ahí se da uno cuenta que entró el dato. Sí, correcto.
+
+00:12:04,196 --> 00:12:12,375 [speaker_4]
+Sí, digamos que acá en esta tabla todos los datos que se-- que están grabados, digamos acá son, uf,
+son, son bastantes. ¿Qué pasó acá?
+
+00:12:17,146 --> 00:12:20,126 [speaker_2]
+¿Qué le pasó a esto?
+
+00:12:20,166 --> 00:12:21,856 [speaker_0]
+Déjame tomar entonces acá unos datos-
+
+00:12:21,866 --> 00:12:21,876 [speaker_2]
+Sí.
+
+00:12:21,906 --> 00:12:33,346 [speaker_0]
+De esta información. Y es que, eh, como prerrequisito se tuvo que realizar el cargue,
+este cargue que estamos mencionando.
+
+00:12:35,766 --> 00:12:47,466 [speaker_2]
+Se dejó de compartir la pantalla, ¿cierto?
+
+00:12:47,526 --> 00:12:50,786 [speaker_0]
+Sí, vuélvela. Ahí ya está cargando. Ya, ya quedó.
+
+00:12:52,786 --> 00:13:02,886 [speaker_2]
+Sííí . Entonces, sí puedes tomarle un pantallazo acá en esta parte que nuestro-
+
+00:13:05,386 --> 00:13:07,506 [speaker_0]
+Nuestro punto de control.
+
+00:13:07,586 --> 00:14:08,966 [speaker_2]
+Sí, acá digamos, eh, sí. Lo que quería mencionarle es que digamos,
+cuando yo genero la declaración de importación,
+
+00:14:09,146 --> 00:14:36,026 [speaker_3]
+Solo para corregir un poquito a, a Anderson. No es, no es pago, es un...
+es la presentación en bancos, mejor dicho, de la declaración, porque el pago,
+
+00:14:37,046 --> 00:14:45,846 [speaker_2]
+Ah, okey. Sí, sí, claro. Sí, pero normalmente en una [risas] ,
+en un proceso de importación para un pro-- para una, para una empresa que no es OEA,
+
+00:14:45,906 --> 00:14:46,775 [speaker_3]
+Mhm. Sí.
+
+00:14:46,786 --> 00:15:03,106 [speaker_2]
+Acá porque somos OEA y obviamente esto se paga a final de mes, todo el consolidado. Eh,
+¿qué implicaría para las responsabilidades de SII actuar? Esa, esa,
+
+00:15:03,246 --> 00:16:25,266 [speaker_3]
+No, digamos el control ahí en los archivos, ¿no? Que digamos la mayoría o todas,
+todas las declaraciones de importación que se hagan por el SII están quedando pendientes de pago.
+
+00:16:25,306 --> 00:17:23,526 [speaker_0]
+Sí, correcto, Richard. Eso es el tema de, de los pagos consolidados, ¿sí?
+Pero es una revisión que se realiza para que, eh, para que haga match lo que realmente se pagó,
+
+00:17:23,546 --> 00:19:03,338 [speaker_2]
+[carraspeo] Ya con eso, eh, Anderson, eh, ¿quien,
+quién lo puede ver reflejado o con qué fin también lo pueden ver reflejado?
+
+00:19:03,418 --> 00:19:14,178 [speaker_0]
+Exacto. No sé si de pronto, Óscar, entendiste ese pedacito. Lo que pasa es que aduaneramente, eh,
+la DIAN puede solicitarnos inspección de la mercancía-
+
+00:19:14,238 --> 00:19:14,278 [speaker_2]
+Mhm.
+
+00:19:14,338 --> 00:20:12,418 [speaker_0]
+De ciertas declaraciones de importación. Entonces,
+hagamos de cuenta que son diecinueve declaraciones de importación. A dieciocho le dieron, eh,
+
+00:20:12,438 --> 00:20:12,448 [speaker_2]
+Sí.
+
+00:20:12,458 --> 00:20:17,638 [speaker_0]
+No es que no sube parcial, sino hasta que no esté completa no se va.
+
+00:20:17,678 --> 00:20:19,858 [speaker_3]
+Ya, pero ayúdame a modificar. Y es-
+
+00:20:19,898 --> 00:20:20,798 [speaker_0]
+Mhm.
+
+00:20:21,058 --> 00:20:44,358 [speaker_3]
+Ha-hablamos de que el proceso automático va a realizar algunas interacciones y es lo que necesitamos
+aclarar con Deisy. Eso que deja una información en el sistema que ustedes visualmente dicen:
+
+00:20:44,418 --> 00:20:57,758 [speaker_0]
+Eso se hace, eso se hace a través del SI también. El, el, el, el rellenar los campos vacíos se,
+se realiza desde el SI también por medio de una opción que tiene el rol de,
+
+00:20:57,778 --> 00:21:00,358 [speaker_3]
+Es decir, ¿no lo vamos a poder ver acá?
+
+00:21:00,438 --> 00:21:25,218 [speaker_0]
+Eh, no, no, me, me-- te lo debería los pantallazos, porque eso solamente es,
+es un rol especial que e-ella contiene, ¿sí? Y cuando ella aplica, los-- llena los campos, que es--
+
+00:21:25,238 --> 00:21:25,468 [speaker_3]
+Claro.
+
+00:21:25,898 --> 00:21:31,538 [speaker_0]
+Si quieres, espérame. Yo ya sol-- yo ya solicito los pantallazos para que queden ahí diligenciados,
+¿vale?
+
+00:21:31,598 --> 00:21:57,958 [speaker_2]
+Sí. Yo quiero, yo quiero decir otra cosita ahí adicional a esto. Eh, don Richi,
+¿se acuerda cuando hablábamos de que íbamos a hacer la investigación de cómo es que el sistema está
+
+00:21:57,998 --> 00:21:58,648 [speaker_3]
+Eh...
+
+00:21:59,058 --> 00:22:00,547 [speaker_2]
+Otra, otra función que tiene esta...
+
+00:22:01,638 --> 00:22:06,238 [speaker_3]
+¿A qué información te refieres? ¿Del, de las declaraciones como tal?
+
+00:22:07,038 --> 00:22:07,568 [speaker_2]
+Sí, te muestro es que-
+
+00:22:07,578 --> 00:22:13,118 [speaker_3]
+O a lo que sigue ahorita,
+que me imagino que tienen por ahí mapeado para hablar lo de la consolidación.
+
+00:22:13,178 --> 00:22:15,098 [speaker_2]
+Sí, exacto. Es que, pues si-
+
+00:22:15,107 --> 00:22:15,698 [speaker_3]
+¿Cuál, cuál, cuál?
+
+00:22:15,918 --> 00:22:20,678 [speaker_2]
+La consol-- la consolidación. La consolidación se hace desde el SI.
+
+00:22:20,718 --> 00:22:20,948 [speaker_3]
+Sí.
+
+00:22:20,958 --> 00:22:28,848 [speaker_2]
+La consolidación se hace desde el SI, y pues si es del SI,
+pues le pertenecería al SI dos punto cero. Ya lo que llega al Dynamics ya es otro tema. Entonces-
+
+00:22:28,858 --> 00:22:28,868 [speaker_3]
+Correcto.
+
+00:22:28,868 --> 00:22:43,578 [speaker_2]
+Si de pronto que acá Deisy nos diera o nos ilustrara,
+porque pues hasta el momento no nos han dicho cómo es que se hace la, la del prorrateo, ¿sí?
+
+00:22:43,658 --> 00:23:01,148 [speaker_3]
+Eder, ¿ahorita qué tema sigue ahí? Por favor. Consolidación o algo así, no sé. Se me fue Eder.
+[risas]
+
+00:23:01,158 --> 00:23:40,658 [speaker_0]
+Ay, perdóname. Estaba hablando con el micrófono apagado. Sí, el, el, el que--
+el proceso que sigue es, eh,
+
+00:23:40,738 --> 00:23:47,618 [speaker_3]
+Eder, entonces para responderle a, a Anderson, ahorita vamos a-- se va a ver eso, ese proceso,
+¿bueno?
+
+00:23:50,688 --> 00:23:53,138 [speaker_2]
+¿Cuál? Perdóname.
+
+00:23:54,498 --> 00:24:15,298 [speaker_3]
+Es que él hablaba de que cómo era el prorrateo que se hace de los costos,
+de todo lo que nosotros incorporamos en, en la operación de comercio exterior. Sí, no, en, en el SI.
+
+00:24:15,318 --> 00:24:15,467 [speaker_2]
+Ah, ok.
+
+00:24:15,498 --> 00:24:19,378 [speaker_3]
+Eso es un programa también ahí que internamente hace
+
+00:24:19,722 --> 00:24:43,942 [speaker_4]
+Pues me imagino que la mayoría son reglas de tres, algo así.
+Pero eso también lo puede aclarar Deisy en el programa que hace esa consolidación de cada embarque
+
+00:24:44,022 --> 00:25:09,082 [speaker_0]
+Eh, listo, espérame. Yo ya cierro como tal esta,
+esta solicitud de las pantallas de lo que Óscar nos estaba pidiendo, que si no lo podíamos ver.
+
+00:25:09,092 --> 00:25:11,562 [speaker_4]
+Espérame un momentito. Yo tomo nota. Espera tantito.
+
+00:25:11,582 --> 00:25:13,022 [speaker_0]
+Dale.
+
+00:25:13,842 --> 00:25:29,202 [speaker_4]
+Eh, solo para terminar, Óscar, me voy a refrasear. Ya cargamos la información automática de DCI. No,
+eh,
+
+00:25:29,212 --> 00:25:29,212 [speaker_0]
+Exacto.
+
+00:25:29,242 --> 00:25:34,722 [speaker_4]
+O sea que termina de cargar o hay una información que necesitamos ajustar. Esta pantalla,
+¿por dónde fue que ingresaste?
+
+00:25:34,762 --> 00:25:38,142 [speaker_0]
+Listo, mira. Cambio de valores de declaración.
+
+00:25:38,182 --> 00:25:40,722 [speaker_4]
+Antes de esa, ¿cuál estaba?
+
+00:25:40,742 --> 00:25:43,062 [speaker_0]
+Acá. Esta es la primera pantalla.
+
+00:25:43,082 --> 00:25:45,802 [speaker_4]
+Ah, esa es la primera, pero no la subieron.
+
+00:25:45,812 --> 00:25:45,812 [speaker_0]
+Esa es la primera-
+
+00:25:45,822 --> 00:25:47,072 [speaker_2]
+Tiene que haber una opción.
+
+00:25:47,072 --> 00:25:47,312 [speaker_0]
+¿Una opción?
+
+00:25:47,322 --> 00:25:51,422 [speaker_2]
+Tiene que haber una opción si es por módulo de declaraciones, si es por módulo de guías.
+
+00:25:51,432 --> 00:25:55,802 [speaker_0]
+Listo, espérame tantico. Ya, ya te valido por dónde es.
+
+00:25:56,242 --> 00:26:11,462 [speaker_4]
+[carraspeo] De acuerdo, siempre hay una antes de llegar a,
+a esta en específico como para ubicarnos en el menú actual,
+
+00:26:11,522 --> 00:26:16,942 [speaker_0]
+Sí, es por e-- es como tal por el módulo de declaraciones. Ya te voy a mostrar acá la pantalla.
+
+00:26:16,962 --> 00:26:17,802 [speaker_4]
+De una.
+
+00:26:30,582 --> 00:26:42,362 [speaker_0]
+Listo, esta es la pantalla, es igual por el módulo de declaraciones. Entonces es esta opción:
+Actualizar valores de la DI. ¿Listos? Para que le puedas tomar una-
+
+00:26:42,402 --> 00:26:43,862 [speaker_4]
+Ya le tomo pantalla. Gracias.
+
+00:26:43,922 --> 00:27:31,862 [speaker_0]
+Dale. Nos vamos acá. Nos lleva a ella. ¿Listos? Aquí ponemos el número de la guía,
+el dealer y la declaración a la cual le vamos a ajustar manualmente, eh, los campos, ¿vale?
+
+00:27:31,882 --> 00:27:41,762 [speaker_4]
+Sí, voy, voy, voy. Espérate un segundito, ya lo dejo así, ¿ves? Listo, toma. Realizamos los cambios.
+¿Qué-
+
+00:27:42,002 --> 00:27:43,142 [speaker_0]
+Mhm. Y finaliza-
+
+00:27:43,152 --> 00:27:44,362 [speaker_4]
+Le toca para acá.
+
+00:27:44,382 --> 00:27:44,942 [speaker_0]
+Dime.
+
+00:27:45,002 --> 00:28:03,302 [speaker_4]
+Sí, espérate, le tomo pantalla para, para no perder esta pantalla y volvernos. Eh, mira, preocupa.
+Los campos que están allí son calculados del proceso anterior. Es decir,
+
+00:28:04,462 --> 00:28:14,862 [speaker_0]
+Me, me, me llevo la información, ¿vale? Me llevo la información y, y, y, y te hago la,
+y hago la consulta. Qué, qué cálculos hace o qué campos no salen, ¿vale?
+
+00:28:14,882 --> 00:29:27,942 [speaker_4]
+Listo. Vamos a mencionar en todas las sesiones, eh,
+siempre para que tengamos todos claridad de lo que estamos observando. Ustedes ven unos datos allí,
+
+00:29:31,202 --> 00:29:32,662 [speaker_0]
+De acuerdo.
+
+00:29:32,682 --> 00:30:17,672 [speaker_4]
+Listo, entonces aquí ya en la última está la información de importación y levante,
+que está aceptación, sticker, número de levante, tasa. Ahí está la tasa. Si se cambió,
+
+00:30:18,342 --> 00:30:57,022 [speaker_0]
+Sí, la que se esta-- sí, exactamente, la de la declaración. En este caso, si, digamos,
+el proceso lo hicimos el viernes por la mañana,
+
+00:30:57,442 --> 00:33:41,542 [speaker_4]
+Bien, los datos. Listo. Entonces, hay como tres cosas acá que resolver en este requerimiento. Uno,
+el proceso técnico de carga. Dos, que tengan ustedes la, la habilidad de consultar lo que se,
+
+00:33:41,562 --> 00:33:41,882 [speaker_0]
+Dale.
+
+00:33:43,942 --> 00:33:48,622 [speaker_4]
+Listo. Entonces, pareciera que son solamente estos tres requerimientos.
+
+00:33:48,662 --> 00:33:57,242 [speaker_0]
+Sin embargo,
+veo que no hay un requerimiento hacia DC por el tema de la conexión y cómo es que realiza el, el,
+
+00:33:57,282 --> 00:34:00,762 [speaker_4]
+Ya, ya. Tienes razón, lo tengo como historia de usuario.
+
+00:34:01,022 --> 00:34:09,872 [speaker_0]
+Porque uno es cómo llega la información al SI desde SIACCO y dos,
+cómo sale la información de el SI a Dynamics.
+
+00:34:12,402 --> 00:34:24,322 [speaker_4]
+Ah, esa información. Entonces, me falta tomarla. Faltan dos cosas aquí. ¿Después de que,
+queda esa información y se corrige, se carga en Dynamics?
+
+00:34:25,482 --> 00:34:29,302 [speaker_0]
+Te diría que sí, porque allá le llega ya a mis amigos de, de, de costos la-
+
+00:34:29,762 --> 00:34:29,772 [speaker_4]
+Mhm.
+
+00:34:29,782 --> 00:34:31,942 [speaker_0]
+Los datos.
+
+00:34:33,362 --> 00:34:35,602 [speaker_4]
+Muy bien.
+
+00:34:35,682 --> 00:35:28,442 [speaker_3]
+En este caso aquí estamos hablando solo, solo estamos hablando es de levantes,
+aceptaciones y sticker. Esta información llega a Panamerican,
+
+00:35:29,482 --> 00:35:29,982 [speaker_4]
+Sí, realmente-
+
+00:35:30,022 --> 00:35:36,822 [speaker_0]
+Okey, okey, don Richard, ¿y en qué momento se va esa información a Dynamics? ¿En qué,
+en qué instancia?
+
+00:35:36,842 --> 00:35:44,822 [speaker_3]
+Cuando se completa la información, si digamos, la...
+el proceso de las declaraciones de un embarque tienen diez declaraciones.
+
+00:35:44,902 --> 00:35:45,202 [speaker_0]
+Sí.
+
+00:35:46,742 --> 00:35:59,302 [speaker_3]
+Tenemos, digamos que nos fue bien y nos,
+nos fue levante automático de todo el cargamento de esa guía. Entonces, las diez declaraciones,
+
+00:35:59,312 --> 00:36:00,171 [speaker_4]
+Mhm.
+
+00:36:00,182 --> 00:36:03,642 [speaker_3]
+Hablemos así para no estar repitiendo los mismos seis campos, ¿listo?
+
+00:36:03,662 --> 00:36:04,322 [speaker_4]
+Sí. Sí, sí.
+
+00:36:04,342 --> 00:36:56,254 [speaker_3]
+Ellos suben los stickers, entonces ya hay un proceso, hay un-- lo que yo entiendo,
+hay un robot en el SI que viene y hace el recorrido y lo que él vea completo, él lo con--
+
+00:36:56,314 --> 00:37:16,454 [speaker_0]
+Entonces, para entenderte, Richi, si la información sale completa desde la agencia de aduanas,
+o sea, si sale todos los campos diligenciados, los del sticker, levante, aceptación, todo sale bien,
+
+00:37:16,474 --> 00:37:57,804 [speaker_3]
+Después de la consolidación automática que hace el sistema con ese robot.
+Es que hace el sistema viene y recorre el si-- el-- [risas] qué pena la redundancia. El SI verifica:
+
+00:37:57,804 --> 00:37:58,954 [speaker_5]
+Richi, pero...
+
+00:37:58,964 --> 00:37:59,224 [speaker_3]
+Señor.
+
+00:37:59,224 --> 00:38:36,054 [speaker_5]
+Eh, buenos días. Eh, pero una pregunta, Richi. Mmm, Dynamics, eh,
+¿espera algo de un archivo inicial que tiene Dynamics o la información que cae ahí es, es nueva?
+
+00:38:36,154 --> 00:38:53,654 [speaker_3]
+Mmm. No, previamente no. O sea, es que el que tú dices es, es el proceso de no Caterpillar.
+En este momento estamos hablando del cross docking, que no tiene ninguna--
+
+00:38:53,664 --> 00:38:53,754 [speaker_5]
+Okey.
+
+00:38:54,274 --> 00:39:31,414 [speaker_3]
+Se, se forma ya después en Dynamics con unos procesos en Dynamics, con los movimientos de la me--
+de la guía y todas esas cosas, que tengo entendido. Pero previamente acá para cross docking, o sea,
+
+00:39:31,474 --> 00:39:33,154 [speaker_5]
+Okey, Richi, gracias.
+
+00:39:33,174 --> 00:39:35,354 [speaker_3]
+Con gusto.
+
+00:39:36,814 --> 00:39:41,914 [speaker_0]
+No sé si Oscar tengas otra consulta para este punto.
+
+00:39:42,334 --> 00:39:46,794 [speaker_4]
+Eeeh, no tengo, no tengo consultas, pero es porque no tengo-
+
+00:39:46,954 --> 00:39:49,243 [speaker_0]
+Porque no está la información. Mhm.
+
+00:39:49,314 --> 00:40:31,914 [speaker_4]
+Mhm. Eh, yo les entiendo el propósito general,
+el mismo que ustedes entienden y que nos están contando. Llega la información,
+
+00:40:31,934 --> 00:40:36,254 [speaker_0]
+Con el requerimiento que tú realizas a Daisy, con eso se aclararía, ¿verdad?
+
+00:40:36,314 --> 00:41:53,374 [speaker_4]
+Sí, se aclararía. Y ahorita, ahorita que terminemos este espacio, eh,
+checamos de pronto un poco la estrategia que estamos utilizando, a ver,
+
+00:41:53,934 --> 00:41:54,294 [speaker_0]
+Listo.
+
+00:41:54,304 --> 00:41:56,174 [speaker_4]
+Listo. Entonces, hasta acá queda abierto.
+
+00:41:56,194 --> 00:42:01,834 [speaker_0]
+Mhm. Listo. Pasaríamos entonces al siguiente, ¿verdad?
+
+00:42:01,934 --> 00:42:03,654 [speaker_4]
+El cuarenta y uno.
+
+00:42:03,734 --> 00:42:05,814 [speaker_0]
+Cuarenta y uno y último.
+
+00:42:05,854 --> 00:42:07,174 [speaker_4]
+Cuarenta y uno y último.
+
+00:42:09,554 --> 00:42:58,274 [speaker_0]
+El sistema costeo y DRS, que me imagino que son diarios de recepción, no sé si sea lo mismo,
+ya nos valida, eh, Anderson. El sistema permite mirar información a manera Dynamics,
+
+00:42:58,334 --> 00:44:22,194 [speaker_2]
+Okey. Sí,
+es que eso es otro poquito más de lo que les estaba comentando con el tema de la caída de la
+
+00:44:22,204 --> 00:44:22,884 [speaker_4]
+¿Nos está mostrando ahora?
+
+00:44:23,354 --> 00:45:03,453 [speaker_2]
+No, yo-- no, no estoy mostrando nada. No, no estoy mostrando nada.
+Solamente es a nivel de información. Eh, la pantalla que nosotros ya le mostramos,
+
+00:45:07,334 --> 00:45:36,614 [speaker_0]
+Entonces, lo que yo te entiendo es que es por prorrateo y por ítem, ¿sí? Digamos que el flete,
+el flete internacional son mil quinientos dólares y tengamos en el documento de transporte unas
+
+00:45:36,694 --> 00:46:32,954 [speaker_2]
+Sí, correcto. Y es que ahí toca tener en cuenta otra cosita. Eh,
+los costos de la importación ampara lo que es aranceles, los IVAs, los fletes,
+
+00:46:33,754 --> 00:47:16,494 [speaker_4]
+Ah, ya. Espérate un momentico, a ver si te tomé bien la idea.
+Se relaciona con el cuarenta en el sentido de que, eh, sea previa confirmación, es decir,
+
+00:47:17,194 --> 00:47:28,224 [speaker_2]
+La dinámica de la automatización, pues se puede conservar. O sea,
+es más bien de pronto otra manera de consulta que podamos visualizar cómo se está prorrateando.
+
+00:47:29,114 --> 00:47:30,014 [speaker_4]
+Ah, lo que se envió.
+
+00:47:30,024 --> 00:47:30,024 [speaker_2]
+Sí.
+
+00:47:30,024 --> 00:47:30,024 [speaker_4]
+Lo que se envió.
+
+00:47:30,054 --> 00:47:31,854 [speaker_2]
+Correcto. Sí, lo que se envió.
+
+00:47:33,514 --> 00:47:36,814 [speaker_4]
+Alex, tienes la mano levantada.
+
+00:47:36,934 --> 00:50:40,718 [speaker_5]
+Sí. Mmm, es que, o sea, hay que tener en cuenta queee, pues el, el, el sistema, y,
+y estoy en línea con, con Arden-- con Anderson. O sea, el sistema tiene unos costos. Voy a colocar--
+
+00:50:40,738 --> 00:52:57,898 [speaker_4]
+Ya. Yo, yo les estoy tomando la información. Eh, Jesús, gracias por el comentario. Y Anderson.
+Pero lo que siento es que pareciera que es el sistema el que tiene una responsabilidad sobre los
+
+00:52:57,938 --> 00:53:10,238 [speaker_5]
+Y una pregunta, ¿alguien en el SI conoce ese tema de los estimados? De en dónde está.
+
+00:53:10,318 --> 00:53:20,818 [speaker_6]
+Por nuestra parte, Gómez, no. No. No, no. No. No sé si Anderson, de pronto, pero no puedo.
+
+00:53:21,838 --> 00:53:22,688 [speaker_5]
+No, no, no, señor.
+
+00:53:22,758 --> 00:53:25,858 [speaker_6]
+Es que no, eso no lo visualizamos nosotros.
+
+00:53:27,318 --> 00:54:10,658 [speaker_4]
+Exacto, no se visualiza.
+Pero recuerden que la mecánica que estamos aquí aclarando no es tanto lo que ustedes visualizan,
+
+00:54:10,718 --> 00:54:50,977 [speaker_3]
+Exacto. Yo me acomodo a lo que dice Alex también. Eh, aquí tome--
+toma nota Eder de que debería existir una tabla de, de costos, o sea, que Comercio Exterior se, se,
+
+00:54:51,802 --> 00:54:57,482 [speaker_5]
+Eeeh, haga esas validaciones con las tablas de, de costeos también.
+
+00:54:59,662 --> 00:55:49,382 [speaker_0]
+No, si yo, yo, yo entiendo también el, el, el mensaje también y es como que venga,
+que si usted no tiene el sistema hoy en día, ¿cómo lo hace? ¿Sí? Solo que, o sea,
+
+00:55:49,462 --> 00:55:50,062 [speaker_5]
+Es que-
+
+00:55:50,342 --> 00:55:50,392 [speaker_0]
+O no sería-
+
+00:55:50,402 --> 00:57:30,122 [speaker_5]
+¿Qué es lo que sucede? ¿Qué es lo que sucede ahí, Eder y todos? O sea,
+aquí hay un proceso de importación, ¿sí? Y en el proceso de importación se incurre en unos costos.
+
+00:57:30,322 --> 00:57:31,082 [speaker_0]
+Okey, ya te entiendo.
+
+00:57:31,382 --> 00:57:42,012 [speaker_5]
+Yo no te puedo decir que, que sea el cien por ciento, el noventa por ciento, no lo sé,
+pero eso es lo que necesitamos poder identificar, ¿sí? [carraspeo]
+
+00:57:42,062 --> 00:58:05,942 [speaker_0]
+Sí, pero me pregunto. Sí, sí, no, no, yo te entiendo. Ahí ya, ya, ya entro a validar es qué, qué,
+qué áreas son las que intervienen y, y, y de dónde salen. O sea, dónde--
+
+00:58:05,962 --> 00:58:29,002 [speaker_5]
+Ahora bien, Eder, seguramente, pues yo lo que te podría decir ahorita es, [carraspeo] pues venga,
+qué facturas son las que estamos pagando. Jum. Y con base en lo que estamos pagando, pues si, si no,
+
+00:58:29,042 --> 00:59:24,242 [speaker_0]
+Sí, sí, porque no sé. O sea, desconozco si alguien entra todos los días al, al,
+al SI a modificar si son tarifas o si son eso. Lo desconozco. No creo que lo hagan. Entonces,
+
+00:59:26,802 --> 00:59:30,642 [speaker_4]
+De acuerdo, de acuerdo. Y por eso vuelvo a hacer el, el énfasis y-
+
+00:59:30,652 --> 00:59:30,882 [speaker_0]
+Mhm.
+
+00:59:31,062 --> 01:01:29,670 [speaker_4]
+Volviéndoles a esa, a esa discusión.
+Es que si nosotros no logramos resolver con qué información contamos en el proceso,
+
+01:01:34,430 --> 01:02:03,150 [speaker_0]
+Claro que sí. Claro que sí. Dale. Yo entro a validar, eh, funcionalmente, eh,
+la operación y qué aplica ahí y, y, y, y lo confirmaría y ya lo, lo, lo empatamos acá con el--
+
+01:02:03,230 --> 01:02:03,860 [speaker_4]
+De acuerdo.
+
+01:02:03,890 --> 01:02:11,010 [speaker_0]
+Y la finalidad es que lleguen, eh, los costos a Dynamics, que es como tal el, el, el, el, el fin.
+¿Vale?
+
+01:02:11,070 --> 01:03:43,190 [speaker_4]
+Eh, exacto, exacto.
+Al final tiene que aclararse cómo fue que resultó en esa información que reportamos a Dynamics.
+
+01:03:46,010 --> 01:05:01,610 [speaker_5]
+Y, y una pregunta ahí, Óscar. Eh, digamos, ya nosotros en el proceso, eh,
+logramos que tenemos esos costos en, en e--
+
+01:05:01,710 --> 01:09:58,886 [speaker_4]
+Eh, se va a abordar paso a paso como lo hemos estado realizando en estos espacios y es:
+empecemos por clasificación arancelaria. Clasificación arancelaria definimos la posición,
+
+01:10:00,986 --> 01:10:01,316 [speaker_6]
+Gracias.
+
+01:10:01,326 --> 01:10:06,146 [speaker_4]
+No sé si ya con eso respondo ahí tu inquietud, Jesús. Gracias por la pregunta. Y Giovanni.
+
+01:10:06,166 --> 01:10:08,246 [speaker_6]
+Sí, sí. Gracias.
+
+01:10:08,326 --> 01:10:10,966 [speaker_7]
+Eh. [carraspeo] Sí, muy buenos días para todos. Pues-
+
+01:10:11,426 --> 01:10:11,436 [speaker_4]
+Hola.
+
+01:10:11,446 --> 01:10:53,546 [speaker_7]
+Precisamente, eh,
+hace unos momentos estaba preguntando acerca de el tema de las tablas y cómo funcionaban los costos
+
+01:10:53,566 --> 01:11:33,726 [speaker_4]
+De una. Les voy a compartir pantalla. Espérame un segundito, Giovanni. Comparto.
+Me confirman cuando estén viendo.
+
+01:11:38,186 --> 01:11:42,926 [speaker_7]
+Sí, ya se ve. Yili y Deisy, ¿ya pueden ver?
+
+01:11:42,946 --> 01:11:45,466 [speaker_8]
+Sí, señor. Sí, señor.
+
+01:11:45,486 --> 01:13:37,432 [speaker_4]
+Bueno, entonces estamos hablando del requerimiento cuarenta,
+que es el más denso del que estamos hablando y es:
+
+01:13:37,442 --> 01:13:38,921 [speaker_9]
+Es diferente. Mhm.
+
+01:13:39,422 --> 01:13:47,262 [speaker_4]
+Entonces, es diferente,
+que hay que explicar qué cálculos y de dónde tomamos la información para poderlo concretar.
+
+01:13:47,302 --> 01:13:48,972 [speaker_9]
+Listo. Hola, buenos días para todos. ¿Cómo están?
+
+01:13:49,882 --> 01:13:50,782 [speaker_4]
+Hola.
+
+01:13:50,922 --> 01:13:55,652 [speaker_9]
+Listo, con lo, con lo que nos preguntas, creo que ya acabaste, ¿sí? Qué pena que te interrumpí.
+
+01:13:55,722 --> 01:13:57,852 [speaker_4]
+Eh, no, iba a finalizar solamente con-
+
+01:13:57,852 --> 01:13:57,862 [speaker_9]
+Okey.
+
+01:13:57,882 --> 01:14:21,382 [speaker_4]
+La parte de lo que hace Seiya, que es la modificación de lo que se, se carga desde,
+desde SIACO hacia acá, que pareciera que se modifican algunos datos,
+
+01:14:21,402 --> 01:15:38,562 [speaker_9]
+Okey, ¿qué es lo que pasa? De, de, de Dynamics viene para el tema de, de comercio, y,
+y ahorita le doy la palabra a Dice en el, en el momento en que yo ya,
+
+01:15:38,602 --> 01:15:38,612 [speaker_4]
+Claro.
+
+01:15:38,612 --> 01:16:39,502 [speaker_9]
+Cuando la agencia de aduanas procesa toda esa información,
+la procesa a nivel de declaración de importación. Es decir,
+
+01:16:39,562 --> 01:16:49,262 [speaker_4]
+Listo, hasta acá tenemos la información sin, sin todavía concretar cómo,
+cómo lograrlo de forma concreta. ¿Listo?
+
+01:16:50,702 --> 01:16:51,232 [speaker_9]
+Listo.
+
+01:16:51,232 --> 01:16:51,752 [speaker_10]
+Listo.
+
+01:16:51,922 --> 01:16:52,282 [speaker_4]
+Hola.
+
+01:16:52,292 --> 01:16:53,962 [speaker_10]
+Hola, Oscar, buenos días.
+
+01:16:53,982 --> 01:16:55,322 [speaker_4]
+Hola, hola. Buenos días.
+
+01:16:55,342 --> 01:17:18,622 [speaker_10]
+Eh, bueno, acá está el tema del flujo que se les había compartido con César.
+En cuanto a los Faisilas, que tenemos el de SIACO y el del SI.
+
+01:17:18,642 --> 01:17:18,651 [speaker_4]
+Mhm.
+
+01:17:18,662 --> 01:17:20,962 [speaker_10]
+Creo que era el numerito tres.
+
+01:17:21,102 --> 01:17:22,542 [speaker_4]
+Sí, que dejamos por acá-
+
+01:17:22,802 --> 01:17:22,812 [speaker_10]
+Eso.
+
+01:17:22,842 --> 01:17:31,802 [speaker_4]
+Dejamos por acá arriba como...
+Debe estar por allá arriba en uno de los requerimientos donde finaliza, don-donde decimos: "Bueno,
+
+01:17:31,862 --> 01:17:31,911 [speaker_10]
+Ajá.
+
+01:17:31,962 --> 01:17:35,042 [speaker_4]
+Ya hicimos la, la... Ya-
+
+01:17:35,062 --> 01:17:36,952 [speaker_10]
+Cuando se importa la información.
+
+01:17:37,842 --> 01:17:38,712 [speaker_4]
+¿Cómo se llama? Impulsamos la información.
+
+01:17:38,712 --> 01:17:38,712 [speaker_10]
+Exacto. Ah, míralo aquí.
+
+01:17:38,712 --> 01:17:39,502 [speaker_4]
+Aquí va a llegar.
+
+01:17:39,542 --> 01:18:01,062 [speaker_10]
+Exacto. Aquí alto, más arribita está el archivito. ¿Tienes el pantallazo de la Ceci A? Ese.
+Ese archivito, creo que el ítem es el ¿cuatro o tres? Ah, el cuatro. Ahí en los rojitos. Déjame ver.
+
+01:18:01,082 --> 01:18:01,092 [speaker_4]
+Mhm.
+
+01:18:01,092 --> 01:18:53,362 [speaker_10]
+¿De qué se trata? Eh, en el mismo Faisila de SIACO, donde ustedes vieron que Anderson, eh,
+colocaba los da-- eh, los PDFs y demás, hay una carpeta o hay, sí,
+
+01:18:53,482 --> 01:19:40,506 [speaker_4]
+Dale, por favor. So-sobre todo también del ejercicio, eh, también para,
+para que podamos avanzar mucho más sólido, es toda la información que hemos recibido hasta ahora,
+
+01:19:40,516 --> 01:19:40,886 [speaker_10]
+Sí, ya-
+
+01:19:40,896 --> 01:19:42,546 [speaker_4]
+El estado.
+
+01:19:42,586 --> 01:19:48,766 [speaker_10]
+Esta, esta semana ya nos solucionaron el tema de la licencia que te había contado, Óscar. Entonces-
+
+01:19:48,786 --> 01:19:48,796 [speaker_4]
+Sí.
+
+01:19:48,806 --> 01:19:53,526 [speaker_10]
+Yo ya estoy emple-- eh, ahorita estaba haciendo como con algo de soporte-
+
+01:19:53,566 --> 01:19:53,586 [speaker_4]
+Mhm.
+
+01:19:53,595 --> 01:20:07,086 [speaker_10]
+Pero ya espero hoy empezar a avanzar prime-- en orden con qué es lo de la posición arancelaria. En,
+en el transcurso del día te doy esa información y documentos que tengan que ver con eso.
+
+01:20:07,146 --> 01:20:33,946 [speaker_4]
+Eh, dale. Eh, ahora también buscamos cómo refinar la estrate--
+la estrategia para nosotros atar cada uno de los insumos que ustedes nos están compartiendo a un
+
+01:20:33,966 --> 01:20:34,166 [speaker_10]
+Listo, perfecto.
+
+01:20:34,186 --> 01:20:37,026 [speaker_4]
+Entonces, ya, ya afinamos eso como estrategia.
+
+01:20:37,066 --> 01:20:37,246 [speaker_10]
+Ajá.
+
+01:20:37,306 --> 01:20:38,426 [speaker_4]
+Ándale.
+
+01:20:38,466 --> 01:21:18,346 [speaker_10]
+Listo. Para este caso, eh, cuando ya hacen la declaración, le presentan a la DIAN.
+SIACCO coloca este, este documento en el Faisila de ellos, que trae el número de la compañ-- ay,
+
+01:21:18,386 --> 01:21:20,045 [speaker_4]
+Así es.
+
+01:21:20,106 --> 01:21:27,306 [speaker_10]
+Igual, cualquier cosa les identifico bien [tos] el orden. Eeeh, pero creo que es así.
+
+01:21:28,366 --> 01:21:34,726 [speaker_4]
+Eh, pero espérame, espérame un segundito, porque es un web service,
+como para no cambiar la mecánica en la que estamos trabajando.
+
+01:21:34,736 --> 01:21:34,956 [speaker_10]
+Listo, ya va.
+
+01:21:34,986 --> 01:21:36,826 [speaker_4]
+Te piden un archivo-
+
+01:21:36,866 --> 01:21:36,876 [speaker_10]
+Ya voy para allá.
+
+01:21:36,876 --> 01:21:39,366 [speaker_4]
+Pero resulta un web service allí. Dale.
+
+01:21:39,406 --> 01:22:07,146 [speaker_10]
+Sí, ya, ya voy para allá. SIACCO coloca esta información en un SFTP, que es el Faisila de ellos.
+Nosotros desde la S400 no nos podemos conectar directamente a un SFTP. Por ende,
+
+01:22:07,186 --> 01:22:08,146 [speaker_4]
+Mmm.
+
+01:22:08,206 --> 01:23:11,086 [speaker_10]
+El web service lo único que está haciendo acá es moverme el archivo de un lado al otro .
+Para este caso. Como pueden ver, acá no vienen operaciones matemáticas.
+
+01:23:11,106 --> 01:23:13,856 [speaker_4]
+Procesado uno a uno, ¿eso que--? Sí, es lo que dice.
+
+01:23:13,866 --> 01:23:44,606 [speaker_10]
+Sí, sí, procesa uno a uno. El Faisila es-- el web service sí, uno a uno.
+Otra condicional que hemos identificado es que si SIACCO por algún motivo le cambia el nombre a este
+
+01:23:44,766 --> 01:23:49,906 [speaker_4]
+Sí, ¿qué dispara ese web service? ¿Quién, quién es el que lo hace realmente?
+
+01:23:49,926 --> 01:24:08,886 [speaker_10]
+Hay una función, eh, también en ese documento, creo que está ahí, si no te lo confirmo,
+pero ese se va ejecutando, si la memoria no me falla, cada cinco minutos.
+
+01:24:08,946 --> 01:24:14,446 [speaker_4]
+Es decir, eh, ¿el SI sí puede ejecutar servicios?
+
+01:24:14,606 --> 01:24:15,456 [speaker_10]
+Ah, bueno, eh-
+
+01:24:15,456 --> 01:24:17,346 [speaker_4]
+Porque es un web service, ¿no?
+
+01:24:17,426 --> 01:24:33,366 [speaker_10]
+El web service sí, cada cinco minutos se va ejecutando para hacer el traslado del-- de los archivos.
+
+01:24:33,376 --> 01:24:36,696 [speaker_4]
+¿Y eso lo deja en la tabla de proceso del SI?
+
+01:24:36,766 --> 01:24:38,966 [speaker_10]
+Sí, espérame que César iba a decir algo.
+
+01:24:38,986 --> 01:24:48,946 [speaker_8]
+Sí, porque, eh,
+es un documento justamente que nosotros les compartimos también como parte de la arquitectura, eh,
+
+01:24:48,986 --> 01:24:49,166 [speaker_4]
+Mmm.
+
+01:24:49,266 --> 01:25:31,522 [speaker_8]
+Y hace parte de esta integración. Como decía justamente Deisy, nosotros desde el SI, desde el 400,
+no tenemos opciones de sacar información de este SFTP, que es propiedad, eh, de SIACCO. Entonces,
+
+01:25:31,542 --> 01:25:31,802 [speaker_4]
+Mhm.
+
+01:25:31,862 --> 01:25:43,722 [speaker_8]
+Y aquí, aquí es donde nosotros ya podemos hacer esa integración entre, eh, Dynamics y, eh,
+y nuestro, eh, SII a S400.
+
+01:25:43,762 --> 01:25:44,922 [speaker_4]
+Mhm.
+
+01:25:44,962 --> 01:25:47,262 [speaker_8]
+Este es el punto de conexión. No es que-
+
+01:25:47,302 --> 01:25:47,432 [speaker_4]
+Ya.
+
+01:25:47,432 --> 01:26:21,102 [speaker_8]
+El SII exponga o, o, o tenga la capacidad de exponer un web service, no.
+Es este servicio es el que hace ese, esa tarea de pa--
+
+01:26:21,142 --> 01:26:24,242 [speaker_4]
+Sí, sí. Te-tenemos mencionado esa, esa cuestión.
+
+01:26:24,252 --> 01:26:24,272 [speaker_8]
+Ujúm.
+
+01:26:24,282 --> 01:26:39,182 [speaker_4]
+Ya la tenemos. Ahora, ¿qué ocurre cuando se toma el archivo y lo pone en el FileZilla nuestro?
+¿Qué ocurre? ¿En qué, en qué archivo temporal lo cargas y después a qué tablas va a afectar?
+
+01:26:39,282 --> 01:26:42,102 [speaker_8]
+Ahí ya le paso la palabra a Adeys.
+
+01:26:42,202 --> 01:27:31,842 [speaker_10]
+Entonces, ay, den-- denme un segundito. Bueno, les voy a compartir. Nosotros, eh,
+a nosotros se nos genera un archivo. Eh, siempre nosotros manejamos, porque,
+
+01:27:31,902 --> 01:27:34,482 [speaker_4]
+Es decir, tienes un programa, un programa, un programa-
+
+01:27:34,502 --> 01:27:35,351 [speaker_10]
+Sí, es un programa que lo recibe.
+
+01:27:35,351 --> 01:27:41,862 [speaker_4]
+Que toma el temporal y no reali-realiza cálculos, sino que modifica información en otras tablas.
+
+01:27:41,882 --> 01:28:43,631 [speaker_10]
+Mhm. Eh, ah, espérame . Nosotros contamos con estas, con estos job, ¿sí?
+El que hace esto es este job. Este job se ejecuta cada trescientos segundos. Eh, bueno,
+
+01:28:43,642 --> 01:28:43,812 [speaker_4]
+Mmm.
+
+01:28:48,402 --> 01:28:52,962 [speaker_10]
+Ay. Ah, no.
+
+01:28:53,002 --> 01:28:54,822 [speaker_8]
+Ese sí es el DH.
+
+01:28:54,882 --> 01:29:18,282 [speaker_10]
+Sí, lo miré, fue mal. Claro, como está en blanco, entonces me confundí. Entonces, está el sticker,
+eh, la fecha del sticker, la aceptación vendría siendo este, la fecha de la aceptación,
+
+01:29:18,292 --> 01:29:20,482 [speaker_4]
+¿En dónde modifica eso? ¿En qué tabla?
+
+01:29:20,542 --> 01:29:35,761 [speaker_10]
+En la tabla dim H, que es el de las declaraciones. Les voy a colocar una que--
+voy a quitar este bueno, para que vean bien. Nos vamos con una que sí tenga datos.
+
+01:29:35,802 --> 01:29:45,302 [speaker_4]
+Es decir, la tabla de declaraciones es lo que,
+lo que nosotros impulsamos en el proceso y que estábamos pendientes de que llegara la respuesta de
+
+01:29:45,342 --> 01:30:53,642 [speaker_10]
+Sí. Denme un segundo que quiero mostrarles acá.
+Una de las validaciones a tener en cuenta cuando SIACU nos envía la información . Listo, acá.
+
+01:30:54,082 --> 01:30:54,342 [speaker_4]
+Mhm.
+
+01:30:54,352 --> 01:30:54,782 [speaker_10]
+Guía-
+
+01:30:54,802 --> 01:30:54,922 [speaker_4]
+Página.
+
+01:30:54,932 --> 01:31:44,790 [speaker_10]
+Dealer y página . En este caso se actualizan cuatro archivos. Eh,
+cada uno va actualizándose en diferentes... Ah, espérame, espérame, antes de decir una burradita.
+
+01:31:44,800 --> 01:31:44,820 [speaker_11]
+Ujum.
+
+01:31:44,820 --> 01:33:00,310 [speaker_10]
+Cuando SIACO envía la información, nos deja una etapa de ciento treinta.
+Esta etapa ciento treinta se coloca los campos más importantes también es este que es D para
+
+01:33:00,470 --> 01:33:05,020 [speaker_11]
+¿Y esos tres son los posibles valores que va a tener allí, cierto? D, S y cualquier otro.
+
+01:33:05,050 --> 01:33:21,290 [speaker_10]
+No, solo esos dos. Digamos, actualmente solo funcionan esas dos. Si sale D es porque está pendiente,
+digamos, está pendiente por, por procesarlo. Si está en S es porque ya se,
+
+01:33:21,300 --> 01:33:24,130 [speaker_11]
+¿Y si no tiene nada con el, en el caso que está allí?
+
+01:33:24,270 --> 01:34:04,650 [speaker_10]
+No se hace nada con eso. Lo omite. Porque es, digamos, es más como por s-- este,
+este archivo de ciclos, pues no sé si Comex a-actualmente lo, lo revisa para identificar bien eso,
+
+01:34:04,659 --> 01:34:06,230 [speaker_11]
+¿Qué sería consolidar?
+
+01:34:06,310 --> 01:34:16,990 [speaker_10]
+Ajá. Porque procede a hacer una consol-consili-consolidación en cuanto a repuestos,
+que esto es automático, que es un proceso.
+
+01:34:17,010 --> 01:34:24,510 [speaker_11]
+Con esta tabla también trabajan en lo que yo he insistido por ahí de los estados de giro, o sea-
+
+01:34:24,520 --> 01:34:24,640 [speaker_10]
+Ah.
+
+01:34:24,670 --> 01:35:03,050 [speaker_11]
+Los estados de la guía y de las... no, perdón, los estados de las facturas en el SI,
+que es una información muy importante para los señores de Z giros en Dynamics cuando...
+
+01:35:03,060 --> 01:35:03,060 [speaker_10]
+Cierto.
+
+01:35:03,070 --> 01:35:07,170 [speaker_11]
+O sea, GCol, Ser y Alliance. Digamos, co-solo como para tenerlo en cuenta.
+
+01:35:07,230 --> 01:36:04,630 [speaker_10]
+Sí, que eso sí, como es más interno, eh, yo tengo que entregarles como eso, eso más,
+como más al detalle. Claro, yo lo tengo este ciento treinta, pero como dice Ricardo,
+
+01:36:04,650 --> 01:36:12,690 [speaker_11]
+Quiere decir eso que de la información que estás cargando de este web service te lo mueve a una
+tab-- a un S-- a un FTP.
+
+01:36:12,700 --> 01:36:12,700 [speaker_10]
+Ujum.
+
+01:36:12,710 --> 01:36:29,210 [speaker_11]
+Del SI, eso carga una tabla temporal.
+Luego de allí tomas cuatro datos y empiezas a hacer unas operaciones que me vas a terminar de
+
+01:36:29,250 --> 01:36:29,520 [speaker_10]
+Sí.
+
+01:36:29,520 --> 01:36:31,450 [speaker_11]
+¿Sería correcta esa información?
+
+01:36:31,490 --> 01:37:11,910 [speaker_10]
+Sí. Es que es, en este caso vendría siendo el estado de las, de las facturas, pero sí, está bien.
+Y en el proceso en el que se recibe la información de SIACO se actualizan varios archivos.
+
+01:37:12,630 --> 01:37:12,910 [speaker_11]
+Ujum.
+
+01:37:12,970 --> 01:37:20,490 [speaker_10]
+Más claro. Pero sí, así como lo dices, eh, por ahí va.
+
+01:37:38,260 --> 01:37:50,090 [speaker_12]
+Sí, nos quedan quince minutos de la sesión. Eh, les consulto, eh, con esto finalizamos,
+tenemos que reprogramar, van a continuar en esta...
+
+01:37:50,120 --> 01:38:05,500 [speaker_0]
+Yo considero que con esta sesión terminamos. ¿Cierto, Óscar?
+De pronto ya te queda es como validar el, el punto cuarenta y dos también, ¿sí?
+
+01:38:05,620 --> 01:38:51,370 [speaker_4]
+Eeeh, sí, de acuerdo.
+Apenas tengamos esta información por parte de Deisy de lo que tiene que ver con el cargo de,
+
+01:38:51,370 --> 01:38:51,370 [speaker_10]
+Sí, pero-
+
+01:38:51,400 --> 01:38:55,060 [speaker_4]
+¿Se envía un único archivo o, o son dos archivos diferentes?
+
+01:38:56,410 --> 01:39:00,580 [speaker_10]
+Empecemos que son dos procesos diferentes.
+
+01:39:00,600 --> 01:39:00,960 [speaker_4]
+Okey.
+
+01:39:00,980 --> 01:39:24,080 [speaker_10]
+Lo que envía SIACO a,
+a nosotros es un proceso que es la información de la declaración cuando ellos se lo presentan a la
+
+01:39:24,120 --> 01:39:25,180 [speaker_4]
+Mhm.
+
+01:39:25,220 --> 01:40:33,080 [speaker_10]
+Listo. Eh, ya por debajo del programa, bueno, hace otras actualizaciones, pero no hace cálculos.
+El otro proceso se llama cons-cons-consolidar, eeeh, y este es donde hacen los cálculos. Pero no es,
+
+01:40:34,720 --> 01:40:34,729 [speaker_4]
+Ya.
+
+01:40:34,740 --> 01:41:38,789 [speaker_10]
+Pero son dos procesos diferentes. El prorrateo también es, es diferente. Que digamos,
+la opción paraaa-- que vi por el chat que les mostraron de actualizar los datos de la declaración,
+
+01:41:38,840 --> 01:41:40,320 [speaker_12]
+Inspección física, sí.
+
+01:41:40,400 --> 01:42:24,100 [speaker_10]
+Eso, cuando SIACO hace inspección física no envía la,
+la totalidad de la información de todas las declaraciones, sino las envía parcial. Entonces,
+
+01:42:25,120 --> 01:42:46,760 [speaker_4]
+Espérate un segundito que, que estoy un poquito confundido y es, mmm,
+hay un proceso que está pendiente de, de detallar,
+
+01:42:46,820 --> 01:42:47,240 [speaker_10]
+Ajá.
+
+01:42:47,260 --> 01:43:27,300 [speaker_4]
+Luego de esto le vamos a enviar una información a Dynamics, que también necesitamos ese archivo,
+aclarar cuál es el archivo que se genera hoy hacia Dynamics para que Dynamics tenga esa información
+
+01:43:27,320 --> 01:43:27,670 [speaker_10]
+Listo.
+
+01:43:27,700 --> 01:43:28,460 [speaker_4]
+Y estos cálculos son-
+
+01:43:28,470 --> 01:43:29,030 [speaker_10]
+Me parece bien.
+
+01:43:29,060 --> 01:44:09,344 [speaker_4]
+De alguna forma también funcionales,
+también para que te apoyes en el equipo funcional para terminar de aclarar cuáles son las reglas y
+
+01:44:09,404 --> 01:44:28,024 [speaker_10]
+Eso, eso de los nueve, nueve, nueves, incluso es que yo vi los pantallazos en la sesión,
+por eso lo quiero aclarar. Esto es como-- este, esta opción se utiliza antes de poder consolidar.
+
+01:44:28,044 --> 01:44:28,164 [speaker_4]
+Mhm.
+
+01:44:28,244 --> 01:44:43,664 [speaker_10]
+Cuando se entra a consolidar es donde entra diferentes, eeeh, condiciones.
+Y dependiendo de esas condiciones es que ya entra Yily a utilizar la--
+
+01:44:43,704 --> 01:44:46,044 [speaker_4]
+En una pantalla de cambio de valores del-- en la importación.
+
+01:44:46,084 --> 01:45:03,454 [speaker_10]
+Ajá, exacto. Esa opción no siempre se utiliza. Se utiliza para mo-- eh, en cosas mu puntuales,
+digamos, es-- solo hablando de repuestos,
+
+01:45:03,454 --> 01:45:03,454 [speaker_4]
+Ya.
+
+01:45:03,524 --> 01:45:09,224 [speaker_10]
+Uno de esos es que digamos, de esta declara-- mira, de esta declaración-
+
+01:45:09,264 --> 01:45:09,674 [speaker_4]
+Mhm.
+
+01:45:10,484 --> 01:45:42,184 [speaker_10]
+Viene una... Vienen sesenta y nueve-- de esta guía vienen sesenta y nueve declaraciones.
+Y preciso una de estas declaraciones salió para inspección física. Digamos que es esta. Entonces,
+
+01:45:42,204 --> 01:45:52,424 [speaker_4]
+Pero siento que esa pantalla de, de ajustes sobre los valores del, de la declaración ocurre durante,
+durante estos dos procesos que separas. Es decir-
+
+01:45:52,524 --> 01:45:53,274 [speaker_10]
+Ajá, sí.
+
+01:45:53,424 --> 01:46:04,224 [speaker_4]
+Una cosa es lo que vamos cargando de SIACU,
+pero ellos van poniendo allí alguna información y nosotros vemos acá algo que no cuadra,
+
+01:46:04,264 --> 01:46:04,594 [speaker_10]
+Exacto.
+
+01:46:04,624 --> 01:46:13,014 [speaker_4]
+En el sistema y luego se va hasta consolidación.
+Pero incluso en consolidación siento que todavía se realizan modificaciones a través de esa
+
+01:46:13,024 --> 01:46:22,344 [speaker_10]
+No, no, no. Digamos, eh, digamos, quedémonos acá donde SIACU no nos envió la cuatro.
+
+01:46:22,364 --> 01:46:23,264 [speaker_4]
+Mhm.
+
+01:46:23,584 --> 01:46:51,874 [speaker_10]
+Llegó así. Tres y una salta al cinco.
+Aquí en un proceso para que pueda consolidarse y se pueda enviar a Dynamics,
+
+01:46:51,874 --> 01:46:52,884 [speaker_4]
+Mhm.
+
+01:46:53,004 --> 01:46:55,764 [speaker_10]
+Estos nueve, nueve, nueve, nueve, nueve, nueves.
+
+01:46:55,824 --> 01:47:05,844 [speaker_4]
+En el valor de la declaración que previamente fue movida ya hacia, hacia SIACU.
+Pero entonces SIACU tiene una versión de ese dato diferente, ¿no?
+
+01:47:05,964 --> 01:47:55,204 [speaker_10]
+Sí. Digamos, es que como hacen eso de las inspecciones físicas,
+entonces ellos no tienen datos que enviarnos. Entonces, pero acá necesitamos seguir con el ciclo.
+
+01:47:55,224 --> 01:47:55,233 [speaker_4]
+Okey.
+
+01:47:55,244 --> 01:48:41,944 [speaker_10]
+Por eso utilizan esa opción. Que cuando SIACU, eh, vuelve a enviar la información ya completa,
+porque ya le dieron el levante, ya le dieron el sticker,
+
+01:48:45,384 --> 01:49:14,844 [speaker_4]
+Eh, es decir, que cuando ya se-- están todas en, en lo que tú mencionas,
+se pueden consolidar y se pueden enviar a D-Dynamics. ¿Y qué ocurre del lado de este, de este,
+
+01:49:14,864 --> 01:51:18,516 [speaker_10]
+Porque en-- dentro del programa que toma la información que envía SIACU, él entra a validar este,
+esta tabla que se llama LMBD, que es el detalle de las... Que esta ya tiene declaración,
+
+01:51:18,616 --> 01:51:23,436 [speaker_4]
+Eh, cualquiera que no esté en S... Espérate un segundito.
+
+01:51:23,446 --> 01:51:25,916 [speaker_10]
+Sí, tendría que salir en error.
+
+01:51:25,936 --> 01:51:33,716 [speaker_4]
+Tendría que salir en, en error. Y cuando están D, eh, son--
+es que sentí que cuando estaban en D ya estaban listos para parte del proceso.
+
+01:51:33,756 --> 01:51:44,036 [speaker_10]
+Sí, cuando están en D, que es la etapa ciento treinta, eh, y está en D,
+es porque está listo para consolidar. Eso aplica para equipos y para repuestos.
+
+01:51:44,076 --> 01:51:47,076 [speaker_4]
+Y cuando está en S es porque ya se consolidó.
+
+01:51:47,116 --> 01:51:57,505 [speaker_10]
+Ajá. Y no se vuelve a consolidar, no se vuelve a actualizar reporte de la DIAN,
+no se vuelve a enviar información a Dynamics. Na, hasta ahí llegó.
+
+01:51:58,315 --> 01:52:04,456 [speaker_4]
+Quiere decir que cuando está vacío todavía se puede actualizar el dato con lo que fluye de,
+desde SIACU.
+
+01:52:04,556 --> 01:52:48,496 [speaker_10]
+Sí, incluso hay que tener-- bueno, yo creo que es muy importante eso, tener el, el,
+esta tabla de los ciclos, eeeh, porque esto también, pues, bueno,
+
+01:52:48,516 --> 01:53:01,586 [speaker_4]
+Okey. Eh, le,
+le tenemos la generalidad y entendemos dónde inicia y dónde terminan las acciones y necesitamos el
+
+01:53:01,596 --> 01:53:02,416 [speaker_10]
+Claro.
+
+01:53:02,476 --> 01:53:44,256 [speaker_4]
+Solo, solo podemos entender lo, lo mismo que ustedes nos están contando,
+cómo fluye la información y está perfecto.
+
+01:53:44,336 --> 01:53:44,946 [speaker_10]
+Listo.
+
+01:53:45,196 --> 01:53:48,316 [speaker_4]
+Hay que hablarlo ya de forma específica.
+
+01:53:48,936 --> 01:53:50,076 [speaker_10]
+Claro que sí.
+
+01:53:50,116 --> 01:54:06,256 [speaker_4]
+Yo tengo una última consulta acá que, que, que me nace, Deisy. ¿Tú,
+tú tienes manera de visualizar qué, qué tipo de cálculos hace,
+
+01:54:06,355 --> 01:54:19,116 [speaker_10]
+En cuanto a los costos, sí, porque eso está manejado directamente, eh, en los sistemas. Eh,
+pero me toca entrar como tal a revisar el programa.
+
+01:54:19,136 --> 01:54:19,146 [speaker_4]
+Okey.
+
+01:54:19,146 --> 01:54:21,356 [speaker_10]
+Actualmente, lo que yo tengo-
+
+01:54:21,366 --> 01:54:22,356 [speaker_4]
+[interferencia]
+
+01:54:22,456 --> 01:55:04,296 [speaker_10]
+Cuando se hace la consolidación, que es algo que sí, Oscar, eh, se tiene que tener en cuenta,
+no sé si quieran, eh... bueno, que eso va a ser como más al detalle cuando les envíe el documento.
+
+01:55:06,396 --> 01:55:11,556 [speaker_4]
+Sí, nos ayudás a especificar qué es lo que tiene, que cómo debe quedar generado ese, ese archivo.
+
+01:55:11,996 --> 01:55:51,886 [speaker_10]
+Claro que sí. Ese incluso lo tengo en un Excel, pero creo que tengo que acomodarlo mejor.
+Acá hay algo muy importante. Eh, es-este, es-este, esta tabla la vine a utilizar hace poco,
+
+01:55:51,916 --> 01:55:58,396 [speaker_4]
+Esos son los cargos para Dynamics, Deisy. Esos son los cargos como se aplican en Dynamics.
+
+01:55:59,524 --> 01:56:28,764 [speaker_10]
+Muchísimas gracias. Exacto. Y eso se tiene que sostener,
+porque en Dynamics también están categorizados así. Y dependiendo de estos es que, eh,
+
+01:56:29,924 --> 01:56:39,524 [speaker_4]
+Vale, lo mismo. Nos ayudas a entender cuáles son las tablas que nosotros necesitamos modelar,
+de tal manera que tengamos disponible la información para realizar los cálculos.
+
+01:56:39,544 --> 01:56:40,584 [speaker_0]
+Ahí una última-
+
+01:56:40,664 --> 01:57:22,224 [speaker_5]
+En esto-- discúlpame. En esto se hacen dos cosas acá con estos códigos. Y es que: uno, se cargan a,
+a Dynamics en la tabla de costos, en los costos. Y dos,
+
+01:57:22,244 --> 01:57:33,254 [speaker_0]
+Correcto. Lo importante ahí también para tener en cuenta es esa primera columna que tú tienes ahí,
+Deisy, que esos son códigos que vienen desde Dynamics, de, de cargo.
+
+01:57:33,364 --> 01:57:35,544 [speaker_10]
+Son los que hacen match.
+
+01:57:35,644 --> 01:57:44,284 [speaker_0]
+Ajá, correcto. Eso es importante también.
+Me imagino que hay una tabla que llega por ahí por algún lado desde Dynamics con esos cargos.
+
+01:57:45,144 --> 01:57:50,624 [speaker_10]
+No, esa tabla se ha-- actualmente se hace en mantenimiento, Richie.
+
+01:57:50,724 --> 01:57:51,344 [speaker_0]
+Okey.
+
+01:57:51,364 --> 01:58:00,944 [speaker_10]
+Porque no se actualiza. Digamos, cuando hace poco, bueno, hicimos un ajusto-- ajuste para equipos,
+nos tocó colocar los datos Okey.
+
+01:58:00,964 --> 01:58:19,274 [speaker_0]
+¿Me entiendes?
+
+01:58:19,304 --> 01:59:25,044 [speaker_4]
+Sí, sí, sí. Yo te entiendo. Yo te entiendo cómo funciona-
+
+01:59:25,104 --> 01:59:36,624 [speaker_0]
+No lo, no lo vamos a modificar porque lo que nos dice Deisy,
+así está en Dynamics y así lo tiene que recibir. Te diría yo que es algo que tiene que continuar,
+
+01:59:36,644 --> 01:59:36,684 [speaker_5]
+No.
+
+01:59:36,694 --> 01:59:39,864 [speaker_0]
+Que se mire desde otra perspectiva. No sé, Alex.
+
+01:59:39,904 --> 02:00:15,873 [speaker_5]
+Permítanme les aclarar un momento. O sea, lo que tiene Dynamics es el código, pero solo es,
+es el código del tipo de costo que le llegue.
+
+02:00:15,873 --> 02:00:16,493 [speaker_10]
+Exacto.
+
+02:00:16,524 --> 02:00:31,864 [speaker_5]
+Pero la política de, de, de los porcentajes y todo eso lo tiene, lo tiene el SI.
+La absorción de costos y todo lo hace el SI. O sea, Dynamics solo recibe ya lo que calculó el SI.
+
+02:00:34,064 --> 02:01:13,504 [speaker_0]
+No, sí, de acuerdo. Totalmente de acuerdo.
+A lo que yo voy es que a la hora de que se comparta la información al ledger,
+
+02:01:13,524 --> 02:02:26,132 [speaker_4]
+Sí, sí. Eh, es decir, recuerden que nosotros estamos construyendo un nuevo sistema, ¿sí? Entonces,
+en el momento de la migración,
+
+02:02:26,142 --> 02:02:58,512 [speaker_10]
+Listo. Eh, aquí, Óscar. Eh, yo tengo este archivo, tú me dices si de pronto te sirve o no te sirve.
+Así es como está. Obviamente, es-- entraría, no sé cómo, cómo explicarlo. Este es de repuestos, eh,
+
+02:02:58,552 --> 02:02:58,802 [speaker_4]
+Mhm.
+
+02:02:58,812 --> 02:03:48,692 [speaker_10]
+Entonces, eh, me tocaría especificar desde qué archivos, pero acá-- y bueno,
+y también identificarte que lo que lleva W al,
+
+02:03:48,732 --> 02:04:03,712 [speaker_4]
+Desde la semana pasada, lo que te hemos estado mencionando, Deisy,
+es que realmente lo que necesitamos es ponernos de acuerdo,
+
+02:04:03,732 --> 02:04:44,192 [speaker_10]
+Qué pena. Ahí hago una intervención, Óscar. A mí me gustaría,
+pues ya que tengo la licencia ahora sí me puedo poner al día de lo que estoy leyendo. Eh,
+
+02:04:44,232 --> 02:05:19,212 [speaker_4]
+De una.
+Nuestra orientación es que en las historias de usuario quede consignada toda esta información,
+
+02:05:19,312 --> 02:05:19,492 [speaker_10]
+Okey.
+
+02:05:19,532 --> 02:06:15,392 [speaker_4]
+Es decir,
+que todo insumo que tú nos pases lo vamos a volver un texto que se vuelve insumo para que sea
+
+02:06:15,472 --> 02:06:17,172 [speaker_10]
+Okey.
+
+02:06:17,182 --> 02:06:53,992 [speaker_4]
+¿Listo? Y pues claro, ya después el equipo cuando recibe una historia de usuario,
+el equipo de desarrollo, ellos dicen: "Mmm, ¿qué tengo que hacer acá?". Entonces,
+
+02:06:54,072 --> 02:06:54,512 [speaker_10]
+Okey.
+
+02:06:54,532 --> 02:07:06,082 [speaker_4]
+O al contrario: acá venían, eh, treinta. ¿Cuántos llegaron? Cuarenta. Uy, les vamos a decir: "Uy,
+espere. ¿De dónde salieron los otros diez?" ¿Listo?
+
+02:07:06,082 --> 02:07:07,352 [speaker_10]
+Listo.
+
+02:07:07,912 --> 02:08:07,632 [speaker_4]
+Es decir, nos blinda a los dos en el proceso. Entonces, chequéemoslo en la tarde para ver cómo lo,
+lo volvemos algo escrito y algo, algo que podamos nosotros ayudarte a simplificar en esta tarea que,
+
+02:08:09,084 --> 02:08:09,814 [speaker_13]
+Vale, gracias.
+
+02:08:09,814 --> 02:08:10,274 [speaker_14]
+Listo, entendí.
+
+02:08:10,324 --> 02:08:21,204 [speaker_13]
+Eh, team, antes de que todos se retiren, quiero hacer un barrido de los,
+de los compromisos del día de hoy y que todos, eh, tengamos la claridad de los mismos.
+
+02:08:21,224 --> 02:08:21,524 [speaker_14]
+Muy bien.
+
+02:08:21,534 --> 02:08:39,104 [speaker_13]
+Eeeh, tengo el listado de los cuatro requerimientos, pero me surgió la duda,
+según lo que dice Fabián, de que finalmente, eh,
+
+02:08:39,124 --> 02:08:42,704 [speaker_10]
+Pero eso es para el siguiente proceso, que es para consolidar.
+
+02:08:43,804 --> 02:08:58,114 [speaker_14]
+Eh, que quedó acá,
+que quedó en estas historias de us-de usuario de cross docking y quedó como un compromiso de Fabián
+
+02:08:58,624 --> 02:08:58,794 [speaker_10]
+Lo retiramos.
+
+02:08:58,794 --> 02:09:00,244 [speaker_14]
+Quedó lo que nos decía.
+
+02:09:00,304 --> 02:09:01,844 [speaker_13]
+Okey.
+
+02:09:01,924 --> 02:09:04,404 [speaker_14]
+Eh, no, esa era una pregunta. No sé, Deisy-
+
+02:09:04,504 --> 02:09:05,534 [speaker_10]
+Ah, sí. [risas]
+
+02:09:05,534 --> 02:09:17,894 [speaker_14]
+Si continuamos en retirar el compromiso a Fabián o, eh, es decir,
+tú te quedas con el compromiso de definir eso completamente o requieres apoyo funcional para
+
+02:09:19,204 --> 02:09:52,574 [speaker_10]
+Yo considero que sí es bueno que Fabián también esté, porque, digamos,
+yo lo puedo explicar en cómo está actualmente el sistema,
+
+02:09:52,574 --> 02:10:00,504 [speaker_14]
+Pongamos, pongamos como responsables, eh, Óscar entonces, eh, Deisy, Nicolás y Fabián y yo, ¿vale?
+
+02:10:00,524 --> 02:10:01,584 [speaker_13]
+Nicolás...
+
+02:10:01,594 --> 02:10:07,254 [speaker_14]
+Sí, que Nicolás es la persona de, eh, de costos. Entonces, de una vez-
+
+02:10:07,264 --> 02:10:08,144 [speaker_10]
+Sí.
+
+02:10:08,244 --> 02:10:15,274 [speaker_14]
+Eh, Deisy, entre Deisy y yo validamos el tema de los prorrateos y eso,
+y pues Nicolás es el que tiene que definir dónde venga, sí.
+
+02:10:15,524 --> 02:10:15,884 [speaker_10]
+Perfecto. Eeeh-
+
+02:10:15,894 --> 02:10:18,584 [speaker_14]
+Como, como es que se recibe la información.
+
+02:10:18,624 --> 02:10:27,324 [speaker_10]
+Como observación, eh, Fabián, este, este archivo que estoy proyectando ya lo tiene Nicolás. Eh,
+entonces también-
+
+02:10:27,364 --> 02:10:40,344 [speaker_14]
+Dale, si quieres me lo puedes enviar. Yo lo veo acá con, con el equipo, valido,
+porque no sé qué tipo de prorrateos hace, la verdad, los desconozco. Entonces tengo que,
+
+02:10:40,404 --> 02:10:40,594 [speaker_10]
+Okey.
+
+02:10:40,594 --> 02:10:40,994 [speaker_13]
+Perfecto, me da la cero-
+
+02:10:41,004 --> 02:10:55,814 [speaker_14]
+Pero súper, Deisy, donde, donde me valide todo. O sea, qué se está--
+los porcentajes que se prorratean y eso. Y validar ¿por qué?
+
+02:10:55,844 --> 02:10:56,154 [speaker_13]
+Toca buscarlo.
+
+02:10:56,154 --> 02:10:56,644 [speaker_14]
+¿Vale?
+
+02:10:56,684 --> 02:10:59,914 [speaker_10]
+Por eso mismo es importante que estén los de costos.
+
+02:10:59,914 --> 02:11:14,284 [speaker_13]
+Los tres. Listo.
+Ahí dejé entonces a los tres y mi último check es para el requerimiento cuarenta y uno de costeo y
+
+02:11:14,384 --> 02:11:16,584 [speaker_10]
+El de costeo es este.
+
+02:11:16,624 --> 02:11:17,254 [speaker_13]
+Costeo y DRS.
+
+02:11:17,254 --> 02:11:18,744 [speaker_10]
+El de prorratear. Sí.
+
+02:11:18,804 --> 02:11:19,324 [speaker_13]
+Ah, es que está como-
+
+02:11:19,334 --> 02:11:21,004 [speaker_10]
+DR-- el otro no-
+
+02:11:21,064 --> 02:11:22,404 [speaker_13]
+Sale cuarenta y uno.
+
+02:11:22,444 --> 02:11:39,244 [speaker_14]
+Sí, en el cuarenta y uno nos-- sí,
+en el cuarenta y uno nos quedó como que simplemente necesitamos observar cómo se realizó ese cálculo
+
+02:11:40,724 --> 02:11:41,144 [speaker_13]
+Listo.
+
+02:11:41,154 --> 02:11:47,844 [speaker_10]
+Sí, porque esto del prorrateo y costos, eso es consolidación, es el proceso de consolidación.
+
+02:11:47,944 --> 02:11:53,464 [speaker_14]
+Exacto. Y en este, que es cuarenta y uno, queda como una consulta.
+
+02:11:53,564 --> 02:12:01,104 [speaker_13]
+Ah, okey. Listo, perfecto. Ahora sí ya me quedaron claros los, los compromisos.
+Eso era todo de mi parte. Gracias.
+
+02:12:01,124 --> 02:12:29,104 [speaker_14]
+Este es-este sería el requerimiento que en la--
+lo que se volvería una historia de usuario para este, para este requerimiento de usuario.
+
+02:12:29,124 --> 02:12:29,254 [speaker_13]
+Sí.
+
+02:12:29,254 --> 02:12:31,244 [speaker_14]
+¿Lo recibimos hoy?
+
+02:12:31,304 --> 02:12:33,564 [speaker_13]
+Sí, sí, sí, esta tarde se los envío.
+
+02:12:33,644 --> 02:12:55,184 [speaker_14]
+Listo. Y ahí vamos a validar entonces con Deisy y con el equipo.
+Estos son los pendientes para que así mismo ustedes comiencen a, a,
+
+02:12:55,744 --> 02:12:57,044 [speaker_13]
+No, todavía no está. Y-
+
+02:12:57,084 --> 02:12:57,324 [speaker_14]
+Okey.
+
+02:12:57,344 --> 02:13:26,614 [speaker_13]
+No sé si,
+si buscamos un espacio en la tarde para que nos enfoquemos en la estrategia ya de resolución de los
+
+02:13:26,644 --> 02:13:39,144 [speaker_14]
+Y dentro de los pendientes, eh, de clasificación,
+porque pues sabemos que hay pendientes de cross docking,
+
+02:13:39,904 --> 02:13:40,154 [speaker_13]
+Están arancelaria y...
+
+02:13:40,154 --> 02:13:47,004 [speaker_14]
+¿De parte o, o, o...? Porque teníamos un correo, ¿cierto, Kelly?
+
+02:13:47,084 --> 02:13:55,204 [speaker_13]
+Sí, hay dos, dos, dos procesos que ya salieron, sí, que tenían pendientes, que era arancelaria y,
+y liquidación, que es tu proceso.
+
+02:13:55,264 --> 02:13:55,474 [speaker_14]
+Y registros.
+
+02:13:55,484 --> 02:13:59,124 [speaker_13]
+Fabián, que ya quedó todo okey, que tú lo enviaste.
+
+02:13:59,184 --> 02:14:00,004 [speaker_14]
+Sí.
+
+02:14:00,594 --> 02:14:09,323 [speaker_13]
+Ahora saldrían los de cross docking y quedan unos pendientes de arancelaria por parte de Deisy,
+que ya tiene pues la licencia, entiendo que van a hacer ahí estrategia con-
+
+02:14:10,100 --> 02:14:11,840 [speaker_4]
+Claro, estos, estos-
+
+02:14:12,600 --> 02:14:12,610 [speaker_13]
+Con Juan en la tarde.
+
+02:14:12,620 --> 02:15:53,860 [speaker_4]
+Sí, de acuerdo. Y algunos vuelven a ti, Fabián,
+otra vez es porque nosotros en clasificación arancelaria pusimos algunas funcionalidades que ustedes
+
+02:15:53,900 --> 02:16:26,740 [speaker_0]
+Sí, no, te entiendo. Lo que pasa es que hicimos una, unas, eh, hicimos las reuniones,
+se hizo una lista de requerimientos, se dieron respuesta a los requerimientos.
+
+02:16:26,750 --> 02:16:26,790 [speaker_4]
+De acuerdo.
+
+02:16:26,790 --> 02:16:43,610 [speaker_0]
+Fabián. Sí lo entendimos, ya lo, no, lo que teníamos pendiente quedó aclarado.
+Ahora sí lo estamos procesando acá y pues cuando ya tengamos todo el, eh,
+
+02:16:43,640 --> 02:16:43,980 [speaker_4]
+Sí, de acuerdo.
+
+02:16:44,000 --> 02:16:46,760 [speaker_0]
+Pero yo, pero como no tuve una contraparte de ustedes-
+
+02:16:46,800 --> 02:16:47,250 [speaker_4]
+Sí, de acuerdo.
+
+02:16:47,250 --> 02:16:52,980 [speaker_0]
+Entendía yo que lo que les envié es entendible o, o di respuesta a los requerimientos.
+
+02:16:53,020 --> 02:16:53,790 [speaker_4]
+Sí, de acuerdo.
+
+02:16:53,790 --> 02:16:53,910 [speaker_0]
+¿Sí?
+
+02:16:53,910 --> 02:17:30,959 [speaker_4]
+Es como me dices, no te hemos dado respuesta. Sí,
+esperamos darte respuesta hoy validando la información que hemos recibido de Deisy y de la
+
+02:17:31,030 --> 02:17:31,960 [speaker_13]
+Mhm.
+
+02:17:31,970 --> 02:17:32,209 [speaker_4]
+¿Cierto?
+
+02:17:32,240 --> 02:17:39,410 [speaker_0]
+Dale entonces, eh, ¿te parece, Kelly, si la reunión de hoy por la tarde se realiza eso?
+
+02:17:39,500 --> 02:17:39,690 [speaker_13]
+Eh...
+
+02:17:40,020 --> 02:17:42,040 [speaker_0]
+Y así se les da el tiempo para que esto-
+
+02:17:42,080 --> 02:17:42,110 [speaker_13]
+Sigamos.
+
+02:17:42,110 --> 02:17:43,700 [speaker_0]
+¿Seguimos el plan normal?
+
+02:17:43,760 --> 02:17:47,260 [speaker_13]
+Seguimos el plan. A las dos seguimos con la importación de equipos CAT.
+
+02:17:47,320 --> 02:17:47,600 [speaker_0]
+Okey.
+
+02:17:47,660 --> 02:17:49,700 [speaker_13]
+Y nosotros tenemos que revisar-
+
+02:17:49,709 --> 02:17:50,290 [speaker_0]
+De cuatro a cinco.
+
+02:17:50,400 --> 02:17:50,930 [speaker_13]
+Dime.
+
+02:17:50,940 --> 02:17:55,480 [speaker_4]
+No sé si podemos dar de cuatro a cinco, eh, ese espacio para poder-
+
+02:17:55,500 --> 02:17:57,580 [speaker_0]
+Por mi parte no hay ningún problema.
+
+02:18:00,140 --> 02:18:05,780 [speaker_4]
+No sigamos avanzando si,
+si tenemos vacíos en el proceso que tú logras identificar también de nuestra parte.
+
+02:18:05,800 --> 02:18:05,810 [speaker_0]
+Pero...
+
+02:18:05,810 --> 02:18:06,120 [speaker_4]
+Fabián.
+
+02:18:06,140 --> 02:18:11,940 [speaker_0]
+Pero quiero saber si solo So-- es conmigo o, o de pronto con alguien más del, del equipo.
+
+02:18:12,040 --> 02:18:24,860 [speaker_4]
+No, sería contigo y con Deisy, nada más, para ponernos de acuerdo, pues,
+en la información que nosotros estamos omitando en,
+
+02:18:24,880 --> 02:18:25,070 [speaker_0]
+Mhm.
+
+02:18:25,080 --> 02:19:10,040 [speaker_4]
+¿Listo? Para, como lo mencionábamos también a Deisy,
+que ustedes nos envían una información que está agrupada de,
+
+02:19:10,060 --> 02:19:12,440 [speaker_0]
+Okey, listo. Dale, dale. Entonces quedamos-
+
+02:19:12,450 --> 02:19:12,450 [speaker_4]
+Quedamos en la tarde.
+
+02:19:12,450 --> 02:19:15,220 [speaker_0]
+Sí, pero, pues sí, no tengo problema. Si, si a las cuatro.
+
+02:19:15,240 --> 02:19:15,500 [speaker_4]
+Dale.
+
+02:19:15,660 --> 02:19:17,250 [speaker_0]
+No hay problema, ¿vale? Por mi parte.
+
+02:19:17,260 --> 02:19:17,590 [speaker_4]
+Dale, sí.
+
+02:19:17,590 --> 02:19:18,750 [speaker_0]
+Y nos vemos allá.
+
+02:19:18,780 --> 02:19:26,220 [speaker_4]
+Nos vemos esa misma tarde y si estás de acuerdo, pues ese mismo,
+el mismo documento te lo compartimos como borrador para que tú le des un vistazo.
+
+02:19:26,260 --> 02:19:27,980 [speaker_0]
+Dale, dale, claro que sí.
+
+02:19:28,000 --> 02:19:28,920 [speaker_4]
+De una.
+
+02:19:28,960 --> 02:19:29,160 [speaker_0]
+Bueno.
+
+02:19:29,180 --> 02:19:29,479 [speaker_13]
+Vale.
+
+02:19:29,640 --> 02:19:30,730 [speaker_0]
+Muchísimas gracias a todos.
+
+02:19:30,730 --> 02:19:34,020 [speaker_13]
+Nos vemos entonces en las tardes para importación de equipos CAT.
+
+02:19:34,500 --> 02:19:35,010 [speaker_0]
+Gracias.
+
+02:19:35,010 --> 02:19:35,010 [speaker_13]
+Un abrazo.
+
+02:19:35,080 --> 02:19:36,100 [speaker_4]
+Chao, buen día.
+
+02:19:36,160 --> 02:19:36,630 [speaker_0]
+Saludos.
+
+02:19:36,630 --> 02:19:36,630 [speaker_13]
+Chao.
+
+02:19:37,020 --> 02:19:37,730 [speaker_4]
+Hasta luego.
+
+02:19:37,740 --> 02:19:38,740 [speaker_0]
+Chao, chao.
+
+02:19:39,080 --> 02:19:43,440 [speaker_4]
+Gracias.

@@ -1,0 +1,1909 @@
+00:00:02,070 --> 00:00:06,700 [speaker_0]
+Eh, ¿grabación? Todos estamos de acuerdo con la grabación, ¿correcto?
+
+00:00:06,740 --> 00:00:07,780 [speaker_1]
+Sí, de acuerdo. Gracias.
+
+00:00:07,820 --> 00:00:10,060 [speaker_0]
+Vale, empecemos entonces.
+
+00:00:14,180 --> 00:00:30,759 [speaker_1]
+Listo, Anderson. Entonces, la idea es continuar donde quedamos,
+a ver si en esta última sesión podemos finalizar ya el proceso de cross docking,
+
+00:00:30,810 --> 00:00:39,110 [speaker_2]
+¡Ey! Qué, qué pena, Juan, ¿será que me pueden dar un minutico?
+Estoy respondiendo algo superurgente de la aduana y ya, ya me conecto tantito, por favor, qué pena.
+
+00:00:39,140 --> 00:00:40,330 [speaker_1]
+Okey, claro.
+
+00:00:40,360 --> 00:01:20,320 [speaker_2]
+[carraspeo] Listo, he vuelto.
+
+00:01:20,420 --> 00:01:29,540 [speaker_0]
+Eh, bueno, eh, para darle continuidad, eh, al proceso, voy a compartir la pantalla. Por favor,
+me confirman si ya te- me están visualizando.
+
+00:01:30,380 --> 00:01:40,740 [speaker_1]
+Sí, ya. Qued-quedamos en que ya tenemos como la, la, la idea del,
+del proceso de generación individual.
+
+00:01:41,000 --> 00:01:41,180 [speaker_2]
+Okey.
+
+00:01:41,200 --> 00:01:55,220 [speaker_1]
+Ahora vamos a mirar para cerrar el requerimiento número treinta y tres,
+masivamente la generación y el treinta y cuatro como tal, que va dentro del mismo paquete,
+
+00:01:55,280 --> 00:01:56,590 [speaker_0]
+Listo, perfecto.
+
+00:01:56,600 --> 00:01:57,580 [speaker_1]
+Gracias.
+
+00:01:57,620 --> 00:06:08,660 [speaker_0]
+Bueno, [carraspeo] bueno, como les había comentado,
+nosotros tenemos una opción que nos permite generar las guías de manera masiva,
+
+00:06:09,216 --> 00:06:13,016 [speaker_3]
+... es algo más funcional, algo más de ustedes?
+
+00:06:14,816 --> 00:06:47,646 [speaker_0]
+Eh, bueno, pues en el momento que don Jorge nos entregó la herramienta,
+pues él nos explicó y él nos dijo, pues, cómo, cómo se subía y demás. Pero bueno, igual lo,
+
+00:06:49,216 --> 00:07:35,556 [speaker_3]
+En cuanto a los programas que se manejan cuando se sube la información, eh, va dependiendo cómo se,
+se fue explicado que se tenía que hacer el cargo. Si es crear un nuevo archivo, eh,
+
+00:07:37,336 --> 00:08:17,416 [speaker_0]
+Sí, correcto. Entonces, acá en esta parte, digamos, cuando ya tenemos el-- la información en el SI,
+eh, si alguna de las facturas que tenemos acá, eh,
+
+00:08:17,456 --> 00:08:23,736 [speaker_4]
+Sí, perdón, perdón, eh, ¿en dónde estaba la, la consulta?
+
+00:08:23,776 --> 00:08:50,436 [speaker_0]
+Ay, perdón. Por esta opción: consulta de valores de una guía.
+Después de haber generado masivamente la guía, que esto es una opción que se impulsa,
+
+00:08:52,216 --> 00:09:33,516 [speaker_4]
+Vale, y en el paso anterior me quedó la sensación de que cuando daban, eh, en-- ingresan a opción,
+eh, Generación masiva de guías, es porque después de decirle en el Excel, en el complemento,
+
+00:09:33,616 --> 00:09:34,736 [speaker_0]
+Sí, así es.
+
+00:09:34,796 --> 00:09:35,736 [speaker_3]
+Sí, señor-
+
+00:09:35,756 --> 00:09:35,766 [speaker_4]
+¿Sí?
+
+00:09:35,816 --> 00:10:23,676 [speaker_3]
+Exactamente. Eh, ellos hacen el cargue. Eh, normalmente,
+cuando nosotros entregamos alguna opción con el-- para hacer el cargue de estas tablas,
+
+00:10:23,736 --> 00:10:24,476 [speaker_4]
+Okey, y-
+
+00:10:24,496 --> 00:10:57,176 [speaker_0]
+Como para ayudarte ahí a resumir, Óscar, él hace, eh, internamente, no lo, no se visualiza,
+pero él hace toda la consulta de los procesos que estábamos viendo,
+
+00:10:57,536 --> 00:11:09,956 [speaker_4]
+Bien, eh, a aplicar todas las reglas, pero ya ahora es masivo. Entonces, voy a poner acá nota, eh,
+de que esto es lo mismo que el paso anterior, que era-
+
+00:11:09,976 --> 00:11:43,796 [speaker_3]
+Sí, solo que-- sí, solo que como que entra... como en un... sí, como en un, en un do while,
+en donde él comienza a recorrer cada factura, cada guía, si funciona, si no funciona,
+
+00:11:43,876 --> 00:11:51,536 [speaker_4]
+Bueno, entonces este será el compromiso. Por favor, dale una revisión, Deisy,
+para ver si estamos de acuerdo en tomar-
+
+00:11:51,556 --> 00:11:52,546 [speaker_3]
+Claro que sí.
+
+00:11:52,576 --> 00:12:18,336 [speaker_4]
+En que tomamos el compromiso correcto. Eh, y si se vuelve a generar ese, generación,
+valga la redundancia, masiva de guías, ¿qué ocurre? ¿Lo permite hacer? Es decir,
+
+00:12:19,366 --> 00:12:22,466 [speaker_3]
+... Se generaron er- ¿actualiza?
+
+00:12:23,386 --> 00:13:06,686 [speaker_0]
+Sí, digamos, si, no sé, digamos, por ejemplo, eh, ese, ese es el,
+el Excel que siempre me va a arrojar, ¿sí? Así, así lo parametrizaron. Eh,
+
+00:13:09,206 --> 00:13:16,326 [speaker_4]
+Okey, sí, se actualiza, eh, pero se te arroja un nuevo archivo y ya,
+pues tú puedes comparar uno con el otro, ¿cierto?
+
+00:13:16,386 --> 00:13:19,346 [speaker_0]
+Sí, correcto.
+
+00:13:21,306 --> 00:13:29,726 [speaker_4]
+Anderson, ¿y si yo tengo más de un archivo? O sea, si tengo más de un documento Excel para subir,
+¿no pasa o sí puede pasar?
+
+00:13:31,896 --> 00:13:32,806 [speaker_0]
+¿Cómo así? ¿Cómo así?
+
+00:13:33,706 --> 00:13:34,066 [speaker_4]
+Digamos-
+
+00:13:34,186 --> 00:13:34,606 [speaker_0]
+Eh-
+
+00:13:34,616 --> 00:14:05,486 [speaker_4]
+... tú, tú, tú, tú cargas el Excel, un, un archivo, tienes un archivo Excel, listo, lo cargaste.
+Y quieres cargar otro archivo. Digamos que te enviaron otro log el mismo día. Un ejemplo, dijeron--
+
+00:14:06,446 --> 00:14:13,206 [speaker_0]
+Sí, ¿qué pasa si le envías este mismo archivo una segunda vez?
+¿O qué pasa si cargas un archivo nuevo el mismo día?
+
+00:14:13,226 --> 00:14:19,366 [speaker_4]
+Sí, o, ¿o qué pasa si lo cargo m-- otro mañana? O sea, ¿ya no me va a aparecer este?
+
+00:14:19,526 --> 00:15:15,246 [speaker_0]
+Eh, eh, no. O sea, digamos, a ver, eh, por ejemplo, si yo cargo, digamos, acá este archivo, ¿sí?
+Tengo cinco guías acá para generar,
+
+00:15:15,326 --> 00:15:47,326 [speaker_4]
+Eh, déjame tomar un dato, déjame tomar acá un dato técnico entonces, Deisy.
+¿Quiere decir esto que cuando se envía por complementos, el NSI,
+
+00:15:48,506 --> 00:16:55,846 [speaker_3]
+Eh... sí. Es que no le entendí como muy bien la explicación a Anderson, pero como funciona, eh:
+es cuando, bueno, ellos suben el archivo o generalmente, ¿no? Esta parte de,
+
+00:16:56,846 --> 00:16:57,476 [speaker_4]
+Crea una tabla-
+
+00:16:57,506 --> 00:16:58,096 [speaker_3]
+Y la guía se llama.
+
+00:16:58,106 --> 00:17:03,266 [speaker_4]
+Pero mantiene una única versión de tabla llena con los últimos, el último archivo cargado.
+
+00:17:04,146 --> 00:17:29,646 [speaker_3]
+Con el último cargue, sí. Ellos cargan acá, crean-- desde el complementos, ellos crean,
+pues en el SI se llama archivo, ¿no? Se crea un archivo físico, que pues en otros términos,
+
+00:17:29,706 --> 00:17:30,116 [speaker_4]
+Y es-
+
+00:17:30,116 --> 00:17:36,006 [speaker_3]
+Entonces, siempre que se carga, siempre, pues va a estar solo los datos de la última,
+del último cargue.
+
+00:17:36,066 --> 00:17:47,436 [speaker_4]
+Okey, para proyectar el sistema destino, es simplemente que, eh,
+la información que se carga siempre mantiene la última versión de lo que se hubiera enviado.
+
+00:17:48,586 --> 00:17:51,046 [speaker_3]
+Sí, en cuanto al cargue, sí, señor.
+
+00:17:51,546 --> 00:17:52,346 [speaker_4]
+Y de allí-
+
+00:17:52,386 --> 00:17:52,526 [speaker_3]
+Eh-
+
+00:17:52,536 --> 00:18:03,706 [speaker_4]
+... es donde se alimenta el proceso masivo, cuando se hace importar masivo,
+pues se toma de allí lo que hubiera ingresado, lo que encuentre, y arranca el proceso.
+
+00:18:03,786 --> 00:18:11,206 [speaker_3]
+Sí, eh, hace un rato hiciste como la pregunta de que qué pasaba si se cargaban dos veces una guía.
+
+00:18:11,846 --> 00:18:18,766 [speaker_4]
+En este, en este sentido, pues simplemente se sobrescribe y arranca desde cero.
+
+00:18:18,866 --> 00:18:52,360 [speaker_3]
+Eh, ahí es donde yo te quedo debiendo esa-... como esa confirmación del proceso,
+porque para equipos no permite generar la guía. ¿Por qué?
+
+00:18:52,390 --> 00:18:52,520 [speaker_4]
+Ya.
+
+00:18:52,530 --> 00:18:58,710 [speaker_3]
+Pero es algo que yo sí te vo-- te tengo que confirmar más apoyándome en cuanto al código.
+
+00:18:58,770 --> 00:19:01,460 [speaker_4]
+Okey, entonces ese sería el compromiso, que es-
+
+00:19:01,630 --> 00:19:01,800 [speaker_3]
+Sí.
+
+00:19:01,830 --> 00:19:04,010 [speaker_4]
+Definir el proceso de carga masivo con-
+
+00:19:04,070 --> 00:19:04,240 [speaker_3]
+Ajá.
+
+00:19:04,270 --> 00:19:06,570 [speaker_4]
+Facturas, validaciones, reglas-
+
+00:19:06,610 --> 00:19:06,650 [speaker_3]
+Sí.
+
+00:19:06,670 --> 00:19:17,230 [speaker_4]
+Flujos, envío de notificaciones y no se limita a esa descripción, sino a,
+a todo aquello que tú necesitas que nosotros desarrollemos en el sistema destino.
+
+00:19:17,250 --> 00:19:20,670 [speaker_3]
+Listo.
+
+00:19:21,770 --> 00:19:59,710 [speaker_4]
+Gracias. Eh, me queda la, la duda de esa,
+esa pantalla que íbamos a mostrar ahora de consulta valores de una guía,
+
+00:19:59,730 --> 00:20:05,390 [speaker_0]
+Eh, no, digamos, del archivo como tal, de, de las, de las novedades que se presentan cuando-
+
+00:20:05,570 --> 00:20:05,580 [speaker_4]
+Novedades.
+
+00:20:05,580 --> 00:20:54,730 [speaker_0]
+Estamos generando. Eh, no, si acá ya genera la guía y, y tenemos como tal el valor que arroja, eh,
+y los valores, eh, acá se había creado una, una opción que nos consultaría la tabla donde se genera,
+
+00:20:54,740 --> 00:21:00,090 [speaker_4]
+¿Y esto es para qué? ¿Esto es para qué, esta, esta verificación que estás haciendo acá?
+
+00:21:01,810 --> 00:21:10,250 [speaker_0]
+Eh, esto es para nosotros poder, el... dar como la instrucción a la agencia de aduanas, eh, de qué,
+de qué se está generando, ¿sí?
+
+00:21:10,310 --> 00:21:11,890 [speaker_4]
+Okey.
+
+00:21:11,950 --> 00:21:23,390 [speaker_1]
+Sí, esta es como, eh, la última validación, Oscar, que se realiza antes de,
+de entregarle a nuestra agencia de aduanas el proceso para, eh, el, para importación.
+
+00:21:23,890 --> 00:21:24,030 [speaker_4]
+Mhm.
+
+00:21:24,270 --> 00:21:56,930 [speaker_1]
+Entonces, eh, ¿qué se realiza en esa ocasión?
+Pues lo que se hace es verificar que las cantidades sean iguales, o sea,
+
+00:21:58,010 --> 00:22:10,050 [speaker_4]
+Es como una herramienta que solamente les ayuda a cruzar información y mostrarles esa información
+para que ustedes estén tranquilos en que se puede liberar esta parte del proceso, ¿de acuerdo?
+
+00:22:10,090 --> 00:22:25,090 [speaker_1]
+Sí, sí, señor, tal cual. Cuando es una a una, él, él arroja esta misma información, pero pues, eh,
+eh, cuando terminas el paso a paso de una por una. Y masivamente, toca, eh,
+
+00:22:25,250 --> 00:22:34,050 [speaker_4]
+Eh, ¿ese paso a paso terminaba en la opción de impresión declaración de importación?
+Ahí es donde terminaba ese paso a paso de diligenciar-
+
+00:22:34,550 --> 00:22:35,150 [speaker_1]
+Mmm, no.
+
+00:22:35,160 --> 00:22:35,510 [speaker_4]
+¿Cierto?
+
+00:22:35,550 --> 00:22:36,390 [speaker_1]
+Ese, eh, no-
+
+00:22:36,400 --> 00:22:36,400 [speaker_4]
+No.
+
+00:22:36,430 --> 00:22:43,090 [speaker_1]
+Ese paso a paso, primerito, de, de una por una, eh, muestra la pantalla, Anderson, por favor.
+
+00:22:43,170 --> 00:22:45,610 [speaker_4]
+Eh, empecé en generación de una guía-
+
+00:22:45,630 --> 00:22:45,640 [speaker_1]
+Sí.
+
+00:22:45,650 --> 00:22:47,870 [speaker_4]
+Generación de una guía, llené la información-
+
+00:22:48,090 --> 00:22:48,120 [speaker_1]
+Exacto.
+
+00:22:48,120 --> 00:22:50,250 [speaker_4]
+Tomé información de embarcaciones-
+
+00:22:50,550 --> 00:22:50,560 [speaker_1]
+Mhm.
+
+00:22:50,560 --> 00:22:51,910 [speaker_4]
+De transportadoras-
+
+00:22:51,970 --> 00:22:52,140 [speaker_1]
+Sí.
+
+00:22:52,140 --> 00:22:53,710 [speaker_4]
+Y luego tengo por acá-
+
+00:22:53,770 --> 00:22:54,830 [speaker_1]
+Y tú coges-
+
+00:22:55,470 --> 00:22:56,790 [speaker_4]
+El proceso futuro.
+
+00:22:56,830 --> 00:23:03,330 [speaker_1]
+Sí, pasas de esa hoja, pasas de esa pantalla y escoges las facturas Z-noventa y cinco manual.
+
+00:23:03,390 --> 00:23:04,090 [speaker_4]
+Sí.
+
+00:23:04,100 --> 00:23:15,190 [speaker_1]
+¿Sí? Y si quieres, Anderson, nos muestras, por favor, para que puedan visualizar la pantalla.
+En ese caso, tú vas a escoger las facturas que pertenecen, ¿sí?
+
+00:23:15,230 --> 00:23:15,240 [speaker_4]
+Sí.
+
+00:23:15,270 --> 00:23:42,110 [speaker_1]
+Las mismas que va a tener el Excel, digamos, o las que le pertenecen a esa, a ese, a esa embarque,
+esa importación. Las seleccionas, le das Generar y cuando, eh, él genera,
+
+00:23:42,130 --> 00:23:43,030 [speaker_4]
+Bueno, voy ahí.
+
+00:23:43,070 --> 00:23:47,210 [speaker_1]
+Y ahí ya finalizaría la generación de guías.
+
+00:23:47,230 --> 00:23:47,770 [speaker_4]
+Mhm.
+
+00:23:47,810 --> 00:24:02,470 [speaker_1]
+Con ese ul-- con ese último resultado, ¿sí? Con esa ulti-- con ese último resultado, finaliza la,
+la generación de guías, tanto, eh, una por una, generación factura por factura o generación masiva.
+
+00:24:02,490 --> 00:24:06,610 [speaker_4]
+Ya, espérate, que es que siento que hay información diferente.
+
+00:24:06,690 --> 00:24:08,090 [speaker_1]
+Okey, dale, no hay problema.
+
+00:24:08,190 --> 00:24:12,290 [speaker_4]
+Eh, les voy a poner una imagen para poder comparar.
+
+00:24:12,310 --> 00:24:12,500 [speaker_1]
+Dale.
+
+00:24:12,610 --> 00:24:25,270 [speaker_4]
+Esta es la que ustedes finalizan en uno a uno y esta es la que buscan después de que se cargó,
+después del masivo. So, visualmente son dos pantallas diferentes. Entonces-
+
+00:24:25,370 --> 00:24:30,250 [speaker_1]
+Ah, no, Anderson, ¿tú le puedes dar F10 a la, a la de arriba o no puedes? No, no, creo que no.
+
+00:24:30,878 --> 00:24:33,618 [speaker_0]
+... No, porque se me genera y me genera con discrepancia.
+
+00:24:33,678 --> 00:24:33,958 [speaker_4]
+Sí.
+
+00:24:34,018 --> 00:25:13,758 [speaker_0]
+Eh, eh, a ver, como para dar una luz ahí. Eh, cuando nosotros generamos individualmente,
+que es por esta opción, él nos va a arrojar la primera pantalla,
+
+00:25:13,778 --> 00:25:30,798 [speaker_4]
+Pero no, no termino de entender por qué, eh, en el individual llegan hasta un punto más sim--
+como simplificado, y en el, y en el masivo tienen como información agrupada o,
+
+00:25:31,898 --> 00:27:03,058 [speaker_0]
+¿Co-como explicáramos aquí? A ver, mmm, nosotros para poder generar, empecemos así otra vez.
+Para poder generar una guía masiva, nosotros tenemos que tener en cuenta unos parámetros, ¿sí?
+
+00:27:03,068 --> 00:27:03,068 [speaker_4]
+Ya.
+
+00:27:03,098 --> 00:27:05,198 [speaker_0]
+Esta, esta tabla es muy importante.
+
+00:27:05,218 --> 00:27:15,738 [speaker_4]
+Hagamos una pausa acá. Entonces, eh, hasta acá tengo el número de guía y el dealer,
+y esta misma información, ¿es la que me sirve para el masivo?
+
+00:27:17,938 --> 00:27:19,138 [speaker_0]
+Sí, sí, señor.
+
+00:27:19,718 --> 00:27:24,018 [speaker_4]
+O sea, esta tarea la tienes que hacer sí o sí, para el individual o para el masivo.
+
+00:27:24,058 --> 00:27:44,178 [speaker_0]
+Sí, solamente que para el masivo esto ya está parametrizado, aquí yo no lo voy a cambiar nada,
+eso ya queda acá, digamos, con la aduana tres, con X transportadora, X embarcadora, y ya. El,
+
+00:27:44,838 --> 00:27:53,058 [speaker_4]
+Esa parte no, no la entiendo bien, y es cuando, cuando lo haces individual, lo entiendo perfecto,
+porque yo te veo digitando la información.
+
+00:27:53,068 --> 00:27:53,068 [speaker_0]
+Mhm.
+
+00:27:53,098 --> 00:28:04,358 [speaker_4]
+Bueno, pero cuando lo dices masivo, tú me dices que lo traes, que eso ya lo trae, pero no,
+no me lo dejas, no me lo muestras en un e-- en un ejemplo donde yo lo pueda observar.
+
+00:28:04,378 --> 00:28:23,688 [speaker_0]
+Mmm, no lo, no, no se lo voy a poder mostrar, porque ese es un proceso que se corre por, o sea,
+digamos, eh, para nosotros, ac-- desde acá de la operación, no es visible,
+
+00:28:23,698 --> 00:28:24,658 [speaker_3]
+Ahí, ¿si, no?
+
+00:28:24,718 --> 00:28:25,878 [speaker_4]
+Es decir-
+
+00:28:25,938 --> 00:28:34,158 [speaker_3]
+Yo tengo una consulta ahí. Eh, Anderson,
+a ti te dieron una plantilla para subir todas las guías masivas, ¿verdad?
+
+00:28:34,178 --> 00:28:35,438 [speaker_0]
+Sí.
+
+00:28:35,448 --> 00:28:35,898 [speaker_3]
+¿Cuál es?
+
+00:28:36,998 --> 00:28:39,718 [speaker_0]
+Te la muestro.
+
+00:28:39,818 --> 00:28:47,458 [speaker_3]
+Eso es lo que que, entiendo yo, necesita Óscar. La plantilla que tú llenas.
+
+00:28:47,518 --> 00:29:00,138 [speaker_4]
+Es que lo que le entendí hasta este momento a Anderson, es que es lo que el log de,
+de DHL es el que se envía y allí queda una tabla, pero-
+
+00:29:00,158 --> 00:29:00,208 [speaker_0]
+Sí, sí.
+
+00:29:00,218 --> 00:29:07,878 [speaker_4]
+No hay otro elemento, no hay otro elemento adicional que hayamos visto que se cargue. [carraspeo]
+
+00:29:07,978 --> 00:29:26,658 [speaker_3]
+Eh, Anderson, ¿me puedes hacer el favor de hacer el ejercicio,
+de hacer el cargue de la información y me regalas el...
+
+00:29:27,498 --> 00:29:33,658 [speaker_0]
+A ver. Entonces, acá vamos a Complementos.
+
+00:29:34,618 --> 00:29:38,438 [speaker_4]
+Es decir, sigue siendo el un-- el mismo archivo, un único archivo, cierto.
+
+00:29:38,458 --> 00:30:20,598 [speaker_0]
+Sí, digamos que, digamos que don Jorge, en algún momento, él nos dijo: "Obviamente, este archivo,
+eh, debe tener algunos parámetros para poderlo-- para que el SAI lo pueda leer".
+
+00:30:21,098 --> 00:30:22,658 [speaker_4]
+Vale, eh, lo importante-
+
+00:30:22,958 --> 00:30:23,068 [speaker_0]
+Disculpe.
+
+00:30:23,078 --> 00:31:11,038 [speaker_4]
+Lo importante aquí es que a nosotros nos quede claro en un,
+en un compromiso que ustedes puedan aquí con nosotros, de contarnos.... ¿cuál sería el insumo?
+
+00:31:11,058 --> 00:31:11,168 [speaker_1]
+Total.
+
+00:31:11,168 --> 00:31:12,988 [speaker_4]
+Nos la dejan saber.
+
+00:31:12,998 --> 00:31:53,018 [speaker_1]
+Totalmente de acuerdo, Óscar. Eh, esto va ligado al requerimiento que, que,
+que iniciamos cuando empezamos con Cross Docking del archivo de, de DHL. ¿Sí? Es,
+
+00:31:53,038 --> 00:31:57,018 [speaker_4]
+Okey, eh, entonces te voy a generar ese, ese compromiso.
+
+00:31:57,058 --> 00:32:34,118 [speaker_1]
+Sí, yo de igual manera estaba por allá en el, en el uno, entonces... Si, si seguimos sobre el mismo,
+no hay problema, y los, y los unimos. Aquí lo importante era de pronto mirar cómo,
+
+00:32:34,358 --> 00:33:34,368 [speaker_4]
+Vale, gracias. Eh, aquí te pongo, sí. Voy a corregir aquí uno en que le puse-
+que pusimos para Deisy. Tengo un error allí en... Por favor, me ayudan a estar pendientes todos. Eh,
+
+00:33:35,938 --> 00:33:46,018 [speaker_3]
+Eh, yo quiero intervenir ahí un momentico. Anderson,
+¿me regalas el nombre del archivo con el cual tú subes este Excel? Que me gustaría revisar algo.
+
+00:33:46,028 --> 00:33:50,278 [speaker_1]
+¿El nombre del archivo, este?
+
+00:33:50,358 --> 00:33:59,398 [speaker_3]
+Sí, ustedes cuando hacen el complemento, sin importar, les piden una librería y un archivo.
+¿Cuál es?
+
+00:33:59,598 --> 00:34:18,958 [speaker_1]
+Deisy, la verdad, se... No lo recuerdo. Sé que don Jorge nos lo compartió en algún momento,
+pero me tocaría buscarlo para que lo puedas mirar. Sí sé que es una librería para subirlo y...
+
+00:34:18,968 --> 00:34:19,378 [speaker_3]
+Okey.
+
+00:34:19,758 --> 00:34:30,378 [speaker_1]
+Listos, eh... No sé si tengan alguna otra pregunta acerca de el proceso de generación de las guías.
+
+00:34:32,478 --> 00:34:57,618 [speaker_4]
+Eh, no, no tenemos dudas en este momento,
+porque todavía tiene bastantes temas abiertos para poderlo resolver, ¿listo? O sea, las dudas,
+
+00:34:57,638 --> 00:35:01,377 [speaker_1]
+Listos. Vale, podemos continuar con lo siguiente, ¿sí?
+
+00:35:02,738 --> 00:35:04,018 [speaker_4]
+De acuerdo.
+
+00:35:04,058 --> 00:35:22,958 [speaker_1]
+Entonces, ahora sí viene el requerimiento treinta y uno, es parcializar guía.
+Entonces ya sabemos cómo se genera. Ahora vamos a mirar cómo se parcializa una guía.
+
+00:35:22,978 --> 00:35:27,998 [speaker_0]
+Qué, qué pena, eh, ¿no íbamos a ver primero el de los errores que arroja cuando generamos la guía?
+
+00:35:28,008 --> 00:35:33,438 [speaker_1]
+¡Ah! Perdóname, sí, sí, sí, sí, sí, que era, que era conjunto. Sí, discúlpame. Dale, dale, dale.
+
+00:35:33,498 --> 00:35:47,098 [speaker_4]
+Eh, porque yo lo había tomado como cerrado,
+porque en el treinta y cuatro dijimos que se enviaron unos errores y lo tomé como ese Excel que
+
+00:35:47,138 --> 00:35:48,628 [speaker_1]
+Pero uno es ese, uno es ese.
+
+00:35:48,678 --> 00:35:49,858 [speaker_4]
+Ah, uno es ese.
+
+00:35:49,938 --> 00:35:53,698 [speaker_1]
+Uno es ese. Y Anderson, ¿los otros errores son los de licencias?
+
+00:35:53,738 --> 00:35:54,338 [speaker_0]
+Sí-
+
+00:35:54,398 --> 00:35:54,487 [speaker_1]
+Eso.
+
+00:35:54,558 --> 00:37:09,822 [speaker_0]
+Sí, eh, resulta que cuando nosotros ejecutamos esta,
+esta opción para generar la guía y por X o Y motivo, una licen-- un, una referencia que neces--
+
+00:37:10,682 --> 00:37:14,682 [speaker_5]
+Eh, ahí hay que tener en cuenta que son muchos errores.
+
+00:37:15,802 --> 00:37:17,162 [speaker_0]
+Sí, son-
+
+00:37:17,202 --> 00:37:28,802 [speaker_5]
+No solo, [carraspeo] no solo que licencia, también puede ser que el país de origen no existe,
+los que me acuerde, eh... posición arancelaria no existe-
+
+00:37:28,822 --> 00:37:29,302 [speaker_0]
+BTN.
+
+00:37:29,322 --> 00:38:04,302 [speaker_5]
+Eso creo que, eso creo que por programa también está por allá en algún lado, todos esos errores.
+Ahí me ayudas, Deisy, si estoy diciendo mentiras. Eso por programa me imagino que tiene:
+
+00:38:06,462 --> 00:38:49,901 [speaker_0]
+Correcto. [carraspeo] Digamos que a modo de ejemplo, eh, está este, eh, que se,
+que se refleja cuando una referencia, mmm, está sin saldo, es decir, que se,
+
+00:38:51,262 --> 00:38:53,742 [speaker_4]
+Ya, durante esta mecánica.
+
+00:38:55,482 --> 00:38:57,242 [speaker_0]
+Dale, dale, dale, Óscar, dale.
+
+00:38:57,262 --> 00:39:11,302 [speaker_4]
+Sí, solo porque ha-hablamos de que íbamos a observar los errores,
+pero estoy sintiendo de que todos esos errores se envían por correo en un formato como este?
+
+00:39:11,322 --> 00:39:15,022 [speaker_0]
+Se toman desde acá de la pantalla del AS400, digamos, acá.
+
+00:39:15,042 --> 00:39:15,262 [speaker_4]
+Ya.
+
+00:39:15,402 --> 00:39:19,802 [speaker_0]
+Y puedes tomarla y notificarla, digamos, yo la copio acá y la, y la notifico vía correo.
+
+00:39:19,811 --> 00:39:30,002 [speaker_4]
+Ah, okey. O sea que sí es, es donde dice: "Display Spooled File". Ese es, ¿cierto?
+Sistema general de información, el paro, eh, al spool donde tú entraste.
+
+00:39:30,042 --> 00:39:31,282 [speaker_0]
+Mhm, correcto.
+
+00:39:31,352 --> 00:39:36,362 [speaker_4]
+Listo, de allí tomas, tomas el dato, copias y luego lo envías por correo.
+
+00:39:37,802 --> 00:39:39,262 [speaker_0]
+Es correcto.
+
+00:39:39,282 --> 00:39:49,702 [speaker_4]
+Entonces,
+este es lo que se consideraría como la descripción de los errores después de la carga masiva, ¿sí?
+
+00:39:49,762 --> 00:39:54,811 [speaker_0]
+Sí, sí, señor. Eh, carga masiva y carga individual, generación masiva o generación individual.
+
+00:39:54,822 --> 00:39:56,122 [speaker_4]
+Ah, ahí están todos.
+
+00:39:56,162 --> 00:39:58,262 [speaker_0]
+Sí.
+
+00:39:58,922 --> 00:40:00,922 [speaker_4]
+Listo, de este nos faltaría-
+
+00:40:00,982 --> 00:40:47,802 [speaker_5]
+Ahí ya toca es para validar qué marcas tiene para reconocer esos errores, que es lo que dice, eh,
+Ricardo, ¿vale? Eh, nos comenta que puede que no salga solamente, eh, un error por alguna situación,
+
+00:40:47,862 --> 00:41:41,292 [speaker_4]
+Aquí te queda entonces un compromi-compromiso, Deisy,
+que es la descripción del proceso de identificación de errores. De todas maneras, a,
+
+00:41:41,302 --> 00:41:41,552 [speaker_0]
+Claro.
+
+00:41:41,552 --> 00:41:41,882 [speaker_3]
+A mí-
+
+00:41:41,922 --> 00:41:57,862 [speaker_5]
+Sí, para nosotros en la operación es muy-- perdóname.
+Para nosotros en la operación es muy importante saber, porque no conocemos a fondo el,
+
+00:41:57,922 --> 00:41:59,482 [speaker_4]
+Okey.
+
+00:41:59,582 --> 00:42:54,482 [speaker_3]
+Eh, yo quiero alzar aquí la mano en cuanto para Eder y Anderson.
+Ustedes son los que han estado como en el proceso de recibir todas estas alertas de los errores,
+
+00:42:56,002 --> 00:43:22,022 [speaker_1]
+Creo que el apoyo ha estado, eh, desde que iniciamos, Deisy, eh, hemos estado dando el apoyo. Eh,
+habrán cosas que de pronto no sabemos, son totalmente del sistema, entonces en esas, eh,
+
+00:43:22,032 --> 00:43:22,082 [speaker_3]
+Uhum.
+
+00:43:22,102 --> 00:43:24,001 [speaker_1]
+eh, u-usuales.
+
+00:43:24,062 --> 00:43:25,482 [speaker_3]
+Claro que sí, te entiendo.
+
+00:43:25,502 --> 00:43:42,822 [speaker_1]
+Entonces, eh, en las validaciones, pienso yo, porque lo desconozco,
+que tú llegues a hacer en el sistema, te debe salir y decir: si no tiene un país de origen,
+
+00:43:42,832 --> 00:43:46,662 [speaker_3]
+Claro que sí, eso ya... Yo entro a especificarlo y a notificárselo a Óscar.
+
+00:43:46,682 --> 00:43:48,152 [speaker_1]
+Nosotros acá podemos decir-
+
+00:43:48,152 --> 00:44:15,962 [speaker_3]
+Pero entiendo que ustedes también pueden decir: sale el error, los que tú acabas de decir, el error,
+porque no existe país, el error, porque no está relacionada a una licencia,
+
+00:44:15,982 --> 00:44:15,992 [speaker_1]
+Pero, pero-
+
+00:44:16,002 --> 00:44:17,372 [speaker_3]
+en conjunto y no solo yo.
+
+00:44:17,842 --> 00:44:37,002 [speaker_1]
+Tú lo estás diciendo en conjunto. Nosotros estamos, eh, como tal, reportando y,
+y documentando lo que necesitamos, ¿sí? Entonces, también es muy importante saber de dónde viene,
+
+00:44:37,082 --> 00:44:37,462 [speaker_3]
+Okey.
+
+00:44:37,482 --> 00:46:04,582 [speaker_4]
+Listo. Bueno, y solo para ta- también terminar de cerrar esta conversación,
+es que cuando nosotros entregamos las historias de usuario,
+
+00:46:06,862 --> 00:46:08,002 [speaker_1]
+Listos.
+
+00:46:08,012 --> 00:46:08,012 [speaker_4]
+¿Listo?
+
+00:46:09,062 --> 00:46:09,182 [speaker_1]
+Perfecto.
+
+00:46:09,202 --> 00:46:14,502 [speaker_4]
+Continuamos entonces, queda ahí ese otro compromiso que quedó en el chat.
+
+00:46:15,942 --> 00:46:27,622 [speaker_1]
+Dale, Óscar, gracias. Ahora sí,
+daríamos como tal por final el requerimiento número treinta y cuatro, ¿sí?
+
+00:46:27,642 --> 00:46:29,692 [speaker_4]
+Eh, sí, explicación funcional-
+
+00:46:29,722 --> 00:46:29,812 [speaker_1]
+Dale.
+
+00:46:29,822 --> 00:46:32,942 [speaker_4]
+Entendido. Entendido lo que está allí.
+
+00:46:32,982 --> 00:46:38,902 [speaker_1]
+Okey, ahora sí, Anderson, por favor, pasemos al siguiente punto, que son las parcializaciones.
+
+00:46:38,962 --> 00:46:41,762 [speaker_4]
+Eh, perdón, una sola pregunta antes de cerrar eso.
+
+00:46:41,782 --> 00:46:42,142 [speaker_1]
+Sí, dale.
+
+00:46:42,182 --> 00:47:01,972 [speaker_4]
+Ustedes están identificando los errores porque necesitan corregirlos.
+Esa corrección ¿la vamos a ver en otro proceso?
+
+00:47:01,982 --> 00:47:32,552 [speaker_1]
+Sí, ejemplo, el de las licencias. El error que, que, que acaba de, de, de mostrarnos Anderson,
+que era, por ejemplo, el saldo de licencias. Ese error se soluciona subiendo, eh,
+
+00:47:32,602 --> 00:47:37,012 [speaker_4]
+Que eso, eh, no, eh, de pronto se me mezcla con otra cita.
+
+00:47:37,062 --> 00:47:38,862 [speaker_1]
+No te preocupes, dale, sí, tranquilo.
+
+00:47:38,902 --> 00:48:03,462 [speaker_4]
+¿Lo mostramos otra vez? Eh, es decir, por cada error, si ustedes necesitan una herramienta,
+lo voy a decir de otra forma,
+
+00:48:03,482 --> 00:48:04,722 [speaker_1]
+La solución del error.
+
+00:48:04,792 --> 00:48:33,642 [speaker_4]
+La solución del error. Mira, yo quiero una pantalla donde yo aquí, de pacaso, nada,
+solucionar el error. No, te-- yo, desde el punto donde estoy observando el error,
+
+00:48:33,652 --> 00:48:34,292 [speaker_1]
+Claro, si quieres-
+
+00:48:34,292 --> 00:48:35,782 [speaker_4]
+Entonces, también eso lo dicen allí.
+
+00:48:35,802 --> 00:48:47,102 [speaker_1]
+Dejámolo, eh, dejámolo ahí como un requerimiento. Yo, yo lo valido,
+yo valido los errores más comunes que,
+
+00:48:47,122 --> 00:49:15,994 [speaker_4]
+De acuerdo, los que no determines, ya sabes, tienen, tienen como el mismo destino,
+no lo vamos a poder desarrollar.... Dale, claro que sí. Entonces, eh,
+
+00:49:17,774 --> 00:49:19,254 [speaker_1]
+[carraspeo] En el spool? Sí.
+
+00:49:19,334 --> 00:49:27,744 [speaker_4]
+Eh, no, no, cuando, cuando entres a la pantalla donde corriges uno de estos problemas.
+
+00:49:27,754 --> 00:49:29,674 [speaker_1]
+Eh, ¿cómo así? Espérate, no entendí.
+
+00:49:29,714 --> 00:49:29,774 [speaker_4]
+Sí-
+
+00:49:29,784 --> 00:49:32,454 [speaker_1]
+O sea, cuando ya se solucionó el problema. Sí-
+
+00:49:32,474 --> 00:49:32,484 [speaker_4]
+Sí.
+
+00:49:32,494 --> 00:49:42,154 [speaker_1]
+Si ya se soluciona. Si, digamos, por ejemplo,
+ya le asignaron una licencia aprobada a la referencia que teníamos pendiente por saldo y ya puedo
+
+00:49:42,194 --> 00:49:46,394 [speaker_4]
+No, no. Eh, tú estabas viendo en el spool los errores, ¿de acuerdo?
+
+00:49:46,454 --> 00:49:47,574 [speaker_1]
+Ajá.
+
+00:49:47,614 --> 00:49:51,194 [speaker_4]
+Copiaste eso y se lo enviaste por el correo a alguien.
+
+00:49:51,294 --> 00:49:52,214 [speaker_1]
+Ah, okey, eso.
+
+00:49:52,274 --> 00:50:15,434 [speaker_4]
+Sí, y esa persona, uno de esos errores, ¿tú tienes claro por dónde en el SI se soluciona?
+O por dónde, o por dónde en el,
+
+00:50:15,474 --> 00:50:29,964 [speaker_1]
+Okey, el-- bueno, bueno, después de nosotros haber notificado esta, esta, esta, esta, este error,
+eh, el, el, la persona que debe hacer la solicitud a la, a la UC, pues él lo que hace es radicar,
+
+00:50:30,034 --> 00:50:30,044 [speaker_4]
+Ajá
+
+00:50:30,044 --> 00:50:31,184 [speaker_1]
+... de licencia.
+
+00:50:31,234 --> 00:50:31,474 [speaker_4]
+Ya.
+
+00:50:31,484 --> 00:50:44,194 [speaker_1]
+Y bueno, ya cuando la aprueban, le van a dar un número de radicado, ¿sí? Le van a dar un número de,
+de, de licencia con una fecha y lo que van a hacer es subirlo por, por esta opción:
+
+00:50:44,234 --> 00:50:50,634 [speaker_4]
+Listo, pero para que no me quede tan genérico, ya, ya, ya recuerdo entonces la pantalla. Sí,
+sí lo recuerdo. Pero-
+
+00:50:50,694 --> 00:50:51,184 [speaker_1]
+Sí.
+
+00:50:51,214 --> 00:51:09,184 [speaker_4]
+Pero lo que me queda faltando es cómo-- cuál es ese error, no sé si lo tienen por ahí,
+alguno que esté relacionado a las licencias, donde yo pueda observar: "Ah, claro, mira, este error,
+
+00:51:09,184 --> 00:51:27,494 [speaker_1]
+Espérate, voy a mostrar acá rápidamente.
+El error que compartió Anderson es el error que le genera el sistema y lo arroja por medio de un
+
+00:51:27,554 --> 00:51:29,534 [speaker_4]
+Ya. Sí, ya tengo ese correo-
+
+00:51:29,554 --> 00:51:29,563 [speaker_1]
+Exactamente.
+
+00:51:29,574 --> 00:51:33,814 [speaker_4]
+Pero este, este, este error, ¿es de licencias?
+
+00:51:33,874 --> 00:51:38,314 [speaker_1]
+Sí, este error es de licencias. Este que, que estamos hablando puntualmente es de licencias,
+¿listos?
+
+00:51:38,354 --> 00:51:39,194 [speaker_4]
+Espérate, a ver-
+
+00:51:39,234 --> 00:51:42,634 [speaker_1]
+El, el, aquí nos, nos indica, eh, la referencia-
+
+00:51:42,674 --> 00:51:42,684 [speaker_4]
+Ajá
+
+00:51:42,684 --> 00:52:52,654 [speaker_1]
+... la orden, la factura, el VTN y, y el motivo, y el motivo. Listos.
+La idea es que esta referencia tenga una licencia, eh, activa, ¿sí? Y que esté, eh, vigente.
+
+00:52:52,664 --> 00:52:52,764 [speaker_4]
+Ya.
+
+00:52:52,774 --> 00:53:33,294 [speaker_1]
+Esa, esa es como la, la, la forma de solucionar, eh, este error, el de saldos o vencimiento,
+o referencia sin licencia. Se pueden dar esos tres casos para, eh,
+
+00:53:33,334 --> 00:53:34,784 [speaker_4]
+Ya, espérame un momentito.
+
+00:53:37,374 --> 00:53:52,154 [speaker_1]
+Eh, ¡ah, bueno! Teníamos pendiente, creo que por allá en el--
+cuando miramos registros y importaciones, si no estoy mal en, en lo que tú llevabas allá, el,
+
+00:53:52,164 --> 00:53:52,384 [speaker_4]
+Sí.
+
+00:53:52,534 --> 00:53:53,064 [speaker_1]
+La memoria.
+
+00:53:53,064 --> 00:54:08,474 [speaker_4]
+Aquí lo tengo. Te voy a enviar. Este, que era todo lo que está en la parte de abajo.
+Corrección de los cinco campos, era una cosa que estaba faltando.
+
+00:54:08,494 --> 00:54:19,634 [speaker_1]
+No, los cinco campos ahí no, no, no entran. Enton-- es este, que este, el ejemplo sin licencia,
+se soluciona acá. Ese, ese, tal cual. Listos, entonces-
+
+00:54:19,734 --> 00:54:20,594 [speaker_4]
+Este-
+
+00:54:20,604 --> 00:54:27,894 [speaker_1]
+Este, la so-- la solución de es, de este error se conecta con lo que acabamos de ver.
+¿Y cómo se genera ese error? Con la generación-
+
+00:54:27,904 --> 00:54:27,904 [speaker_4]
+Mhm
+
+00:54:27,904 --> 00:54:29,754 [speaker_1]
+... que hace Anderson. Esa es la conexión.
+
+00:54:29,764 --> 00:54:38,774 [speaker_4]
+O sea que po- puedo ampliar el de los errores, a decir que el de los cinco campos y también,
+por ejemplo, licencias, sin licencias.
+
+00:54:38,814 --> 00:54:44,084 [speaker_1]
+Bueno, el de los cinco campos sí es como otra generación de error que no se evidencia de esa manera,
+si no estoy mal.
+
+00:54:44,084 --> 00:54:57,646 [speaker_4]
+Ah, entonces, entonces no sé, no sé dónde ponerlo, dónde poner esa corrección,
+si en el diagrama lo va a actualizar?... No, no lo que se dice entonces, cierto? Como-
+
+00:54:58,166 --> 00:55:10,586 [speaker_1]
+El de los cinco, no, el de los cinco campos no, no, no entra acá. El de...
+esta que estoy proyectando, sí, que fue lo que, eh, vimos en el-
+
+00:55:10,606 --> 00:55:10,696 [speaker_4]
+Ah, sí.
+
+00:55:10,696 --> 00:55:11,925 [speaker_1]
+En los procesos de registros.
+
+00:55:11,946 --> 00:55:12,086 [speaker_4]
+Sí.
+
+00:55:12,326 --> 00:55:13,616 [speaker_1]
+Acá, acá sí.
+
+00:55:13,626 --> 00:55:20,366 [speaker_4]
+Es diferente al otro proceso que vimos entonces. O sea, que sí es una corrección,
+pero no es la misma corrección que está el otro proceso que vimos hace un rato.
+
+00:55:20,406 --> 00:55:25,256 [speaker_1]
+Sí, no, no, no. No, no, no, no tiene nada que ver.
+
+00:55:25,326 --> 00:55:27,626 [speaker_4]
+Son dos diferentes. Entonces, si no lo-
+
+00:55:27,646 --> 00:56:39,106 [speaker_1]
+Incluso, incluso de pronto los errores de cinco campos se generan mucho antes de la generación,
+entonces no es, no es en esa instancia. En la generación, mapeados, así en este momento,
+
+00:56:39,186 --> 00:56:53,665 [speaker_4]
+Sí, sí, sí, que hasta acá llegaría también otro error, aparte del sin licencia,
+allí llegaría ese otro. Y también tendría un mecanismo de, de resolución,
+
+00:56:54,456 --> 00:57:45,186 [speaker_1]
+Sí, y la idea es que en este momento se tienen que resolver todos los errores que, que,
+que lleguen a contener. O sea, a- aquí en esta instancia, ya el proceso tiene que llegar limpio,
+
+00:57:47,686 --> 01:00:33,366 [speaker_6]
+Digamos, para complementar lo que habían dicho,
+cada error que sale antes de hacer el embarque es por detrás.
+
+01:00:35,006 --> 01:00:43,106 [speaker_4]
+De acuerdo, hasta el punto en el que estamos, solamente hemos cargado información y validado.
+Todavía no la estamos utilizando, ¿cierto?
+
+01:00:43,526 --> 01:00:49,596 [speaker_6]
+Mmm, sí, hemos estado... bueno, pues en el ejemplo que yo puse, ya me dejó hacer el embarque, ¿no?
+Ya al final.
+
+01:00:49,606 --> 01:01:01,586 [speaker_4]
+Exacto, exacto. Lo digo por eso, porque tú estás mencionando otra parte de proceso que,
+que siento yo que todavía no hemos explorado en detalle, que es:
+
+01:01:05,270 --> 01:01:22,270 [speaker_0]
+... Sí, digamos, pueden salir, eh, otros errores que, pues que ya han nombrado varios ahí,
+y si se corrigen todos con cada tabla que respectiva,
+
+01:01:22,330 --> 01:01:22,730 [speaker_4]
+Ujum.
+
+01:01:22,750 --> 01:01:30,210 [speaker_0]
+Entonces, él va y valida que tenía este error, entonces, eh, o le faltó algo de la posición,
+lo que decíamos ahorita.
+
+01:01:30,220 --> 01:01:30,220 [speaker_4]
+Sí.
+
+01:01:30,250 --> 01:02:02,650 [speaker_0]
+Él va y valida en cada tabla que esté vigente, que, que exista el país,
+que exista la posición arancelaria. Eso es lo que nos tiene que decir el,
+
+01:02:02,670 --> 01:02:19,230 [speaker_4]
+De acuerdo, completa. Voy a parar allí. Y es: hasta que yo no salga de este ciclo de corrección,
+de carga, corrección, ir a otros lugares del sistema para,
+
+01:02:19,270 --> 01:02:20,650 [speaker_0]
+Correcto.
+
+01:02:20,730 --> 01:03:33,470 [speaker_4]
+Listo. Bueno, entonces actualicé el compromiso de la identificación de errores.
+Quedó ya a cargo de Fabián y Deisy, para que también le, le den esa, esa...
+
+01:03:46,210 --> 01:03:53,630 [speaker_5]
+Listoso, Óscar, entonces, eh, continuamos con parcializar guía.
+
+01:03:53,650 --> 01:03:55,540 [speaker_4]
+Requerimiento treinta y uno.
+
+01:03:55,550 --> 01:03:56,890 [speaker_5]
+Correcto.
+
+01:03:59,070 --> 01:03:59,970 [speaker_4]
+Gracias.
+
+01:03:59,990 --> 01:04:03,990 [speaker_5]
+Anderson, nos ayudas, porfa.
+
+01:04:04,010 --> 01:06:38,740 [speaker_0]
+Bueno, listo. Entonces, para validar ya el requerimiento treinta y uno, es parcializar una guía.
+Nosotros, bueno, dice: el sistema tiene la capacidad de generar documentos de transporte parciales,
+
+01:06:38,750 --> 01:06:47,890 [speaker_7]
+No, ni con el micrófono arriba. Perdón, [risas] me subo el micrófono. Eh, sí, Anderson,
+yo te ayudo a, a dejar todo como estaba.
+
+01:06:47,910 --> 01:06:49,810 [speaker_0]
+Listo, vale, perfecto. Entonces-
+
+01:06:49,850 --> 01:06:56,580 [speaker_7]
+Me envías los datos por acá, que pena,
+me envías los datos de la guía original y cómo queda la guía ahí.
+
+01:06:57,230 --> 01:06:57,380 [speaker_0]
+Vale.
+
+01:06:57,410 --> 01:06:59,130 [speaker_7]
+Ya lo otro lo hago.
+
+01:06:59,140 --> 01:08:49,934 [speaker_0]
+Listo. Entonces, retomando acá. [carraspeo] Bueno, el... vamos a ingresar por la opción de parcia--
+de nacionalizar es parciales, parcializar y-... vamos a colocar la guía,
+
+01:08:49,954 --> 01:08:54,684 [speaker_4]
+[carraspeo]
+
+01:08:54,734 --> 01:09:06,684 [speaker_0]
+Aquí vamos a borrar todos los, los, los ceros que, que están en la parte de la ma--
+de la parte derecha de la pantalla, para que solamente me tome lo que sí voy a parcializar.
+
+01:09:06,734 --> 01:09:20,154 [speaker_4]
+Eh, déjame entender la diferencia de lo que se va a parcializar, veo los números en esta.
+
+01:09:20,194 --> 01:09:33,754 [speaker_5]
+Ajá, eso también iba yo a preguntarle a, a Emerson aquí. Si yo puedo parcializar, digamos,
+esa de dos, la primera, ¿le puedo poner uno a la izquierda, a la derecha?
+
+01:09:33,834 --> 01:09:50,534 [speaker_0]
+Eh, sí, sí, digamos, si tú solamente necesitas, solamente te llegó, no sé, una uni--
+una unidad y la otra se te quedó en Miami o en, en, en el origen, y necesi-- y la,
+
+01:09:50,544 --> 01:09:50,564 [speaker_5]
+Oh, okey.
+
+01:09:50,574 --> 01:09:59,534 [speaker_0]
+Parcializamos una y dejamos una ahí, y él, él va a quedar ahí. Esa parte, esa,
+esa INV veintisiete va a quedar pendiente de, de nacionalización.
+
+01:09:59,634 --> 01:10:02,214 [speaker_5]
+Okey, gracias. Preciso coger una-
+
+01:10:02,294 --> 01:10:30,974 [speaker_4]
+Eh, perdón, perdona un segundito para entender. Yo en-- estoy entendiendo la guía,
+que allí tengo unas facturas con unas, con unos ítems adentro, ¿cierto? Y ahora digo: "No,
+
+01:10:31,434 --> 01:10:33,214 [speaker_0]
+¿Cómo lo puedo nacionalizar?
+
+01:10:33,274 --> 01:10:41,474 [speaker_4]
+Sí. O ya no, ya no, ya no lo nacionalia-- nacionaliza, eh, nacionalizaríamos.
+
+01:10:43,994 --> 01:10:45,454 [speaker_0]
+Un segundo.
+
+01:10:45,474 --> 01:10:48,994 [speaker_5]
+Sí, sí, toca, toca nacionalizarlo, claro. Sí, Oscar, exacto.
+
+01:10:49,004 --> 01:10:51,654 [speaker_4]
+¿Pero también sería por acá? Después hago mi parcial.
+
+01:10:52,364 --> 01:10:53,594 [speaker_5]
+El parcial que se separe.
+
+01:10:53,604 --> 01:10:55,274 [speaker_0]
+Déjame termino acá y, y ya les muestro-
+
+01:10:55,284 --> 01:10:58,974 [speaker_6]
+Es como el, es como el proceso siguiente que él va a explicar, ¿no?
+
+01:10:59,074 --> 01:11:04,114 [speaker_5]
+Lo que pasa es como que cogió una guía que tiene hartos ítems.
+
+01:11:04,174 --> 01:11:05,034 [speaker_0]
+Sí.
+
+01:11:07,354 --> 01:11:10,694 [speaker_6]
+Pues si quieres deja todos esos ítems ya sin, sin darle nada.
+
+01:11:10,774 --> 01:11:11,034 [speaker_0]
+Sí, sin-
+
+01:11:11,134 --> 01:11:18,244 [speaker_6]
+Lo que tú estás poniendo a la derecha es lo que vas a nacionalizar en el momento,
+y todo esto que queda ahí con ceros, es lo que queda pendiente.
+
+01:11:18,294 --> 01:11:21,754 [speaker_5]
+Ahorita lo borran y, y debería quedar nuevamente bien.
+
+01:11:21,794 --> 01:12:07,454 [speaker_0]
+Sí, correcto, listo. Entonces, yo voy a parcializar solo, o sea, voy a nacionalizar,
+hablémoslo así en estos términos, voy a nacionalizar solo la cantidad que va a caer en e,
+
+01:12:07,474 --> 01:12:12,054 [speaker_4]
+Ya tomé varios, ya tomé varios. Ya tomé varios, eh, tomé-
+
+01:12:12,754 --> 01:12:14,344 [speaker_5]
+Dale, dale de una.
+
+01:12:14,354 --> 01:12:51,754 [speaker_0]
+Listo, entonces acá... Listo, entonces acá le voy a dar la instrucción que me dice el sistema,
+que es F nueve para grabar, y en ese momento a mí me va a llegar un resumen al correo,
+
+01:12:51,974 --> 01:13:01,174 [speaker_4]
+¿Llega un correo con qué? ¿Con qué es lo que va a llegar?
+
+01:13:01,234 --> 01:15:41,626 [speaker_0]
+Él me llega el correo con todo el resumen de lo que yo voy a parcializar, ¿sí? Entonces, acá,
+digamos, esta tabla, entonces acá me va a traer lo que, lo que es el, el número de la guía,
+
+01:15:42,786 --> 01:15:53,446 [speaker_6]
+Primera parcialización queda con guía... la guía madre, que es la que se va a nacionalizar,
+porque esa es la que dijiste que ya vas a nacionalizar.
+
+01:15:53,606 --> 01:15:54,035 [speaker_0]
+Sí, correcto.
+
+01:15:54,035 --> 01:16:14,026 [speaker_6]
+Quedaron ahí. Ajá. Después seguiría, cuando llegue otra vez el resto de carga nacionaliz--
+digamos que llegó todo lo que le faltó, entonces generaría eso, la guía hija cero uno.
+
+01:16:14,066 --> 01:16:14,236 [speaker_0]
+Correcto.
+
+01:16:14,236 --> 01:16:17,296 [speaker_6]
+Para una generación de una cero, cero, dos, ¿sí?
+
+01:16:17,686 --> 01:16:18,636 [speaker_0]
+Sí, correcto.
+
+01:16:18,686 --> 01:16:19,146 [speaker_6]
+Okey.
+
+01:16:19,166 --> 01:16:19,526 [speaker_0]
+Sí.
+
+01:16:19,606 --> 01:16:53,566 [speaker_4]
+Eh, déjame tener una cosa con el correo, perdón, y también hablar de la guía madre y la guía hija,
+¿dónde se ven? ¿Dónde se pueden observar? Porque no me quedó claro. Este, este correo que te llega,
+
+01:16:53,666 --> 01:16:57,126 [speaker_0]
+La hija, la hija madre. Acá en esta opción, ¿sí? En parcializar guía nueva.
+
+01:16:57,186 --> 01:16:58,326 [speaker_4]
+Sí.
+
+01:16:58,366 --> 01:17:17,386 [speaker_0]
+Ahí yo voy a parcializar la guía. O sea, eh, aquí hablábamos un tema, de pronto, Deysi,
+me puedes ayudar en un tema de, de, de, de rompimientos,
+
+01:17:17,426 --> 01:17:17,526 [speaker_4]
+Ujum.
+
+01:17:17,535 --> 01:17:30,706 [speaker_0]
+Y salgo un pedacito para poder parcializarla, pero pues obviamente el, el,
+acá la opción me va a decir: "Bueno, sí, vas a parcializar una guía nueva,
+
+01:17:30,716 --> 01:17:30,716 [speaker_4]
+Ajá.
+
+01:17:30,726 --> 01:17:33,326 [speaker_0]
+Para que no se llegue la hija.
+
+01:17:33,366 --> 01:17:59,846 [speaker_4]
+Pero te quedó con el mismo, te quedó con el mismo dato. Sí, es la I cuarenta y siete, ochenta y uno,
+ochenta y tres, y luego, cuando fuiste a, a ese detalle de la guía hija, eh,
+
+01:17:59,926 --> 01:18:16,266 [speaker_0]
+Okey. Sí, digamos que, pues acá, como, como te lo mencionaba,
+nosotros tenemos por parámetro a que cada vez que yo vaya a parcializar una guía,
+
+01:18:16,826 --> 01:18:26,786 [speaker_6]
+Ah, o sea, lo, lo, lo que yo le entiendo a Óscar, que de pronto de ahí la inquietud, Anderson,
+es ese guion cero, cero, uno, no es que el sistema lo haga, sino que nosotros lo ponemos, ¿sí?
+
+01:18:26,826 --> 01:18:27,826 [speaker_0]
+No, el sistema lo hace-
+
+01:18:27,836 --> 01:18:27,836 [speaker_6]
+¡Ah!
+
+01:18:27,846 --> 01:18:35,226 [speaker_0]
+Cuando yo, cuando yo imputo esta opción, ¿sí? Es que no sé si de pronto [risas] tener una visual.
+
+01:18:35,286 --> 01:19:00,926 [speaker_4]
+Ya, y, ¿y qué es lo que pasa con esta guía hija? ¿Qué es lo que tiene por dentro?
+Porque veo que está el número de líneas. O sea, es decir,
+
+01:19:00,946 --> 01:19:04,926 [speaker_0]
+De pronto, Deysi, ahí tiene la mano levantada, de pronto me puede ayudar.
+
+01:19:04,986 --> 01:19:06,906 [speaker_4]
+Deysi.
+
+01:19:08,646 --> 01:19:36,406 [speaker_3]
+Bueno, entonces les, eh, les explico. Inicialmente,
+en la primera opción que ellos tienen de parcializar una guía, es-- en este momento del proceso,
+
+01:19:37,426 --> 01:19:37,626 [speaker_4]
+Mhm.
+
+01:19:37,666 --> 01:19:39,746 [speaker_3]
+Y qué cantidades quedó en la guía madre.
+
+01:19:39,846 --> 01:19:42,306 [speaker_4]
+Ah, si se modificó la guía madre.
+
+01:19:42,386 --> 01:20:28,046 [speaker_3]
+Sí, sí, porque la guía madre va a quedar con los datos solo de lo que se va a nacionalizar. ¿Sí?
+Hasta el momento. So, o sea, [ruido] quedan las otras, quedarían, eh, digamos, entre comillas,
+
+01:20:28,066 --> 01:20:36,596 [speaker_4]
+Eh, no, eh, porque lo entendía al contrario, como en la guía, aquí en la guía nueva,
+cuando ingresamos el número de guía madre, el dealer-
+
+01:20:36,596 --> 01:20:37,076 [speaker_3]
+Ajá.
+
+01:20:37,086 --> 01:20:47,266 [speaker_4]
+Y nos aparece valores to- [carraspeo] totales de una guía,
+yo entendí que aquí tenemos es la copia de la guía madre que modificamos.
+
+01:20:47,306 --> 01:21:39,456 [speaker_3]
+Mmm... Sí y no. Lo que pasa es cuando uno ingresa la guía nueva,
+nosotros como tal no le vamos a colocar el consecutivo. Entonces colocamos le,
+
+01:21:39,506 --> 01:21:41,586 [speaker_4]
+Excelente, sí, sí, porfa.
+
+01:21:41,666 --> 01:21:47,806 [speaker_3]
+Eh, Anderson, ¿me regalas la guía acá, por favor? Listo, ya te la comparto.
+
+01:21:47,866 --> 01:22:34,206 [speaker_4]
+Esta guía sí, no, no la tengo presente. Nos hemos mostrado varios documentos, eh,
+de pronto no lo hemos solicitado en su momento,
+
+01:22:35,646 --> 01:23:45,246 [speaker_3]
+Listo, esta es la guía madre . Inicialmente, ay, mentiras, por este lado no.
+Esa tabla ya ustedes las tienen mapeadas de lo que yo, del inventario que yo les envié. Entonces,
+
+01:23:45,366 --> 01:23:51,076 [speaker_4]
+Ah, que fue la acción que mostrabas hace un momento,
+que lo vimos todo en cero cuando entramos inicialmente.
+
+01:23:51,166 --> 01:24:56,466 [speaker_3]
+Exacto, todo estaba en cero. Entonces, cuando se seleccionan las cantidades,
+él viene acá a mi detalle deee,
+
+01:24:56,486 --> 01:24:56,946 [speaker_4]
+Mhm.
+
+01:24:56,966 --> 01:25:43,802 [speaker_3]
+Cuando nosotros entramos en la primera opción, las que están acá abajo en ceros,
+también me queda con la, con la guía, sin el guion y sin el cero, cero, pero las otras ya quedaron.
+
+01:25:43,862 --> 01:25:45,782 [speaker_5]
+Okey.
+
+01:25:45,802 --> 01:26:38,002 [speaker_3]
+Entonces, a esas es que se le llama la guía hija. Entonces, en la sego- entonces,
+en la segunda opción, sí se le coloca eso, porque le entra a hacer la búsqueda: "Ah,
+
+01:26:40,302 --> 01:26:42,362 [speaker_5]
+Sí, yo te escucho ahí, yo sí.
+
+01:26:42,422 --> 01:26:57,962 [speaker_3]
+Ah, okey, okey, okey. [ruido] Y Óscar, ¿me escucha? ¿Qué pasó?
+
+01:26:59,102 --> 01:27:02,102 [speaker_6]
+De pronto se le cayó el Internet a él.
+
+01:27:02,182 --> 01:28:20,772 [speaker_3]
+Okey. Sí, pero ¿qué se desconecta? Creo que sí se le cayó la... allá, ma.
+
+01:28:21,582 --> 01:30:33,722 [speaker_5]
+Hola, Kelly, Óscar, Arturo, Sergio. ¿Sabemos algo del, de la conexión? [risas] Gracias.
+
+01:30:33,842 --> 01:30:36,862 [speaker_6]
+Estoy, estoy consultando, disculpen, con Óscar, a, a ver-
+
+01:30:36,942 --> 01:30:43,782 [speaker_5]
+A ver qué pasaría. Dale. Listo, quedamos pendientes, gracias.
+
+01:30:43,812 --> 01:30:43,822 [speaker_6]
+Perfecto.
+
+01:31:59,792 --> 01:32:48,522 [speaker_8]
+... Hola, hola, ¿me escuchan?
+
+01:32:48,532 --> 01:32:51,332 [speaker_3]
+Te escuchamos, Óscar.
+
+01:32:51,342 --> 01:32:55,012 [speaker_8]
+Súper, ah, perdí la conexión.
+
+01:32:55,092 --> 01:32:55,312 [speaker_3]
+Claro, eh-
+
+01:32:56,052 --> 01:32:56,542 [speaker_8]
+Bueno, eh-
+
+01:32:56,542 --> 01:32:59,732 [speaker_3]
+En dónde te quedaste de la explicación?
+
+01:32:59,832 --> 01:33:06,552 [speaker_8]
+Eh... Me, me quedé en: te voy a dar una explicación. [risas] Un momentito. [risas]
+
+01:33:06,752 --> 01:33:08,732 [speaker_3]
+Okey, volvamos.
+
+01:33:08,752 --> 01:33:28,952 [speaker_8]
+No, que, que en que estábamos viendo, eh,
+la consulta que estaba realizando y estábamos viendo que la- que las que estaban quedando,
+
+01:33:29,032 --> 01:33:30,992 [speaker_3]
+Ex-exactamente. Sí, señor.
+
+01:33:32,232 --> 01:33:32,932 [speaker_8]
+Eh.
+
+01:33:33,432 --> 01:33:59,372 [speaker_3]
+Entonces, para nosotros generar, eh, la nueva guía, lo que hacemos es colocar la guía, digamos,
+la guía madre, en este caso. Entonces, y eh, lo que viene a hacer es, básicamente,
+
+01:33:59,382 --> 01:33:59,432 [speaker_8]
+Okey.
+
+01:33:59,452 --> 01:34:07,052 [speaker_3]
+Pero en este caso, lo que hace es coger a esta guía, es la madre, la que me están digitando,
+y de esta necesitan crear una nueva.
+
+01:34:07,061 --> 01:34:07,061 [speaker_8]
+Mhm.
+
+01:34:07,072 --> 01:34:17,732 [speaker_3]
+Entonces, a esta yo le agrego el consecutivo, guion cero, cero, cero, uno, y a esta, eh,
+esta actualización se le va a hacer a todas las que tengan la cantidad en ceros.
+
+01:34:17,752 --> 01:34:19,452 [speaker_8]
+Exacto, las que no fueron seleccionadas-
+
+01:34:19,462 --> 01:34:19,462 [speaker_3]
+Exacto.
+
+01:34:19,472 --> 01:34:21,572 [speaker_8]
+Pero eso lo hace el sistema.
+
+01:34:21,632 --> 01:34:25,392 [speaker_3]
+Eso lo hace el sistema en la segunda opción que Anderson colocó.
+
+01:34:26,292 --> 01:34:27,632 [speaker_8]
+Okey.
+
+01:34:27,652 --> 01:35:05,052 [speaker_3]
+La primera es donde selecciona lo que sí, y la segunda es lo que dice: "Ah,
+vamos a colocarle un consecutivo a esa guía, para las que no fueron seleccionadas".
+
+01:35:05,112 --> 01:35:05,272 [speaker_8]
+Okey.
+
+01:35:05,312 --> 01:35:09,172 [speaker_3]
+Entonces, esta guía madre no se vuelve a tocar.
+
+01:35:09,232 --> 01:35:09,462 [speaker_8]
+Okey.
+
+01:35:09,472 --> 01:35:29,672 [speaker_3]
+Después de que se consolida, no se tocan las guías. Eh, después de eso, digamos,
+lo que decía Anderson, resulta que esta guía, cero, cero, uno, eh, no sé, solo llegó...
+
+01:35:29,682 --> 01:35:31,212 [speaker_8]
+Sí, sí.
+
+01:35:31,272 --> 01:35:36,792 [speaker_3]
+Él vuelve, entra a la opción de parcializar una guía, ya no coloca la guía madre,
+sino coloca la guía-
+
+01:35:36,812 --> 01:35:37,292 [speaker_8]
+Coloca la madre
+
+01:35:37,302 --> 01:35:51,532 [speaker_3]
+... con el guion cero, cero, uno, exactamente.
+Selecciona las que necesita para esa guía y las demás, en la segunda opción, él coloca este,
+
+01:35:52,092 --> 01:35:52,101 [speaker_8]
+Cero, dos
+
+01:35:52,101 --> 01:36:04,412 [speaker_3]
+... y crea el dos, para las que no fueron seleccionadas. Y así sucesivamente, él comienza a crear,
+pues, diferentes, ehm, consecutivos.
+
+01:36:05,332 --> 01:36:06,872 [speaker_8]
+Espérame entonces, un segundo-
+
+01:36:06,912 --> 01:36:44,492 [speaker_3]
+Yo tengo, incluso, eh, le, si quieres te co-- déjame te cu-- te muestro un documento,
+que hace poco se hizo el ajuste, eh, con Anderson para los consecutivos. [ruido] Ay, es que uy, con-
+
+01:36:46,432 --> 01:36:48,822 [speaker_8]
+¿Este estábamos usando ya?
+
+01:36:48,852 --> 01:36:51,572 [speaker_3]
+No, no sé, Anderson, la verdad.
+
+01:36:51,612 --> 01:36:51,872 [speaker_8]
+Sí, sí-
+
+01:36:51,892 --> 01:37:20,372 [speaker_3]
+Esta fue... Ah, bueno, sí. Este, él lo estaba mostrando a Anderson,
+que esto fue cuando nosotros hicimos las pruebas, eh, para pasar a, a productivo los,
+
+01:37:20,392 --> 01:37:20,432 [speaker_8]
+Sí, sí.
+
+01:37:20,442 --> 01:37:47,554 [speaker_3]
+Ah, mira, sí, ese es el ejemplo. Digamos, de, el,
+el encabezado de las guías tiene que igual aparecer, porque se abre, digámoslo así,
+
+01:37:47,554 --> 01:37:47,554 [speaker_4]
+Ujum.
+
+01:37:47,554 --> 01:38:58,084 [speaker_3]
+-es importante tener en cuenta que cuando se parcializan las guías, estas guías vienen,
+terminan con valores distintos. Entonces, la primera guía va a quedar con un valor deee,
+
+01:38:59,844 --> 01:39:24,544 [speaker_4]
+Eh, regálame un segundito, que estoy acá tomando nota mientras tú nos vas explicando.
+De aquí nos queda claro el proceso que se ejecuta funcionalmente de las selecciones. Mmm,
+
+01:39:25,244 --> 01:39:25,354 [speaker_3]
+Sí.
+
+01:39:25,584 --> 01:39:34,444 [speaker_4]
+-y guardan una relación de todas maneras con las guías madres, que va quedando como la madre,
+la hija y la hija y la nieta, ¿cierto? Como que van-
+
+01:39:34,484 --> 01:39:36,074 [speaker_3]
+Sí, algo así.
+
+01:39:36,624 --> 01:39:42,064 [speaker_4]
+Van quedando relacionadas, ¿cierto? Para no perder la relación. Así es como lo estamos entendiendo.
+Si hay algo-
+
+01:39:42,084 --> 01:39:42,324 [speaker_3]
+Sí.
+
+01:39:42,334 --> 01:40:18,384 [speaker_4]
+-diferente a lo que estamos entendiendo, o sea, aplicación de reglas,
+sí es importante que nos remitan esa, esa información. De otra forma,
+
+01:40:18,404 --> 01:40:19,844 [speaker_3]
+Totalmente. Sí, señor.
+
+01:40:19,854 --> 01:40:38,924 [speaker_4]
+Listo, se entiende así y pareciera que fuera así de sencillo. Si hay alguna,
+algún elemento de los que no estamos observando, que es que cuando se parcializa,
+
+01:40:39,004 --> 01:41:28,044 [speaker_3]
+Sí, pues yo entrar como a, a detallar, a revisar bien el tema del programa, pero no,
+básicamente es lo que tú acabas de decir, que sí, que hay ten, que te--
+
+01:41:28,184 --> 01:41:28,764 [speaker_4]
+Eh-
+
+01:41:28,844 --> 01:41:29,494 [speaker_3]
+Porque-
+
+01:41:29,524 --> 01:41:37,744 [speaker_4]
+En esta, en esta pantallita te voy a poner acá en chat. Me, me ayudas a revisar, porfa? En esta,
+dices.
+
+01:41:37,844 --> 01:41:43,524 [speaker_3]
+Eh, uy, espérame. Ay, pero no, todavía no me carga.
+
+01:41:44,224 --> 01:41:45,384 [speaker_4]
+Tranquila.
+
+01:41:45,444 --> 01:42:04,824 [speaker_3]
+Solo tengo el de... Ah, okey, ya. Sí, sí, se puede decir que sí. En esta tabla,
+cuando ellos entran a revisar, el valor de la guía es el que tiene que actualizarse,
+
+01:42:05,864 --> 01:42:12,004 [speaker_4]
+Ahí es donde está la, la cuenta que tú hacías, de que una cosa se multiplica con la otra, ¿ahí es?
+
+01:42:12,064 --> 01:42:12,504 [speaker_3]
+Sí.
+
+01:42:12,524 --> 01:42:17,604 [speaker_4]
+Ah, listo, entonces esa, con esa nos faltaría esa especificación.
+
+01:42:18,224 --> 01:42:18,294 [speaker_3]
+Sí.
+
+01:42:18,294 --> 01:42:21,824 [speaker_4]
+Se cubre con este compromiso que te voy a generar-
+
+01:42:21,864 --> 01:42:22,204 [speaker_3]
+Ujum.
+
+01:42:22,224 --> 01:42:29,924 [speaker_4]
+Que es descripción... Descripción, descripción del proceso técnico para estandarización de guías,
+¿listo?
+
+01:42:29,984 --> 01:42:40,924 [speaker_3]
+Sí, total. Igual te quiero decir que aquí como algo chiquitico, no, no para que lo graben,
+que igual yo los voy a, se los voy a entregar.
+
+01:42:40,934 --> 01:42:40,934 [speaker_4]
+Okey.
+
+01:42:40,944 --> 01:43:10,404 [speaker_3]
+Pero en la tabla que ustedes tienen, como en vez de, que es el detalle de las gui- de las guías,
+van a encontrar este campo de referencia, la cantidad y el valor unitario.
+
+01:43:10,414 --> 01:43:10,414 [speaker_4]
+Sí.
+
+01:43:10,524 --> 01:43:44,224 [speaker_3]
+Es esta cantidad por el valor unitario. Entonces, el valor unitario deee,
+de la primera referencia es este, por su cantidad. Entonces,
+
+01:43:47,814 --> 01:43:48,314 [speaker_4]
+... Listo, va.
+
+01:43:48,894 --> 01:43:59,034 [speaker_3]
+Igual yo te lo especifico bien en, cuando pues ya tenga el,
+la licencia y poder adelantar todo lo que les debo.
+
+01:43:59,054 --> 01:44:22,194 [speaker_4]
+Tranquila, igual como les decimos,
+pues nosotros estamos tomando ya la información de forma directa y la vamos a poner como historias
+
+01:44:23,154 --> 01:44:23,164 [speaker_3]
+Claro.
+
+01:44:23,174 --> 01:44:31,384 [speaker_4]
+Pero nos permite observarla, por lo menos,
+para que valoremos que tenemos ahí ya gran parte de la información ya, eh, formalizada.
+
+01:44:31,394 --> 01:44:49,974 [speaker_3]
+Listo. Pero sí, esto de parcializar,
+creo que en cuanto al desarrollo es un poco más flexible o por no decir fácil,
+
+01:44:50,754 --> 01:44:50,994 [speaker_4]
+Okey.
+
+01:44:51,013 --> 01:45:06,654 [speaker_3]
+Más de las sumas, de tener presente, de sumar, eh... lo de la, el da-- el total de la guía, ya,
+que es el único dato como tal que se actualiza.
+
+01:45:06,714 --> 01:45:09,734 [speaker_4]
+De acuerdo, muchas gracias.
+
+01:45:10,414 --> 01:45:16,614 [speaker_3]
+Pregunta: ¿van a hacer algo más con esta guía o puedo reversar la parcialización?
+
+01:45:18,694 --> 01:45:25,464 [speaker_1]
+Anderson, ¿tú qué nos dices? ¿Ya con ese cerramos el tema o, o, o, o...?
+
+01:45:25,474 --> 01:45:38,474 [speaker_0]
+Sí, pues, eh, hasta ahí iría el proceso. O sea, digamos, hasta ahí se, se,
+se parcializaría una guía y pues de ahí en adelante, ya sería el otro requerimiento,
+
+01:45:38,494 --> 01:45:41,074 [speaker_4]
+El requerimiento treinta y dos.
+
+01:45:41,094 --> 01:45:43,724 [speaker_1]
+Entonces, ya lo validamos, si es ese mismo.
+
+01:45:44,134 --> 01:45:54,454 [speaker_4]
+Thank you, take care!
+
+01:45:55,794 --> 01:45:57,033 [speaker_1]
+Asignación-
+
+01:45:57,043 --> 01:45:58,754 [speaker_4]
+... Mucho gusto con ustedes. Perdón.
+
+01:45:58,774 --> 01:45:59,514 [speaker_1]
+Dale, dale.
+
+01:46:08,614 --> 01:48:18,254 [speaker_4]
+Bueno, equipo, ya estoy acá otra vez. Entonces, creo que ya podemos cerrar este espacio para, eh,
+el día de mañana terminar de cerrar los requerimientos treinta y dos,
+
+01:48:18,294 --> 01:48:24,684 [speaker_1]
+Yo creo que el... Disculpa, yo creo que el treinta y dos lo podemos cerrar de una vez, eh, Óscar.
+El treinta y dos nos dice-
+
+01:48:24,684 --> 01:48:24,724 [speaker_4]
+¿De una?
+
+01:48:24,724 --> 01:48:50,154 [speaker_1]
+Sí, de una, es porque ya, ya lo hemos visto: asignación del registro y/o licencia de importación.
+Esto es lo mismo, o sea, lo, lo, lo está acá incluido porque hace parte del proceso,
+
+01:48:50,194 --> 01:48:59,394 [speaker_4]
+Permita asignar modelo y tipo de equipo. ¡Ah! Es decir, el,
+el control que ya hicimos en el requerimiento de licencias.
+
+01:48:59,414 --> 01:49:01,134 [speaker_1]
+Sí.
+
+01:49:01,214 --> 01:49:15,394 [speaker_4]
+Okey, bueno, entonces lo, lo podrías-- lo podríamos linkear con esta misma...
+con este mismo dato en la parte de arriba. Entonces, me dices si se cierra de esta forma.
+
+01:49:15,434 --> 01:49:22,764 [speaker_1]
+Sí, Anderson, esto es lo que se quería también, eh, realizar en este requerimiento, ¿cierto?
+Volver como a recalcar, ¿sí?, para poder cerrar.
+
+01:49:22,774 --> 01:49:25,254 [speaker_0]
+Sí, sí, correcto.
+
+01:49:25,294 --> 01:49:29,534 [speaker_4]
+Es decir, este, esta imagen que les, les comparto acá.
+
+01:49:29,634 --> 01:49:38,954 [speaker_1]
+Eh, tal cual, sí, hace parte de, de, del post docken y del proceso de registro y/o licencia,
+tal cual.
+
+01:49:39,014 --> 01:49:40,084 [speaker_4]
+De registros y licencias.
+
+01:49:40,094 --> 01:49:40,394 [speaker_1]
+Sí.
+
+01:49:40,554 --> 01:49:42,034 [speaker_4]
+Sea este requerimiento-
+
+01:49:42,054 --> 01:49:43,094 [speaker_1]
+Vencimientos.
+
+01:49:43,984 --> 01:49:52,902 [speaker_4]
+De acuerdo, sea este requerimiento cincuenta y seis o cincuenta y cinco, cualquiera de los dos,
+pero, pero se soluciona en licencias. Nos queda claro que ya se solucionó.... Sí, señor.
+
+01:49:52,922 --> 01:49:59,502 [speaker_1]
+Sí, digamos que ahí ya más que todo es como para, para controlar el, eh, los saldos, ¿sí?
+Es como para-
+
+01:49:59,512 --> 01:50:13,362 [speaker_4]
+Ajá. Para controlar los datos de las licencias que están vencidas o que tienen algún pro-
+o que no tienen licencia. ¿O estoy asumiendo que también valida las licencias vencidas?
+
+01:50:13,522 --> 01:50:18,022 [speaker_1]
+Sí, sí, lo, lo, lo, los vencimientos también, lo, lo que está vencido también.
+
+01:50:18,162 --> 01:50:20,742 [speaker_4]
+O no, o no tiene o está vencida la licencia.
+
+01:50:20,762 --> 01:50:27,312 [speaker_1]
+O no tiene, o no tiene, o no tiene licencia, o no tiene saldo, o está vencida la licencia.
+
+01:50:27,382 --> 01:50:30,722 [speaker_4]
+Exacto. Sí, sí, sí, entre los dos, el saldo.
+
+01:50:30,742 --> 01:50:38,142 [speaker_1]
+Y ahí, también. Ahí, ahí de pronto, sí, una implementación, discúlpame,
+una implementación [comunicación cruzada] sería una alerta, ¿sí?
+
+01:50:38,242 --> 01:50:38,402 [speaker_4]
+Sí.
+
+01:50:38,422 --> 01:51:23,562 [speaker_1]
+Digamos. Exacto, eso iba a decir. De pronto nos pueden regalar un, un, ahí dentro de esa...
+de ese control, de pronto, cuando, no sé, de pronto hay un, hay una, hay un alto ro--
+
+01:51:24,842 --> 01:51:37,502 [speaker_4]
+Ok, eh, de ese tema de, de notificaciones,
+yo siento que el sistema actualmente les envía muchos correos. ¿Ustedes quieren conservar esa,
+
+01:51:39,502 --> 01:51:48,002 [speaker_1]
+Bueno, nos tocaría validarlo, si ya sea por correo o notificación en la misma,
+en la misma aplicación. Sí, ya, ya-
+
+01:51:48,012 --> 01:51:48,082 [speaker_4]
+Sí.
+
+01:51:48,122 --> 01:51:58,202 [speaker_1]
+Ya lo entraría a validar, cuál sería la, la visual que,
+que nos permita poder controlarlo de la mejor manera.
+
+01:51:58,242 --> 01:52:03,562 [speaker_4]
+De acuerdo. Sí, eh, ese correo o notificación dentro del sistema-
+
+01:52:03,582 --> 01:52:30,512 [speaker_1]
+Sí, porque lo podemos mandar al correo, lo podemos alinear con el, el chat, que es el Teams,
+lo podemos alinear directamente con, con el SI 2.0. Entonces, sí, ya nos tocaría mirar cuál sería,
+
+01:52:30,512 --> 01:52:30,522 [speaker_4]
+Exacto.
+
+01:52:30,542 --> 01:52:55,182 [speaker_1]
+Como tú dices, llega todo por correo, todo, llega cualquier: un error por correo,
+una alerta por correo, una revisión por correo. Entonces, pues sí, ya nos tocaría entrar y,
+
+01:52:55,302 --> 01:53:15,662 [speaker_4]
+De una, ahí vamosle. Por ahora se queda como notificación, entonces lo mencionamos como notificar.
+¿Listo? Se debe notificar tal cosa. Por ejemplo, nos dan así de ejemplo: por ejemplo,
+
+01:53:15,682 --> 01:53:16,882 [speaker_1]
+Perfecto.
+
+01:53:16,922 --> 01:53:19,382 [speaker_4]
+Listo, con todo lo que ustedes nos dejen saber acá.
+
+01:53:19,402 --> 01:53:20,482 [speaker_1]
+Perfecto, ok.
+
+01:53:22,542 --> 01:53:23,102 [speaker_4]
+Buen equipo.
+
+01:53:23,122 --> 01:53:46,582 [speaker_1]
+Entonces, sí, cerraríamos el, el, el punto del requerimiento treinta y dos.
+Nos quedarían siete pendientes, de los cuales yo diría que por ahí dos, tres, ya... sí, tres,
+
+01:53:46,622 --> 01:53:47,892 [speaker_4]
+Ok, de una.
+
+01:53:47,922 --> 01:54:01,922 [speaker_1]
+Lo único que evidencio es que ¿está cancelada la, ah, la sesión o...? Pues que me parece, no sé,
+o si está, está programada. Ah, no, todo que está programada, sí.
+
+01:54:01,962 --> 01:54:02,262 [speaker_4]
+Mañana-
+
+01:54:02,422 --> 01:54:03,292 [speaker_1]
+Ah, sí, es que se, se-
+
+01:54:03,292 --> 01:54:06,042 [speaker_4]
+Tenemos programada a las nueve.
+
+01:54:06,062 --> 01:54:14,241 [speaker_1]
+Aunque es revisión ajustes, sí, es que lo estaba mirando. Todavía no,
+todavía no es revisión ajustes, pero sí, sí la tenemos solo rozdoki, ¿vale?
+
+01:54:14,322 --> 01:54:22,502 [speaker_4]
+Sí, sí, a las diez, perdón. A las diez tenemos una y a las tres tenemos otra.
+
+01:54:22,522 --> 01:54:25,142 [speaker_1]
+Sí, pero a las dos. Sí, listos.
+
+01:54:26,342 --> 01:54:28,862 [speaker_4]
+No, mañana, mañana tenemos una a las tres.
+
+01:54:29,962 --> 01:54:32,252 [speaker_1]
+Bueno, de pronto yo no esté. [risas]
+
+01:54:32,252 --> 01:54:33,042 [speaker_4]
+De dos a cinco.
+
+01:54:33,062 --> 01:54:44,322 [speaker_1]
+De do-- ah, estoy viendo. Perdóname. Ah, no, entonces estoy viendo,
+pero me estaba mirando el calendario, que no era.
+
+01:54:44,362 --> 01:54:44,512 [speaker_4]
+Cancelado.
+
+01:54:44,512 --> 01:55:11,072 [speaker_1]
+A las diez, sí, aparece cancelado, pero a las diez ya entra otro proceso, que dice:
+importaciones equipos Cat, y a las tres de la tarde, eh: historial de usuarios, marca salidas. Eh,
+
+01:55:11,982 --> 01:55:14,232 [speaker_4]
+Eh, ajá, pero eso...
+
+01:55:14,522 --> 01:55:24,832 [speaker_1]
+Aló, ¿me escuchaste, sí?
+
+01:55:25,442 --> 01:55:32,462 [speaker_4]
+Oh, sí, pero no, nos toca hablar con Kelly para verla entre ocho a diez, ¿cierto dices?
+Terminar el proceso.
+
+01:55:32,472 --> 01:55:32,482 [speaker_1]
+Dime.
+
+01:55:32,662 --> 01:55:34,742 [speaker_4]
+Para terminar de ocho a diez, mañana.
+
+01:55:34,782 --> 01:55:46,962 [speaker_1]
+Sí, sí, sí, yo considero que es, es mejor acabarlo, es mejor acabarlo.
+Ya nos queda poquito y es mejor acabarlo y, y, y continuar ahí sí, con, eh, importación de equipos,
+
+01:55:47,002 --> 01:55:49,982 [speaker_4]
+Vale, eh, no sé qué dice ahora acá, Kelly.
+
+01:55:50,002 --> 01:55:53,342 [speaker_1]
+Solamente que vi que se canceló, pues porque era el comité de aprobación-
+
+01:55:53,382 --> 01:55:53,392 [speaker_4]
+Sí.
+
+01:55:53,392 --> 01:55:59,082 [speaker_1]
+Rozdoki. No sé si de pronto se genere uno nuevo para solo el, el proceso-
+
+01:55:59,102 --> 01:55:59,112 [speaker_4]
+Sí
+
+01:55:59,122 --> 01:56:00,302 [speaker_1]
+Rozdoki.
+
+01:56:00,462 --> 01:56:04,522 [speaker_4]
+Sí, para no, para no tomarnos el espacio de, de las diez.
+
+01:56:04,542 --> 01:56:04,822 [speaker_1]
+Sí.
+
+01:56:04,842 --> 01:56:06,782 [speaker_4]
+Porque ahí sí que nos retrasamos más.
+
+01:56:08,442 --> 01:56:14,722 [speaker_1]
+O, o al contrario, pasar el de la tarde para la mañana y tomar todo a la mañana. Es un tema, ¿no?
+
+01:56:14,822 --> 01:56:18,802 [speaker_4]
+Eh, sí, la idea es no perder, no perder el espacio de las ocho.
+
+01:56:18,842 --> 01:56:49,902 [speaker_1]
+Sí, sí, porque pues tampoco creo que nos vayamos a tomar de ocho a doce, y que están lo, lo,
+como las agendas para lo que queda de rozdoki, no, no, no considero que se,
+
+01:56:49,942 --> 01:56:50,722 [speaker_4]
+Listo-
+
+01:56:50,792 --> 01:56:51,202 [speaker_1]
+¿Sí?
+
+01:56:51,222 --> 01:56:54,302 [speaker_4]
+Listo, eh, ya, yo, yo le escribo acá, Kelly.
+
+01:56:54,322 --> 01:56:59,542 [speaker_1]
+Dale. Vale, entonces muchísimas gracias a todos, bueno.
+
+01:56:59,642 --> 01:57:01,692 [speaker_4]
+Listo, no, gracias a ustedes.
+
+01:57:01,702 --> 01:57:02,702 [speaker_1]
+Feliz tarde.
+
+01:57:02,712 --> 01:57:02,712 [speaker_4]
+Feliz tarde.
+
+01:57:02,722 --> 01:57:03,322 [speaker_1]
+Que estén bien.
+
+01:57:03,342 --> 01:57:03,622 [speaker_4]
+Chao, chao.
+
+01:57:03,642 --> 01:57:04,222 [speaker_1]
+Hasta luego.
+
+01:57:04,262 --> 01:57:05,282 [speaker_3]
+Chao, equipo, feliz tarde.
+
+01:57:05,292 --> 01:57:05,292 [speaker_9]
+Buenas tardes.
+
+01:57:05,302 --> 01:57:07,562 [speaker_1]
+Hasta luego.
+
+01:57:07,622 --> 01:57:10,881 [speaker_3]
+Gracias.

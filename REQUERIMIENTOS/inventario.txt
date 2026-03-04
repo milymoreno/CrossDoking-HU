@@ -1,0 +1,15 @@
+name	subprocess	description	phase	category	status	impact
+Crossdocking	Recibir info agente de carga	Recepción automática del archivo LOG de DHL (guías, facturas Z95, pesos) e identificación de errores de formato.	Phase B	Business Process	Proposed	H
+Crossdocking	Recepción de facturación	Integración con Business Events de D365 para visualizar la relación entre facturas CAT (Z95) e INV PSC.	Phase B	Business Process	Active	H
+Crossdocking	Discrepancias	Reconciliación automática CAT vs PSC para detectar diferencias en cantidades y emitir alertas por correo/Teams.	Phase B	Business Process	Active	H
+Crossdocking	Actualización de datos	Sincronización en tiempo real de cambios realizados en D365 (índice de artículos) hacia SII 2.0.	Phase B	Business Process	Active	M
+Crossdocking	Parcializar Guía	División de embarques por factura, referencia o unidades, con capacidad de reversión al estado original.	Phase B	Business Process	Active	M
+Crossdocking	Asignación de Licencia	Validación de saldos para referencias remanufacturadas (prefijos 0R, 10R, etc.) bloqueando guías sin cupo.	Phase B	Business Process	Active	H
+Crossdocking	Generar guía	Agrupación masiva de facturas en documentos de transporte con datos logísticos completos (aduana, vía, transportadora).	Phase B	Business Process	Active	H
+Crossdocking	Validación de DEALER	Restricción de mezcla de mercancía nueva y remanufacturada según el dealer logístico asignado.	Phase B	Business Process	Active	M
+Crossdocking	Validación guía	Visualización comparativa de cantidades y valor FOB total entre intercompañías y facturas CAT.	Phase B	Business Process	Active	M
+Crossdocking	Creación DO	Generación automática del Documento de Operación en el sistema de la agencia vía Web Service.	Phase B	Business Process	Active	H
+Crossdocking	Reporte facturas generadas	Consulta y exportación de facturas PSC asociadas a cada documento de transporte generado.	Phase B	Business Process	Active	M
+Crossdocking	Generar DIM	Impulso de declaraciones de importación habilitando campos de modalidad, manifiesto, bultos y pesos.	Phase B	Business Process	Active	H
+Crossdocking	Recepción info aduanera	Captura de estados de aceptación, pago (stickers) y levante en línea por cada línea de declaración.	Phase B	Business Process	Active	H
+Crossdocking	Costeo y DRs	Migración de información de levante a D365 para generación automática de Product Receipts y costeo de líneas PO.	Phase B	Value Stream	Active	H

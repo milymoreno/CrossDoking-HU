@@ -1,0 +1,1753 @@
+00:00:02,060 --> 00:00:10,140 [speaker_0]
+grabar la sesión para que todos estemos de acuerdo allí con la grabación y quede registrado.
+Todos estamos de acuerdo, ¿correcto?
+
+00:00:10,190 --> 00:00:11,460 [speaker_1]
+Sí, de acuerdo.
+
+00:00:11,480 --> 00:00:11,660 [speaker_0]
+Vale.
+
+00:00:11,670 --> 00:00:19,140 [speaker_1]
+De acuerdo, sí. Buenos días a todos.
+
+00:00:21,180 --> 00:00:22,480 [speaker_2]
+Buenos días, Fabián.
+
+00:00:22,490 --> 00:00:24,790 [speaker_1]
+¿Me escuchan bien, sí?
+
+00:00:24,800 --> 00:00:25,720 [speaker_2]
+Te escuchamos bien.
+
+00:00:25,730 --> 00:00:27,000 [speaker_0]
+Sí, te escuchamos.
+
+00:00:27,060 --> 00:00:37,860 [speaker_1]
+Okey, listo, gracias. Bueno, el día de hoy nos está acompañando otra vez Anderson,
+[carraspeo] y daremos inicio ya al requerimiento veintinueve, ¿correcto?
+
+00:00:37,880 --> 00:00:40,240 [speaker_0]
+Perfecto.
+
+00:00:40,260 --> 00:00:42,040 [speaker_2]
+Correcto.
+
+00:00:45,449 --> 00:00:52,700 [speaker_1]
+¿Alguna pregunta de lo que, eh, habíamos visto antes de, de, de iniciar, de pronto que haya quedado?
+
+00:00:53,760 --> 00:00:58,660 [speaker_2]
+No quedó, no quedó ninguna pregunta abierta, quedaron compromisos abiertos.
+
+00:00:58,700 --> 00:01:00,220 [speaker_1]
+Sí, compromisos abiertos.
+
+00:01:00,240 --> 00:01:00,860 [speaker_2]
+Ujum, sí.
+
+00:01:00,960 --> 00:01:12,350 [speaker_1]
+Al final, si quieres, eh, validamos, eh, uno de los compromisos que ya pude validar directamente,
+entonces lo miramos, ¿vale? Vamos a dar inicio entonces al-- a la continuación del proceso, ¿bueno?
+
+00:01:12,350 --> 00:01:21,480 [speaker_2]
+De una. Si quieres también ahí le vas dando forma durante esta conversación,
+a lo que serían los roles y perfiles y funcionalidades que esperas ver en el nuevo sistema.
+
+00:01:22,010 --> 00:01:23,190 [speaker_1]
+Claro, claro.
+
+00:01:23,190 --> 00:01:24,430 [speaker_2]
+Al tema de parte. Gracias.
+
+00:01:24,600 --> 00:01:34,800 [speaker_1]
+Entonces, Anderson, te cedo la palabra con el siguiente requerimiento, nos puedas mostrar, eh,
+como tal el proceso. Acabo de ponerlo aquí en el chat.
+
+00:01:36,700 --> 00:01:42,860 [speaker_3]
+Buenos días para todos. Eh, procedo a compartirles la pantalla. Por favor, ¿me confirman?
+
+00:01:42,880 --> 00:01:49,760 [speaker_0]
+Ahí lo vemos.
+
+00:01:49,980 --> 00:01:51,380 [speaker_2]
+Se ve, se ve.
+
+00:01:51,390 --> 00:03:07,660 [speaker_3]
+[carraspeo] Listo, perfecto. Entonces,
+el requerimiento número veintinueve corresponde a la actualización de datos. [carraspeo] Bueno,
+
+00:03:07,960 --> 00:03:12,080 [speaker_2]
+Ujum. En cuanto a las facturas?
+
+00:03:13,160 --> 00:03:16,690 [speaker_3]
+En cuanto a las facturas Z noventa y cinco y a las facturas I.
+
+00:03:16,690 --> 00:03:26,060 [speaker_2]
+Sí, las I, N. Sí, eh, que era lo mismo que estábamos viendo ayer, que es:
+¿cuál sería entonces la diferencia de esto?
+
+00:03:26,080 --> 00:03:35,300 [speaker_3]
+La diferencia radica en que en, en el proceso de las discrepancias,
+yo corro un proceso que me identifica el error, me identifica la diferencia y la novedad.
+
+00:03:35,320 --> 00:03:35,329 [speaker_2]
+Sí.
+
+00:03:35,340 --> 00:03:35,760 [speaker_3]
+En esta-
+
+00:03:35,860 --> 00:03:36,140 [speaker_2]
+Sí.
+
+00:03:36,180 --> 00:03:53,400 [speaker_3]
+Es más un tema técnico, un tema que, que nos ayuda a nosotros, eh, de pronto, de, de,
+de visualizar en el SI qué información está trayendo desde Dynamics y está actualizando, eh, en sí,
+
+00:03:53,460 --> 00:04:05,320 [speaker_2]
+Exacto, que sería una tabla como que con el resultado del proceso y te diga: "Ya terminé" o, o:
+"Voy aquí, y estos son los registros que he cargado hasta el momento". ¿Ese sería el requerimiento?
+
+00:04:05,360 --> 00:04:17,120 [speaker_3]
+Sí, correcto. Que, que cuando yo corra nuevamente el proceso, eh, digámoslo de esta manera,
+se vuelve otra vez a procesar,
+
+00:04:17,130 --> 00:04:17,130 [speaker_2]
+Ajá.
+
+00:04:17,160 --> 00:04:28,969 [speaker_3]
+Pues que me, me arroje una validación y me diga: "No, ojo, que todavía el,
+el ítem no se ha corregido. De pronto, eh, eh,
+
+00:04:28,980 --> 00:04:46,770 [speaker_2]
+Vale, aquí me queda una duda del proceso incluso anterior,
+y es que ustedes mencionan de que se hace un proceso de sincronización, es decir, como que lanzan,
+
+00:04:46,780 --> 00:04:49,420 [speaker_3]
+Tal cual, tal cual como lo dices al final, eh-
+
+00:04:49,460 --> 00:04:50,180 [speaker_2]
+Esperar.
+
+00:04:50,190 --> 00:05:11,660 [speaker_3]
+Por tiempo, sí, sí, esperar, esperar. Esperar que la información vuelva a, a subirse o a,
+o a entrar y vuelva a sobrescribir lo que ya está, en caso de, de un cambio.
+
+00:05:11,680 --> 00:06:11,960 [speaker_2]
+Listo. Y aquí, César, para que proyectemos en ti, lo que esperamos es que, en lo posible,
+en lugar de hacer archivos, esa sincronización se haga de forma cercana al re-- al tiempo real.
+
+00:06:12,420 --> 00:06:55,080 [speaker_4]
+Sí, de hecho, el objetivo justamente es que ustedes, en el SI dos punto cero,
+consulten directamente las tablas y las vistas del SQL Server de Dynamics,
+
+00:06:55,100 --> 00:08:00,660 [speaker_2]
+Bueno, ahí te doy una recomendación, la voy a,
+la voy a dejar de una vez sentada en este espacio y te pongo la conclusión también en el chat.
+
+00:08:00,700 --> 00:09:22,840 [speaker_4]
+Claro, Óscar, digamos que aquí el... la estrategia es evitarlos y,
+y lo vamos a evaluar justamente el modelo de integración, porque una parte será a través de, eh,
+
+00:09:22,860 --> 00:09:28,100 [speaker_2]
+[carraspeo] Uno, aquí es. ¿Vale?
+
+00:09:29,640 --> 00:09:36,789 [speaker_1]
+Listos. Ehmm, continuamos con el requerimiento número treinta, ¿vale? ¿O hay alguna otra pregunta?
+
+00:09:37,520 --> 00:09:41,240 [speaker_2]
+No, no, estoy tomando nota. Dame, dame un espaciecito, por favor, para tomar las notas.
+
+00:09:41,260 --> 00:09:41,660 [speaker_1]
+Dale, dale.
+
+00:09:41,700 --> 00:09:46,120 [speaker_2]
+Porque mientras estoy escribiendo, de pronto, eh, despierto la acción.
+
+00:09:46,140 --> 00:09:46,990 [speaker_1]
+Dale, dale, dale. [carraspeo]
+
+00:09:46,990 --> 00:10:30,820 [speaker_5]
+¿Sí, Ricardo?
+
+00:10:30,840 --> 00:10:31,940 [speaker_6]
+Buenos días, ¿cómo están?
+
+00:10:32,700 --> 00:10:33,220 [speaker_5]
+Hola.
+
+00:10:33,260 --> 00:10:34,429 [speaker_4]
+Hola, Ricardo, buenos días.
+
+00:10:34,440 --> 00:12:00,520 [speaker_6]
+Tengo una pregunta. Eh, yo tengo--
+siempre he tenido esta duda desde que empezamos a hacer el proceso. En Dynamics hay una serie de...
+
+00:12:00,760 --> 00:12:13,700 [speaker_4]
+Dale, me, me queda, no me queda tan claro la, la pregunta, o sea, la, la parte antes de la pregunta.
+Si la pregunta es: ¿Quién va a estar pendiente en Dynamics o quién puede estar pendiente en SI? Eh-
+
+00:12:14,216 --> 00:12:20,296 [speaker_2]
+... Se puede responder dependiendo de cómo, de cuál es lo que quieres buscar, revisar,
+¿qué es lo que quieres estar pendiente?
+
+00:12:20,316 --> 00:12:22,076 [speaker_6]
+Bueno, se puede-
+
+00:12:22,176 --> 00:12:22,526 [speaker_3]
+O, o-
+
+00:12:22,616 --> 00:12:23,416 [speaker_6]
+Digamos como para-
+
+00:12:23,436 --> 00:12:27,876 [speaker_3]
+hacer alguna modificación en el, en el Dy- Dynamics.
+
+00:12:27,936 --> 00:12:31,796 [speaker_6]
+Que eso es difícil, ¿no? Si, si va a haber modificaciones, eso es difícil-
+
+00:12:31,806 --> 00:12:31,806 [speaker_3]
+No.
+
+00:12:31,816 --> 00:12:45,396 [speaker_6]
+Porque hay que contratar a, a los señores de SDF o, o ya directamente a los señores por allá del...
+que manejan la plataforma como tal. ¿Va a haber modificaciones ahí, no?
+
+00:12:45,456 --> 00:12:46,395 [speaker_3]
+No.
+
+00:12:46,516 --> 00:13:01,905 [speaker_6]
+Okey, o sea, vamos a trabajar con lo que hay. La idea es llevarle la misma desde el S-
+SI dos punto cero, llevar las cosas igualitas y peg-- y bueno, en mi, en mi dialecto,
+
+00:13:01,936 --> 00:13:02,216 [speaker_2]
+Sí.
+
+00:13:02,276 --> 00:13:04,176 [speaker_6]
+Esa es como la idea. Ah, bueno, listo.
+
+00:13:04,196 --> 00:13:51,596 [speaker_2]
+Lle-llevar, llevar, solamente para precisar el, ese copy paste,
+porque también en algunos espacios pareciera que vamos es como a llevarnos el sistema viejo y lo
+
+00:13:51,606 --> 00:13:52,996 [speaker_6]
+Perfecto, Óscar. Listo, ya-
+
+00:13:53,056 --> 00:13:53,386 [speaker_2]
+Eso es.
+
+00:13:53,396 --> 00:13:55,396 [speaker_6]
+Gracias. Muy amable.
+
+00:13:56,056 --> 00:15:47,336 [speaker_2]
+Con todo gusto. Listo, eh, se debe permitir con...
+Se voy a poner acá las conclusiones y las comparto con ustedes para que también estemos alineados y
+
+00:15:47,396 --> 00:15:50,216 [speaker_6]
+Sí, señor.
+
+00:15:50,256 --> 00:16:07,736 [speaker_2]
+Bueno, entonces, si,
+si esa es la conclusión de esas dos funcionalidades que representan el requerimiento veintinueve,
+
+00:16:07,756 --> 00:16:27,216 [speaker_1]
+Okey, listo, Óscar, gracias. Eh, pasamos al, al punto treinta. Eh,
+se requiere que el sistema traiga la información de las facturas para generación del año en curso,
+
+00:16:27,276 --> 00:17:58,936 [speaker_3]
+Sí, eh, correcto. Bueno, como, como lo mencionamos en la sesión pasada, eh, y junto con Deisy, eh,
+nosotros les expresábamos que Caterpillar, eh, después de un tiempo, aproximadamente,
+
+00:17:59,796 --> 00:18:32,500 [speaker_2]
+Sí, ¿cómo sería en lo que hemos visto hasta ahora? ¿Qué es lo que se debe modificar? Eh, de las--
+como de la estrategia de, de, de carga. Estamos sincronizando y estamos mostrando información.
+
+00:18:36,120 --> 00:18:46,020 [speaker_3]
+Pues actualmente nosotros acá, eh, [carraspeo] con, junto con Daisy,
+ella nos ayuda en la tabla de las facturas Z-noventa y cinco, la que les mostraba. Eh-
+
+00:18:46,040 --> 00:18:46,050 [speaker_2]
+Sí.
+
+00:18:46,080 --> 00:19:15,760 [speaker_3]
+Ella ahí lo que intenta-- esa es una actualización, ¿sí? De fecha, solo de fecha. Y ya con eso, eh,
+pues trae la facturación que corresponde al, al, al, al,
+
+00:19:16,440 --> 00:19:49,540 [speaker_2]
+Pero entonces, buscando el sistema destino, eh, sería que de esas consultas que estamos haciendo,
+de los procesos que se sincronizaron,
+
+00:19:49,600 --> 00:19:50,970 [speaker_3]
+Eh, sí, no, no-
+
+00:19:50,970 --> 00:19:53,420 [speaker_2]
+O, o no se ingresa la información para modificar.
+
+00:19:53,520 --> 00:20:36,190 [speaker_3]
+Sí, o sea, lo, lo, lo que se quiere resumir acá es que, eh, si la factura se vuelve a, a repetir,
+que no, eh, genere, eh, algún error con lo nuevo que está pasando.
+
+00:20:36,190 --> 00:20:36,280 [speaker_2]
+Sí.
+
+00:20:36,290 --> 00:20:46,400 [speaker_3]
+Y que lo nuevo que está llegando, eh, genere lo nuevo y no vaya a salir ningún error y,
+y se trabaje eso, y que no te interfiera con lo, con, con un historial que, de, de esa factura.
+
+00:20:46,420 --> 00:20:46,620 [speaker_2]
+Uhum.
+
+00:20:46,660 --> 00:20:48,460 [speaker_3]
+Eso es como tal se requiere.
+
+00:20:48,480 --> 00:21:43,340 [speaker_2]
+¿Me puedes, me puedes ayudar con el ejemplo mínimo de lo que sería para ti repetirse y no repetirse?
+Te voy a dar un ejemplo para que te-- también tú lo puedas tomar de base. Entonces, dices:
+
+00:21:43,380 --> 00:21:44,169 [speaker_3]
+Sí, la idea-
+
+00:21:44,220 --> 00:21:47,740 [speaker_2]
+Entiendo el problema que, que tienes, pero todavía no me queda claro cómo resolverlo.
+
+00:21:47,780 --> 00:22:01,980 [speaker_3]
+Dale, no, dale, no te preocupes, ya, ya te lo digo. No, no, no queremos que elimine una factura,
+porque, pues esa factura es única y tiene unos datos específicos,
+
+00:22:02,000 --> 00:22:02,010 [speaker_2]
+Claro
+
+00:22:02,010 --> 00:22:07,389 [speaker_3]
+...ni que sobrescriba la información,
+sino que la separe del proceso que se está haciendo y que no vaya a tener ese-
+
+00:22:07,389 --> 00:22:21,300 [speaker_2]
+Hagamos eso, eso en un Excel, si te parece. Hagámoslo en un Excel,
+lo pones con unas columnas y le pones ahí datos de ejemplo, para decir cómo llega hoy, ¿sí?
+
+00:22:23,380 --> 00:22:25,270 [speaker_7]
+Yo, yo no sé si, si puedas-
+
+00:22:25,270 --> 00:22:25,270 [speaker_3]
+No, entendí.
+
+00:22:25,270 --> 00:22:33,610 [speaker_7]
+Si pudiese mostrarles de pronto una visual y, y, y nos puedan entender un poco más de,
+de qué es lo que nosotros requerimos.
+
+00:22:33,620 --> 00:22:39,320 [speaker_2]
+O un ticket específico con un caso real. No sé si eso nos dé valor también-
+
+00:22:39,340 --> 00:22:39,350 [speaker_7]
+Sí.
+
+00:22:39,350 --> 00:22:39,799 [speaker_2]
+Porque sí-
+
+00:22:39,880 --> 00:22:40,070 [speaker_7]
+Uhm.
+
+00:22:40,440 --> 00:22:59,020 [speaker_2]
+Puede ser que haya llegado la, la factura, no sé, en noviembre, y por algún motivo,
+hubo un rechazo de la factura o que algo no-- al-algo que no,
+
+00:22:59,040 --> 00:22:59,540 [speaker_7]
+Sí.
+
+00:22:59,560 --> 00:23:06,020 [speaker_2]
+De por qué cargan obvio, ese ticket a Daisy o por qué tiene que llegar hasta Daisy,
+el cambio de una fecha de una factura. Porque si-
+
+00:23:06,040 --> 00:23:13,410 [speaker_7]
+Exacto, y eh, qué, y qué modifican? No, no, no me queda tan claro. O sea,
+les entiendo lo que ustedes nos dicen, [carraspeo] pero ya pensando en cómo materializarlo-
+
+00:23:14,400 --> 00:23:14,570 [speaker_2]
+Claro.
+
+00:23:14,620 --> 00:23:16,120 [speaker_7]
+No, no, no, no me queda claro.
+
+00:23:16,130 --> 00:23:16,760 [speaker_3]
+Listo, claro, claro que sí.
+
+00:23:16,900 --> 00:23:17,300 [speaker_7]
+No.
+
+00:23:17,309 --> 00:24:14,020 [speaker_3]
+Entonces, déjame, yo les comparto acá, eh, un ejemplo y, y un, y un ticket que se manejó, eh,
+a inicios de este año, que, que presentamos la novedad. Entonces, eh, el ticket fue el siguiente:
+
+00:24:14,140 --> 00:24:14,500 [speaker_2]
+Una guía.
+
+00:24:14,510 --> 00:24:14,850 [speaker_3]
+Entonces, qué-
+
+00:24:14,860 --> 00:24:24,260 [speaker_2]
+Quiere decir que, hasta este punto... perdón, para no perder la información. Hasta este punto,
+¿ya esa, esa guía fue procesada y estaba procesada ante 2024?
+
+00:24:25,312 --> 00:24:27,792 [speaker_3]
+... Sí, sí, eso ya se había procesado acá. Mira, la fecha-
+
+00:24:27,852 --> 00:24:27,912 [speaker_2]
+Mhm.
+
+00:24:27,922 --> 00:24:34,562 [speaker_3]
+-de la factura acá dice dos mil veinticuatro, cero, uno, cero, seis,
+y pues estábamos en el dos mil veintiséis ya, ¿sí? Entonces, ¿qué hicimos nosotros?
+
+00:24:34,562 --> 00:24:34,562 [speaker_2]
+Nada.
+
+00:24:34,572 --> 00:25:06,202 [speaker_3]
+Pues primero, pues hicimos las validaciones correspondientes y,
+pues nos dimos cuenta que efectivamente, la información que está trayendo de las, de la facturación,
+
+00:25:06,202 --> 00:25:36,112 [speaker_2]
+Eh, espérame un segundito. Eh, entonces,
+llegó la información en la sincronización de las interfaces y antes no estaba. O sea,
+
+00:25:36,152 --> 00:25:38,192 [speaker_3]
+No se deberían procesar.
+
+00:25:38,202 --> 00:25:44,012 [speaker_2]
+¿Nunca? O sea, una anteriores, de años anteriores, por mucho que tenga guía,
+¿no se debería procesar?
+
+00:25:45,252 --> 00:26:17,432 [speaker_3]
+No se debería procesar porque, ehm, pues, como te digo, o sea,
+el sistema actualmente tiene unas validaciones que nos identifican que... si hay alguna novedad en,
+
+00:26:17,452 --> 00:26:17,462 [speaker_2]
+Mhm.
+
+00:26:17,462 --> 00:26:19,872 [speaker_3]
+-cosas que no, no van a llegar en el momento.
+
+00:26:21,012 --> 00:26:39,572 [speaker_2]
+Pero para entender el comentario que tú dices, de que se lo pasaron a IC para que me lo corrigiera,
+me queda la sensación, por eso te hacía la pregunta, de si esa Z noventa y cinco,
+
+00:26:39,652 --> 00:27:09,452 [speaker_3]
+Se debe modificar. O sea, yo, yo no digo que hay que modificar, ¡ojo! Hay que actualizar la fecha,
+¿sí? En el SI. ¿Sí? Porque digamos, nosotros acá en Dynamics, o sea, y por temas contables,
+
+00:27:09,472 --> 00:27:09,482 [speaker_2]
+Ya.
+
+00:27:09,492 --> 00:27:21,312 [speaker_3]
+Que el SI logre identificar y me quite esta, ¿sí? Toda la información de las, de los ítems,
+órdenes de compra, órdenes de ventas, que van en esta información,
+
+00:27:21,322 --> 00:27:21,322 [speaker_2]
+Mhm.
+
+00:27:21,352 --> 00:27:25,652 [speaker_3]
+Lo que se está presentando actualmente, y me llegue acá al SI... me llegue acá al SI-
+
+00:27:25,672 --> 00:27:25,682 [speaker_2]
+Ya.
+
+00:27:25,682 --> 00:27:28,012 [speaker_3]
+-solamente la información que necesito.
+
+00:27:28,032 --> 00:27:52,432 [speaker_2]
+Dicho de otra forma,
+sería que en lugar de que llegue aquí información que no vas a utilizar dentro del proceso,
+
+00:27:52,492 --> 00:27:53,132 [speaker_3]
+Sí, correcto.
+
+00:27:53,372 --> 00:29:05,112 [speaker_8]
+Sí, Óscar, que se excluyan. Y dicho esto, como tú lo has dicho de otra forma, es sencillamente,
+los consecutivos con el tiempo se, se, se duplican, ¿sí? Cada, cada cierta periodicidad de tiempo,
+
+00:29:06,372 --> 00:29:25,692 [speaker_4]
+Sí, correcto, Yiri. En este momento... están un soporte con Carolina, creo que es, pero, pero sí,
+te entiendo el, el caso y,
+
+00:29:27,912 --> 00:29:40,112 [speaker_2]
+Eh, ahora, eso me, me genera una duda y es: si eso es para-- ¿no aplica para meses,
+esa misma posición?
+
+00:29:40,232 --> 00:29:42,632 [speaker_3]
+No, no escuché.
+
+00:29:42,792 --> 00:29:44,482 [speaker_2]
+No, no se te escuchó.
+
+00:29:44,832 --> 00:29:46,552 [speaker_3]
+No, no se escuchó para meses.
+
+00:29:47,752 --> 00:29:50,532 [speaker_8]
+A-aplica para fecha completa, puede pasar.
+
+00:29:52,272 --> 00:30:04,972 [speaker_3]
+Sí, la idea es, la idea es poder, la idea es poder blindar el proceso, o sea,
+lo más preciso que sea, o sea, posible, e-e-es, es como el objetivo, ¿sí? La,
+
+00:30:05,032 --> 00:30:05,112 [speaker_2]
+Mhm.
+
+00:30:05,132 --> 00:30:15,412 [speaker_3]
+-eh, sin ningún inconveniente y poder, pues obviamente, automatizar lo más posible y,
+y que no se nos presente, no se nos detenga el proceso por ese tipo de cosas.
+
+00:30:16,232 --> 00:31:05,360 [speaker_2]
+Exacto, pero entonces, por favor,
+ayúdennos a entender qué es exactamente la restricción que debemos aplicar.
+
+00:31:06,640 --> 00:31:17,060 [speaker_3]
+Sí, sí, correcto. Mire, por ejemplo, nosotros para-- digamos, que después de,
+de haber presentado toda lo, toda esta novedad, llegamos a una conclusión-
+
+00:31:17,080 --> 00:31:17,090 [speaker_2]
+Mhm.
+
+00:31:17,100 --> 00:31:52,470 [speaker_3]
+Y de pronto, acá nos ayudaron, eh, el equipo de TI, a crear como una alternativa para poder, eh,
+identificar esto, y pues, eh, nos ha servido mucho. Y es de pronto hacer los filtros,
+
+00:31:52,480 --> 00:31:52,490 [speaker_2]
+Mhm.
+
+00:31:52,490 --> 00:32:11,310 [speaker_3]
+-es la que necesitamos, cuando la información que se está transmitiendo desde Dynamics a SI,
+la tome. [carraspeo] ¿Sí? Que me haga esta, esta, esta validación y me la, me la ayude a, a...
+
+00:32:11,320 --> 00:32:11,640 [speaker_2]
+Sí, que no.
+
+00:32:11,660 --> 00:32:14,060 [speaker_3]
+-de otro, de otro año que ya pasó.
+
+00:32:14,080 --> 00:33:05,769 [speaker_2]
+Listo, lo quiero decir de forma inequívoca. Es: va a llegar o no al sistema, ¿listo? Es decir,
+en la cuestión que dejamos en este, en esta, en este entendimiento que les puse en el chat, por fa,
+
+00:33:05,780 --> 00:33:13,900 [speaker_3]
+Pero, pero espera, porque, eh, ahí te entiendo muy general y quiero de pronto aclarar algo,
+porque te-- sí, te entiendo, Óscar, y quiero-
+
+00:33:13,920 --> 00:33:13,950 [speaker_2]
+Mhm.
+
+00:33:13,950 --> 00:33:16,240 [speaker_3]
+-validarlo primero con el equipo.
+
+00:33:16,250 --> 00:33:16,760 [speaker_2]
+Okey.
+
+00:33:16,820 --> 00:33:31,680 [speaker_3]
+Eh, Anderson, ¿hay posibilidad de que, [carraspeo] si llega una fa--
+se solicite la nacionalización de una factura Z noventa y cinco del año 2024, no duplicada?
+
+00:33:32,820 --> 00:33:36,450 [speaker_9]
+Pues, mmm, lo veo poco probable, la verdad. O sea, dos años-
+
+00:33:36,460 --> 00:33:38,310 [speaker_3]
+Pero... listo, dos años.
+
+00:33:38,310 --> 00:33:38,900 [speaker_9]
+Sí puede pasar.
+
+00:33:38,920 --> 00:33:40,370 [speaker_3]
+Y un año, sí puede pasar.
+
+00:33:40,400 --> 00:33:43,900 [speaker_9]
+Sí puede pasar, por ejemplo, en, en diciembre.
+
+00:33:43,940 --> 00:33:44,030 [speaker_3]
+En diciembre.
+
+00:33:44,030 --> 00:33:49,780 [speaker_9]
+En diciembre tenemos del año pasado, 2025, y va a nacionalizar en el 2026.
+
+00:33:49,840 --> 00:33:51,040 [speaker_3]
+Exacto, entonces, eh-
+
+00:33:51,050 --> 00:34:20,700 [speaker_6]
+A ver, yo le he estado, yo le estaba echando cabeza aquí a lo que están comentando.
+Y pues es importante tener en cuenta... que lo que habla, eh, Anderson,
+
+00:34:20,720 --> 00:34:20,900 [speaker_3]
+Sí.
+
+00:34:20,910 --> 00:34:48,280 [speaker_6]
+¿Correcto? Yo creería que, [carraspeo] lo importante aquí es también que nos traiga la fecha del--
+en esa pantalla de-- pienso, no sé, en esa pantalla de captura, que el sistema traiga la,
+
+00:34:48,290 --> 00:34:48,510 [speaker_3]
+Claro.
+
+00:34:48,679 --> 00:34:57,920 [speaker_6]
+Y si ya, y si ya esa guía-- y si ya esas facturas anteriores estuvieran en algún proceso,
+no debería mostrárnoslas en, en este momento, porque ya-
+
+00:34:57,930 --> 00:34:57,930 [speaker_3]
+Claro
+
+00:34:57,930 --> 00:35:10,780 [speaker_6]
+... en el histórico quedó con guía,
+quedó con todo el proceso de nacionalización en su tiempo debido.
+
+00:35:10,790 --> 00:35:10,790 [speaker_3]
+Sí
+
+00:35:10,790 --> 00:35:19,760 [speaker_6]
+... o, o las facturas Z noventa y cinco con su fecha, que no han sido procesadas en,
+en ningún em-embarque o proceso aduanero.
+
+00:35:19,780 --> 00:36:01,020 [speaker_3]
+Es, es, es-- yo creo, Richard, que también es mejor e, e, esa forma que tú dices,
+porque es que no estamos exentos de que, eh, del dos mil--
+
+00:36:02,320 --> 00:36:47,956 [speaker_2]
+Sí, de acuerdo, nosotros hacemos lo que ustedes nos digan que hagamos,
+por eso es lo que queda es claro, qué es lo que debemos hacer. Entonces, eh, corrijo:
+
+00:36:48,716 --> 00:38:32,016 [speaker_6]
+Si mal no estoy, en, en nuestros archivos, en, en cuando, digamos, eh,
+Anderson está tomando una guía, por ejemplo, esta de la-- del ejemplo que él tiene ahí en pantalla.
+
+00:38:32,076 --> 00:38:58,236 [speaker_2]
+Eh, sí, lo, lo que todavía no me queda claro, cuál es el criterio de unicidad que ustedes manejan.
+¿De qué habla? ¿De qué- Sí. De unicidad. De unicidad, ¿qué lo hace único? Ah, pues,
+
+00:38:58,396 --> 00:39:26,596 [speaker_6]
+Sí, o sea... eh, o sea, es que ahí sí ya sería imposible que, que con la fecha se repita,
+eso ya no es-- eso sí es imposible.
+
+00:39:26,656 --> 00:39:27,406 [speaker_2]
+Okey, entonces-
+
+00:39:27,406 --> 00:39:28,726 [speaker_6]
+No se tenía en cuenta la fecha.
+
+00:39:29,616 --> 00:42:08,456 [speaker_2]
+Dale, continuamos con el ejercicio. Una Z noventa y cinco, la veinte veinticuatro,
+tiene fecha de procesamiento veinte, veinticuatro, cero, uno, cero, uno, pero justo en el,
+
+00:42:08,616 --> 00:42:38,396 [speaker_6]
+Si yo, yo por lo que estoy entendiendo,
+Caterpillar en algún momento es quien reprocesa facturas y nos solicita o nos hace la solicitud de
+
+00:42:38,964 --> 00:43:37,654 [speaker_4]
+... de este año,
+porque estamos en el proceso de migración o de la creación del SI versión dos punto cero.
+
+00:43:37,654 --> 00:43:37,704 [speaker_2]
+Creo que-
+
+00:43:37,724 --> 00:43:38,684 [speaker_4]
+¿Estamos de acuerdo?
+
+00:43:38,744 --> 00:43:55,064 [speaker_2]
+Con lo que acabo de concluir, ahí está, eh,
+perfectamente dominada la conclusión que está [interferencias] quedará descrita en las historias de
+
+00:43:55,784 --> 00:43:58,074 [speaker_10]
+No se te escucha, Óscar, no sé si sea solo yo.
+
+00:43:58,074 --> 00:44:06,884 [speaker_2]
+¿Probando sonido?
+
+00:44:07,004 --> 00:44:08,744 [speaker_10]
+Sí.
+
+00:44:10,984 --> 00:44:15,054 [speaker_4]
+Porque todos tenemos problemas de sonido o de Internet.
+
+00:44:15,224 --> 00:44:28,424 [speaker_2]
+Es, es decir, era yo, era yo. [risas] No eran ustedes, era yo. Si ya me escuchan bien, eh,
+la conclusión está en el chat. Por fa, den, denle una mirada, porque lo que dijimos fue:
+
+00:44:33,904 --> 00:44:35,114 [speaker_10]
+Se te va el audio.
+
+00:44:39,244 --> 00:44:42,054 [speaker_4]
+Sí, yo, yo lo dejé de escuchar, pero el, el-
+
+00:44:42,054 --> 00:44:42,464 [speaker_10]
+Lo perdí.
+
+00:44:42,584 --> 00:45:07,174 [speaker_4]
+Dónde dice que las facturas hoy, ayer, mes pasado, factura más fecha, ya fue procesada,
+no debe cargarse en el SI dos punto cero.
+
+00:45:07,184 --> 00:45:09,384 [speaker_10]
+Sí, sí, lo que pasa es que-
+
+00:45:09,424 --> 00:45:10,284 [speaker_1]
+Sí, toca dejarla.
+
+00:45:10,293 --> 00:45:10,684 [speaker_10]
+Lo que pasa-
+
+00:45:10,724 --> 00:45:11,644 [speaker_1]
+Es que toca dejarla.
+
+00:45:11,744 --> 00:45:11,754 [speaker_10]
+Sí.
+
+00:45:11,754 --> 00:45:21,934 [speaker_1]
+Y Caterpillar tampoco nos va a... eh, Ca-- no podemos ir a Caterpillar y decirle: "Venga, no, no,
+ya no queremos que nos emita más consecutivos, eh, repetidos". O sea, no, es simple.
+
+00:45:21,934 --> 00:45:22,014 [speaker_10]
+Exacto.
+
+00:45:22,084 --> 00:45:29,024 [speaker_1]
+Que el sistema, que el sistema lo reconozca por, eh, nu, eh, número de factura, por fecha,
+no es más. O sea, no, no es mala solicitud.
+
+00:45:29,064 --> 00:45:29,404 [speaker_10]
+Creo que-
+
+00:45:29,413 --> 00:45:33,904 [speaker_1]
+Creo que, creo que nos estamos e-enredando más a una solicitud que-
+
+00:45:33,924 --> 00:45:33,934 [speaker_10]
+Ajá
+
+00:45:33,934 --> 00:45:36,524 [speaker_1]
+... que, que es muy básica. Se reconoce el-
+
+00:45:36,544 --> 00:45:36,644 [speaker_10]
+Sí.
+
+00:45:36,784 --> 00:45:55,104 [speaker_1]
+Si se está repitiendo la factura, valide; si la fecha se está repitiendo,
+y si no se está repitiendo, que es un año actual, procésela, ya. ¿Sí? No, no, no--
+
+00:45:56,944 --> 00:45:59,884 [speaker_4]
+Sí, pero si leen lo que está en el chat de la reunión, que es lo que-
+
+00:45:59,904 --> 00:46:00,314 [speaker_1]
+Sí, que-
+
+00:46:00,384 --> 00:46:02,334 [speaker_4]
+estamos invitando a que le, le, leamos.
+
+00:46:02,364 --> 00:46:03,124 [speaker_2]
+No es viable.
+
+00:46:03,144 --> 00:46:06,073 [speaker_1]
+No, no, no es viable. Exactamente, esa no es viable.
+
+00:46:06,073 --> 00:46:06,554 [speaker_2]
+No es viable, ¿por qué?
+
+00:46:06,564 --> 00:46:10,844 [speaker_1]
+Por eso fue que levantamos la mano, porque él la entendió de una manera diferente.
+
+00:46:10,864 --> 00:46:11,444 [speaker_10]
+Correcto.
+
+00:46:11,844 --> 00:46:24,544 [speaker_4]
+Déjame, déjame decir la idea. No es viable, ¿por qué? Porque aquí estamos, digamos, listo, no,
+no se migró nada, entonces todo es nuevo, ¿sí? Vamos a llegar al dos mil veintisiete,
+
+00:46:24,604 --> 00:46:24,764 [speaker_1]
+Mmm.
+
+00:46:24,804 --> 00:46:28,304 [speaker_4]
+y vamos a tener el mismo problema. Entonces, eh-
+
+00:46:28,314 --> 00:46:28,314 [speaker_1]
+Mmm.
+
+00:46:28,324 --> 00:46:51,024 [speaker_4]
+esa idea no, no es viable. Eso no tiene nada que ver con que se lleve un archivo antiguo o,
+o se empiece con el archivo nuevo, y eso no. A futuro vamos a tener el mismo inconveniente,
+
+00:46:51,044 --> 00:46:51,164 [speaker_1]
+Hola
+
+00:46:51,264 --> 00:46:58,244 [speaker_4]
+... factura y con una guía. Esa es como la idea. ¿Aló? Sí. Hola, Óscar.
+
+00:46:58,284 --> 00:47:00,164 [speaker_2]
+Ya, ¿ya me escuchan?
+
+00:47:00,244 --> 00:47:01,884 [speaker_10]
+Ahí te escuchamos mejor.
+
+00:47:01,924 --> 00:47:02,514 [speaker_2]
+Bueno, bien.
+
+00:47:02,584 --> 00:47:09,064 [speaker_10]
+Estamos... [interferencias] Se te corta, se te corta. [risas] Todavía se te corta.
+
+00:47:09,074 --> 00:47:09,844 [speaker_2]
+¿Se me corta?
+
+00:47:10,464 --> 00:47:11,084 [speaker_10]
+Sí.
+
+00:47:11,104 --> 00:47:20,194 [speaker_2]
+Entonces, esperen un segundo, me cambio de, de, de lugar. Esperen un par de minutos,
+mientras me voy a otro lugar.
+
+00:47:23,144 --> 00:47:39,844 [speaker_1]
+Óscar, creo que no, no, no escuchó lo que yo dije.
+
+00:47:41,484 --> 00:47:43,904 [speaker_10]
+No, démosle un segundito para que-
+
+00:47:45,304 --> 00:47:45,464 [speaker_1]
+Sí
+
+00:47:45,474 --> 00:47:51,304 [speaker_10]
+se conecte y cambie, y cambie la idea que, que puso en el, en el chat.
+
+00:47:51,384 --> 00:47:53,664 [speaker_1]
+Okey.
+
+00:50:58,014 --> 00:50:58,954 [speaker_2]
+... Hola, hola.
+
+00:51:00,754 --> 00:51:01,334 [speaker_1]
+Te escuchamos.
+
+00:51:02,114 --> 00:51:05,414 [speaker_2]
+Bueno, yo creo que ya me deben escuchar perfecto, ¿de acuerdo?
+
+00:51:05,454 --> 00:51:07,144 [speaker_1]
+Sí, te escuchamos perfecto, gracias.
+
+00:51:07,834 --> 00:51:13,574 [speaker_2]
+Bueno, gracias a ustedes por la paciencia. Bueno, entonces, eh,
+estamos co-co-concluyendo el anterior punto-
+
+00:51:13,634 --> 00:51:55,994 [speaker_1]
+Sí, sí, para, para cerrarla, porque a-- antes de que se te cortara estoy, eh, como, eh,
+dando notificación de que de pronto nos estamos enredando mucho con... dándole mucho enredo al, al,
+
+00:51:56,074 --> 00:52:33,294 [speaker_2]
+Eh, quiero entender si hay exclusiones o no. Lo que quiero entender es: las, las facturas que,
+las facturas que ingresen y que ya fueron procesadas, simplemente,
+
+00:52:33,314 --> 00:52:45,814 [speaker_1]
+No, no se debe revisar nada. O sea, lo que ya está, ya está, y lo que llega, llega como nuevo.
+O sea, llega un... diferente, para un proceso diferente o para, para una solicitud diferente.
+
+00:52:45,874 --> 00:52:46,524 [speaker_11]
+Ahí, ahí, perdón-
+
+00:52:46,534 --> 00:52:51,214 [speaker_1]
+No puede sobrescribir ni, ni, ni nada de eso, o sea, totalmente separado.
+
+00:52:51,934 --> 00:53:37,263 [speaker_11]
+Sí, ahí no sobrescribe, son procesos, lo que está diciendo Fabián,
+ahí si yo le pido un poquito de apoyo a... para, para, para aclarar conceptos a Deisy. Hola, Deisy,
+
+00:53:54,594 --> 00:53:55,064 [speaker_2]
+¿Deisy?
+
+00:53:58,394 --> 00:54:01,324 [speaker_11]
+Tenía el micrófono arriba, perdón. Buenos días. [risas]
+
+00:54:01,334 --> 00:54:02,394 [speaker_2]
+Buenos días, Deisy.
+
+00:54:02,404 --> 00:54:48,794 [speaker_11]
+[risas] Hace unos, hace unos añ-- eh, hace unos años, sí, eh,
+lo que nosotros hacíamos por parte de soporte era colocarle a lo último de las facturas, eh,
+
+00:54:49,358 --> 00:55:08,098 [speaker_12]
+... las llaves para mostrar las fac-, eh, estas facturas y para poder entrar a validarlas,
+como lo dice Fabián, es el número de la factura más, eh, la fecha.
+
+00:55:08,178 --> 00:55:09,038 [speaker_2]
+Okey-
+
+00:55:09,218 --> 00:55:17,378 [speaker_12]
+Que es lo que actualmente ya está funcionando. O sea, s--
+anteriormente si nos tocaba como sobreescribirlo,
+
+00:55:17,388 --> 00:55:17,388 [speaker_2]
+Mhm.
+
+00:55:17,418 --> 00:55:24,658 [speaker_12]
+Con el tiempo se actualiza estos programas,
+en donde nos va a mostrar es lo de la fecha más reciente.
+
+00:55:25,318 --> 00:55:33,267 [speaker_2]
+De acuerdo. Es decir, va, siempre van a ingresar, eh, todo lo nuevo y nunca se repite por fecha,
+es decir-
+
+00:55:33,267 --> 00:55:33,267 [speaker_12]
+No.
+
+00:55:33,278 --> 00:55:44,488 [speaker_2]
+Por fecha y factura. Es decir, que si al--
+una factura de el día de ayer vuelve a llegar en el proceso, simplemente el, el proceso la excluye,
+
+00:55:44,498 --> 00:55:45,998 [speaker_12]
+Exactamente, ajá.
+
+00:55:46,018 --> 00:55:46,958 [speaker_2]
+Lo que ya fue procesado-
+
+00:55:47,358 --> 00:55:47,368 [speaker_12]
+Y-
+
+00:55:47,378 --> 00:55:48,898 [speaker_2]
+No, no se vuelve a cargar, y-
+
+00:55:49,758 --> 00:56:00,128 [speaker_12]
+Pero las llaves siempre son, digamos, las fechas. Ejemplo, pongámoslo así,
+como tú lo acabas de decir: ayer llegó una factura X con la fecha de ayer. Hoy llega-
+
+00:56:00,178 --> 00:56:00,188 [speaker_2]
+Mhm
+
+00:56:00,188 --> 00:56:03,118 [speaker_12]
+... la misma factura, pero ya no va a llegar con la fecha de ayer, sino-
+
+00:56:03,128 --> 00:56:03,568 [speaker_2]
+No, con la fecha de-
+
+00:56:03,568 --> 00:56:05,048 [speaker_12]
+Llega con la fecha de hoy.
+
+00:56:05,078 --> 00:56:05,388 [speaker_2]
+Son diferentes.
+
+00:56:05,398 --> 00:56:06,278 [speaker_12]
+O el registro-
+
+00:56:06,318 --> 00:56:06,398 [speaker_2]
+Mhm
+
+00:56:06,498 --> 00:56:12,678 [speaker_12]
+... de la fecha de hoy. Ya son dos facturas diferentes, se tienen que cargar al, al sistema.
+
+00:56:12,778 --> 00:56:12,998 [speaker_2]
+Ajá.
+
+00:56:13,018 --> 00:56:29,618 [speaker_12]
+Y la última es la que ellos tienen que entrar a procesar. También tienen ellos la opción de,
+pues no s-- ahorita estoy un poquito desactualizada en qué, en qué, en cuál van,
+
+00:56:29,658 --> 00:56:30,268 [speaker_2]
+En una consulta.
+
+00:56:30,268 --> 00:56:31,638 [speaker_12]
+Ellos también utilizan la factura. Exacto.
+
+00:56:31,648 --> 00:56:33,298 [speaker_2]
+Sí, sí, sí, ya vemos.
+
+00:56:33,338 --> 00:56:42,168 [speaker_12]
+Exacto, ellos utilizan este, también este filtro, precisamente por lo mismo,
+como para tomar la factura que en realidad ellos necesitan trabajar.
+
+00:56:42,198 --> 00:57:37,138 [speaker_2]
+Me quedan dos preguntas. La primera es: cuando el proceso vuelve a correr,
+porque corre en diferentes horas,
+
+00:57:37,638 --> 00:57:56,698 [speaker_12]
+Okey, eh, voy a explicar a ver si, si, si te entendí. Actualmente,
+cuando nosotros recibimos estas facturas, la-- cuando se reciben, en el,
+
+00:57:56,718 --> 00:57:56,947 [speaker_2]
+Mhm.
+
+00:57:56,947 --> 00:58:03,178 [speaker_12]
+¿Ya? Si esta se, si esta ya existe, no la procesa el SI, no la recibe.
+
+00:58:03,258 --> 00:58:03,268 [speaker_2]
+Mhm.
+
+00:58:03,268 --> 00:58:14,278 [speaker_12]
+Entonces, cuando por algún motivo, eh, los chicos que utilizan Dynamics dicen: "Ah,
+es que se me olvidó facturar o se me olvidó ingresar este ítem", ellos lo que-
+
+00:58:14,287 --> 00:58:14,287 [speaker_2]
+Exacto
+
+00:58:14,287 --> 00:58:25,878 [speaker_12]
+... tienen que hacer actualmente en el SI, es entrar y eliminar la factura,
+y volver a hacer todo el proceso de actualización en Dynamics-
+
+00:58:25,898 --> 00:58:25,908 [speaker_2]
+Okey
+
+00:58:25,908 --> 00:58:37,168 [speaker_12]
+... para que a nosotros nos llegue bien. Es como una manera de nosotros obligar, eh,
+que en Dynamics se hagan las actualizaciones y sea la misma información que nos está-
+
+00:58:37,278 --> 00:58:37,438 [speaker_2]
+Ya
+
+00:58:37,978 --> 00:58:38,468 [speaker_12]
+... llegando al SI.
+
+00:58:38,468 --> 00:59:06,158 [speaker_2]
+Pero entonces siento que no hay necesidad de eliminar, creo que no deberíamos de,
+de trasladar esta responsabilidad a un nuevo sistema,
+
+00:59:06,197 --> 00:59:06,267 [speaker_12]
+Ajá.
+
+00:59:06,298 --> 00:59:12,458 [speaker_2]
+Pero fueron cargados solamente ocho. En la mecánica que tú dices, bueno,
+tenemos que eliminarla para que puedan ingresar los diez.
+
+00:59:12,478 --> 00:59:12,838 [speaker_12]
+Sí.
+
+00:59:12,878 --> 00:59:44,438 [speaker_2]
+Yo lo que siento es que falta que me des un criterio para poder yo saber que ya ingresó el item uno,
+luego el dos, luego el tres, y cuando vuelva a procesar,
+
+00:59:44,978 --> 00:59:45,218 [speaker_12]
+Sí
+
+00:59:45,258 --> 00:59:49,478 [speaker_2]
+... cargar lo que falta. ¿Cuál sería ese criterio?
+
+00:59:49,498 --> 00:59:49,508 [speaker_12]
+Eh-
+
+00:59:49,508 --> 00:59:56,058 [speaker_2]
+¿Cuál sería el ID del item de esas facturas, fecha? Me falta un, un dato.
+
+00:59:58,238 --> 01:00:06,678 [speaker_12]
+Dame un segundito a ver si de pronto encuentro alguno, porque digamos, eh,
+el ítem no puede ser una de las opciones.
+
+01:00:07,798 --> 01:00:08,698 [speaker_2]
+Okey.
+
+01:00:08,718 --> 01:00:10,488 [speaker_12]
+Porque el ítem-
+
+01:00:10,498 --> 01:00:23,758 [speaker_2]
+Tampoco le tendríamos que definir tan exacto en este espacio, porque siento que ese proceso técnico,
+que es el mismo que hablamos ayer, todavía nos lo debes, y de pronto nos estamos algo--
+
+01:00:24,758 --> 01:00:33,258 [speaker_12]
+Sí, sí, porque digamos, si ahorita hablamos de que de pronto una referencia, eh,
+poder coger factura, fecha-
+
+01:00:33,278 --> 01:00:33,288 [speaker_2]
+Mhm
+
+01:00:33,288 --> 01:00:45,588 [speaker_12]
+... y referencia, no puede ser tan viable, porque, eh, hay ocasiones donde en Dynamics facturan--
+está la misma factura, está la misma fecha, pero van con dos ítems.
+
+01:00:45,618 --> 01:00:46,338 [speaker_2]
+Mhm.
+
+01:00:46,378 --> 01:00:53,498 [speaker_12]
+Porque puede ser que en la primera no se facturaron solo uno, una cantidad,
+y después facturaron dos cantidades.
+
+01:00:53,508 --> 01:00:53,508 [speaker_2]
+Mhm.
+
+01:00:53,518 --> 01:01:07,454 [speaker_12]
+Entonces, se repite el ítem, no podría ser esa opción.... Eh,
+déjame si yo valido en los archivos que llegan de la Z-noventa y cinco, ¿cuál otro podí-
+
+01:01:07,614 --> 01:01:08,064 [speaker_2]
+Listo.
+
+01:01:08,074 --> 01:01:09,734 [speaker_12]
+A ver, te lo encuentro.
+
+01:01:09,754 --> 01:01:52,934 [speaker_2]
+Entonces, nos, nos queda claro que aquí hay una optimización que,
+que realizar para evitar unas funcionalidades que hoy utilizan ustedes de, de gestión,
+
+01:01:58,194 --> 01:02:12,574 [speaker_12]
+Sí, señor, uno de los, eh, de los soportes es el tema de la fecha, pero que digamos, eh,
+te escuché decir algo de un correo, pero pues en sí, eh,
+
+01:02:12,584 --> 01:02:12,624 [speaker_2]
+Exacto.
+
+01:02:12,624 --> 01:02:20,624 [speaker_12]
+-tal se está repitiendo". Independiente de cuál de los chicos de Comex,
+pues son los que me notifican por medio de, pues aquí, interno.
+
+01:02:20,994 --> 01:02:22,484 [speaker_2]
+Y un ca-- y un caso que te, te ponen, ¿no?
+
+01:02:22,514 --> 01:02:23,744 [speaker_12]
+Exacto, con un caso.
+
+01:02:24,254 --> 01:02:24,694 [speaker_2]
+Entonces-
+
+01:02:24,734 --> 01:03:56,254 [speaker_12]
+Y ya ahí yo hago pues el barrido de, de esa, digamos, ellos me dicen: "No,
+es que esta factura no sé, es del año veintiuno". Entonces,
+
+01:03:58,694 --> 01:06:04,054 [speaker_2]
+Eh, voy a dejar acá esa nota, factura más fecha, eh, de años anteriores y horas más fecha del día,
+incluso incompletas, que hoy se realizó hoy aquí en la semana. Listo,
+
+01:06:04,134 --> 01:06:15,814 [speaker_12]
+Eh, una cosa, Óscar, aprovechando, pues, es, este espacio, yo sé que les estoy pidiendo en este ca--
+en este momento, pues varias cositas. Eh, quiero poner en contexto, pues, a todo el, el equipo-
+
+01:06:15,834 --> 01:06:16,014 [speaker_2]
+Mhm.
+
+01:06:16,074 --> 01:06:52,914 [speaker_12]
+El porqué yo no he podido entregar eso. Pude adelantar el lunes, eh,
+lo que les mostré sobre las tablas, eh, que se insertan, más no las tablas que se consultan,
+
+01:06:52,974 --> 01:06:57,544 [speaker_0]
+Si quieres, porfa, envíanos ese TI en, en el correo diciendo que estás-
+
+01:06:57,574 --> 01:06:57,584 [speaker_12]
+¡Ah! Listo, perfecto.
+
+01:06:57,584 --> 01:07:15,114 [speaker_0]
+-trabajando y que llegaste tarde, y si nos puedes proveer lo que tengas y que nos sirva,
+superbienvenido, y dejar ahí como la traza para que no quede, que no se le ha hecho seguimiento,
+
+01:07:15,498 --> 01:07:41,278 [speaker_12]
+... Listo, perfecto, porque es que, digamos, deee, de lo de las, los aranceles,
+yo me fui a todas las tablas que se registran,
+
+01:07:41,878 --> 01:07:42,198 [speaker_2]
+Mhm.
+
+01:07:42,208 --> 01:07:56,378 [speaker_12]
+Entonces, ahorita te envío el correo sobre los pendientes que tengo y pues adjunto, pues, a,
+a mi líder para que tenga también presente, aunque el-- acá todo el equipo sabe que,
+
+01:07:56,518 --> 01:10:20,738 [speaker_2]
+Dale, eh, también para ayudarle, a, a ayudarles a todos al, al qué es lo que estamos construyendo,
+como lo hablamos con César al inicio. Realmente no es que estemos trayendo el sistema an-- eh,
+
+01:10:20,748 --> 01:10:21,998 [speaker_1]
+¿Y cómo...?
+
+01:10:22,008 --> 01:10:22,658 [speaker_2]
+¿Listo?
+
+01:10:23,418 --> 01:10:24,418 [speaker_1]
+No, no, es que está-
+
+01:10:24,498 --> 01:10:27,778 [speaker_12]
+¿Sergio?
+
+01:10:27,798 --> 01:11:11,407 [speaker_2]
+¡Hola! Parece que está activado el micrófono. Entonces,
+busquemos la simplicidad sobre el exceso de información,
+
+01:11:11,438 --> 01:11:12,658 [speaker_12]
+Dale, sí, señor.
+
+01:11:13,278 --> 01:11:15,428 [speaker_2]
+¿Requerimiento treinta y uno?
+
+01:11:15,518 --> 01:11:28,798 [speaker_1]
+Sí, bueno, eh, quiero saltar el treinta y uno. ¿Por qué? Porque es que el treinta y uno nos dice:
+"Parcializar guía", pero todavía no hemos visto cómo generar una guía, entonces no,
+
+01:11:28,838 --> 01:11:28,968 [speaker_2]
+Ya.
+
+01:11:28,978 --> 01:11:43,898 [speaker_1]
+Entonces, primero vamos a mirar, eh,
+lo que es el requerimiento número treinta y tres y treinta y cuatro,
+
+01:11:43,958 --> 01:11:44,758 [speaker_2]
+¡Claro!
+
+01:11:44,778 --> 01:12:09,998 [speaker_1]
+Anderson, aquí te comparto el requerimiento número treinta y tres. Ya entramos a, a,
+a la generación de guía. El proceso debe ser generados por dealers.
+
+01:12:10,038 --> 01:12:10,358 [speaker_2]
+Sí.
+
+01:12:10,398 --> 01:12:36,338 [speaker_1]
+Esa, esa misma tabla.
+El sistema tendrá la capacidad de asignar las facturas a un número de documento de transporte,
+
+01:12:36,518 --> 01:13:22,298 [speaker_2]
+[carraspeo] Listo. Bueno, continuando con este proceso,
+nosotros ingresamos por la UPC dos mil quinientos, nuestro sistema de importaciones. Eh,
+
+01:13:23,994 --> 01:15:05,194 [speaker_3]
+... guía, sí, lo vamos a colocar acá en simple. Prueba. R cuatro sesenta, que es nuestro,
+nuestro dealer para es-- para back order. Ingresamos, F9, y acá es la, la,
+
+01:15:05,234 --> 01:15:06,934 [speaker_2]
+Ah, perfectamente.
+
+01:15:06,954 --> 01:16:42,594 [speaker_3]
+Listo. Entonces, digamos, por ejemplo, acá utilizamos Atlas y acá nos va a traer, digamos,
+acá igual con las embarcadoras, todos los códigos que están acá, eh, almacenados y creados,
+
+01:16:42,674 --> 01:17:06,274 [speaker_2]
+Eh, perdona, que hacemos una pausa acá. Eh, nosotros por ahora estamos apenas cargando información,
+todavía no la estamos utilizando. Es decir, tú mencionas acá unos como el puerto, importación,
+
+01:17:06,314 --> 01:17:06,944 [speaker_3]
+Zona franca.
+
+01:17:07,054 --> 01:17:32,674 [speaker_2]
+Zona franca, sí o no, sí o no, sí o no, ¿listo? Entonces ahí simplificamos.
+Y no perdamos de vista para qué lo vamos a utilizar.
+
+01:17:32,694 --> 01:17:56,954 [speaker_3]
+[carraspeo] Bueno, digamos que, no sé, digamos que para nosotros no es visible, de pronto,
+de-después de haber impulsado esta tabla o esta, esta, esta vista, dónde nos va a quedar, eh, un,
+
+01:17:57,014 --> 01:18:01,354 [speaker_2]
+Sí, lo podemos ver. [carraspeo] Sí, ponlo en algún lado, sí.
+
+01:18:01,394 --> 01:18:06,554 [speaker_3]
+Digamos, vamos a dejar esta como prueba, entonces yo la genero, igual, acá la podemos borrar.
+
+01:18:06,654 --> 01:18:09,994 [speaker_2]
+No tiene que ser esta, no tiene que ser esta. Puedes referenciar otra.
+
+01:18:10,074 --> 01:18:10,864 [speaker_3]
+Ah, okay.
+
+01:18:10,914 --> 01:18:18,884 [speaker_2]
+Sí, sí, sí. No, no, no te enredes con esto, solamente para que nosotros podamos decir: "Mire,
+todo lo que estamos llenando acá es porque va hacia este lugar".
+
+01:18:18,894 --> 01:19:45,782 [speaker_3]
+Listo, claro. Entonces, digamos, ya después de haber impulsado la guía, eh,
+a nosotros se nos va a generar acá lo que es la declaración de importación,
+
+01:19:46,482 --> 01:19:52,902 [speaker_2]
+Listo, eh, es decir, esta parte es la que se va a utilizar en, en otra parte del proceso, ¿cierto?
+No-
+
+01:19:52,922 --> 01:19:53,092 [speaker_3]
+Mhm.
+
+01:19:53,342 --> 01:19:54,322 [speaker_2]
+Por ahora no la vamos a detallar-
+
+01:19:54,342 --> 01:19:54,372 [speaker_3]
+Mhm.
+
+01:19:54,372 --> 01:19:56,592 [speaker_2]
+Porque hace parte de otro proceso, ¿de acuerdo?
+
+01:19:56,622 --> 01:19:57,482 [speaker_3]
+Sí, de acuerdo.
+
+01:19:57,502 --> 01:20:06,322 [speaker_2]
+Listo, entonces sí, vamos solamente hasta-- llegamos hasta ese punto para no explorar más,
+más temas que de pronto vamos a ver más adelante.
+
+01:20:08,222 --> 01:23:43,502 [speaker_3]
+Salvo. Bueno, entonces digamos que hasta ahí,
+hasta donde les estaba mostrando el proceso que se genera, digamos, la guía y todo el tema de,
+
+01:23:43,522 --> 01:23:44,382 [speaker_2]
+Mhm.
+
+01:23:44,422 --> 01:23:53,362 [speaker_3]
+Me va a generar lo que es el valor SOP de, de las, de las facturas, y hasta ahí digamos,
+sería la generación como tal de esa guía.
+
+01:23:55,722 --> 01:24:56,542 [speaker_2]
+Dame un segundito, por favor. Y vamos aquí. Sí, eh, nosotros tenemos esa información, Anexo cuatro,
+proceso cross docking. Ahora, de este, de este proceso que estás mencionando, me queda la duda,
+
+01:24:56,582 --> 01:25:30,862 [speaker_3]
+Sí, caen en el día en curso. Lo que sucede es que, como les mencionaba, esto en paralelo,
+se está corriendo el proceso de la facturación que se ejecuta en, en el área de operaciones,
+
+01:25:30,882 --> 01:25:30,892 [speaker_2]
+Ya.
+
+01:25:30,902 --> 01:25:35,682 [speaker_3]
+Pero si yo hubiese generado todas las guías del día de ayer, pues, eh, no estarían.
+
+01:25:35,702 --> 01:25:42,742 [speaker_2]
+Listo. Facturación,
+dices que las personas de facturación ingresan al SI o las personas de facturación están en
+
+01:25:42,782 --> 01:25:43,522 [speaker_3]
+Dynamics.
+
+01:25:44,054 --> 01:26:34,934 [speaker_2]
+... Listo, entonces, ya las personas de,
+de Dynamics están haciendo las modificaciones y van liberando facturas que ya están finalizadas,
+
+01:26:36,074 --> 01:26:40,574 [speaker_3]
+Yo no entendí, de pronto, ¿Edison, no entendiste? O sea, lo que yo sí sé-
+
+01:26:40,584 --> 01:26:51,434 [speaker_2]
+Si veo de pronto, veinti-- ven-veinti-veinticinco de febrero,
+solamente vi facturas del veinticinco de febrero. La pregunta es:
+
+01:26:51,494 --> 01:27:32,454 [speaker_3]
+Sí, sí, sí. Sí, como les mencionaba, actualmente y todos los días,
+se corre un proceso de facturación a las siete y media de la mañana y ru-- dura, dura alrededor de,
+
+01:27:32,494 --> 01:27:35,534 [speaker_2]
+Okey, listo. Sí, que se caen.
+
+01:27:35,894 --> 01:27:36,174 [speaker_3]
+[carraspeo] Sí.
+
+01:27:36,274 --> 01:27:37,174 [speaker_2]
+Listo.
+
+01:27:38,314 --> 01:29:30,694 [speaker_3]
+Listo, bueno, eh, como para continuar y como para la aclaración,
+esta es una manera de nosotros generar las guías individualmente, o sea, guía por guía,
+
+01:29:31,394 --> 01:29:35,154 [speaker_2]
+Eh, Ricardo tiene la, la mano levantada, cualquier cosa.
+
+01:29:35,194 --> 01:29:46,204 [speaker_13]
+Eh, tengo una preguntica, Anderson. ¿Este, ese, esa nueva opción está ligada al,
+al cross docking o al on o cat también, no...?
+
+01:29:46,214 --> 01:29:46,244 [speaker_3]
+Actualmente-
+
+01:29:46,244 --> 01:29:48,214 [speaker_13]
+Es como nueva para mí.
+
+01:29:48,274 --> 01:30:03,654 [speaker_3]
+Sí, no, actualmente está ligada solo al cross docking y también para equipos.
+Marcas aliadas lo estábamos ejecutando, pero bueno, pues llegó, eh, pues el, el,
+
+01:30:03,793 --> 01:30:06,194 [speaker_13]
+Ah, bueno, listo. Okey, gracias.
+
+01:30:06,254 --> 01:30:15,134 [speaker_2]
+Entiendo por la pregunta de Ricardo, que lo vamos a ver en, en el, en el de equipos,
+vamos a ver este mismo proceso, ¿de acuerdo?
+
+01:30:15,154 --> 01:30:53,044 [speaker_3]
+Sí, correcto. Y pues la idea es poderlo replicar a marcas aliadas, desde luego, o sea, todo,
+pues con miras a generar, pues todas las guías, todos los BLs, por una misma opción,
+
+01:30:53,054 --> 01:30:58,934 [speaker_12]
+Yo quiero-- qué pena, Anderson, ¿yo puedo hacer ahí como una aclaración? Ante...
+
+01:30:58,954 --> 01:30:58,964 [speaker_3]
+Sí.
+
+01:30:58,974 --> 01:31:57,842 [speaker_12]
+De que este, de la generación masiva de las guías también se realiza para equipos. Solo quiero,
+pues, recalcar de que son procesos-- es el mi-- es la misma opción y en muchos temas, eh,
+
+01:31:59,822 --> 01:32:48,682 [speaker_2]
+Listo. Eh, gracias, Deisy,
+por el comentario y aquí pues vamos a dejar un compromiso para el requerimiento treinta y tres y
+
+01:32:48,702 --> 01:33:05,662 [speaker_12]
+Dale, yo entro a especificar. Igual, eh,
+la información de la generación de las guías sí se guardan en una sola tabla,
+
+01:33:10,322 --> 01:33:23,612 [speaker_2]
+[carraspeo] Vale.
+
+01:33:23,622 --> 01:33:35,822 [speaker_14]
+Eh, bueno, eh, no sé, Óscar, si tienen alguna pregunta, eh, acerca de la generación de la guía.
+De pronto, si tienen alguna duda para irla aclarando antes de con- de continuar.
+
+01:33:35,882 --> 01:35:34,822 [speaker_2]
+Eh, sí, dame un espaciecito, yo tomo acá esta nota. Bueno, mmm, la generación de la guía.
+La generación de la guía, la generación de la guía. Lo observamos por la... el módulo de guías,
+
+01:35:34,842 --> 01:35:41,402 [speaker_14]
+Dame un momentico, yo les robo pantalla, te explico ese pedacito para que de pronto lo tengas.
+Yo te lo dejo, eh, anotado, claro está-
+
+01:35:41,442 --> 01:35:42,042 [speaker_2]
+Sí.
+
+01:35:42,102 --> 01:35:46,042 [speaker_14]
+Y, y les muestro como tal.
+
+01:35:46,082 --> 01:36:13,511 [speaker_2]
+De una. Lo mismo, eh, Deisy, desde pun- desde tu, desde tu punto de vista,
+esas tablas que no se observan en la explicación, porfa, nos dejas, nos dejas claro que claro,
+
+01:36:13,542 --> 01:37:01,962 [speaker_12]
+Ajá. Sí, ya vamos a abrir, eh, con César, que, eh,
+vamos a implementar como otra pestañita en el Excel que yo estoy trabajando,
+
+01:37:01,982 --> 01:37:03,042 [speaker_2]
+Mhm.
+
+01:37:03,052 --> 01:37:18,662 [speaker_12]
+Entonces, sí les recomiendo al equipo de Comercio Exterior,
+no sé si está dentro del plan de trabajo, eh, presentar todas esas, estas opciones que tienen en es,
+
+01:37:18,722 --> 01:37:18,732 [speaker_2]
+...
+
+01:37:18,742 --> 01:37:26,062 [speaker_12]
+porque sí es fundamental y creo que es muy necesario, porque sí hay muchas de consultas.
+
+01:37:26,142 --> 01:38:03,498 [speaker_2]
+Listo, podemos hacer una sesión, Fabián, contigo y con Deisy, para entender esta, esta propuesta,
+porque, eh, las estamos viendo así como por separado dentro del proceso, pero tal vez las podamos a-
+
+01:38:03,508 --> 01:38:03,508 [speaker_12]
+Claro.
+
+01:38:03,518 --> 01:38:04,598 [speaker_2]
+Si lo logramos.
+
+01:38:04,618 --> 01:38:11,428 [speaker_12]
+Tal cual, porque de pronto también en el momento en que yo les envíe el Excel y les digo:
+"estas son las tablas de consulta", ya-
+
+01:38:11,438 --> 01:38:12,458 [speaker_1]
+Le vamos a hacer una validación.
+
+01:38:12,498 --> 01:38:18,338 [speaker_12]
+También está, ah, ya ellos lo tienen referenciado. Entonces, si-
+
+01:38:18,698 --> 01:40:00,068 [speaker_1]
+Sí, no, es, sí, sí, es superimportante, Daisy, gracias. Sí, las tablas que tú envíes, pues, eh,
+tenemos que validarlas también nosotros y decir: "Venga, es, si es así, si están bien,
+
+01:40:00,068 --> 01:40:03,218 [speaker_2]
+Sí, de acuerdo. Entonces, aquí les dejo el compromiso-
+
+01:40:03,258 --> 01:40:05,578 [speaker_1]
+Sí.
+
+01:40:05,638 --> 01:40:31,438 [speaker_2]
+De, ah, realizar esa tarea y luego socializ- socializarla con nosotros para que podamos, eh,
+iniciar con unas tareas ya de, de desarrollo,
+
+01:40:31,458 --> 01:40:33,238 [speaker_1]
+De acuerdo. Gracias, Oscar.
+
+01:40:33,498 --> 01:41:17,618 [speaker_2]
+Gracias a ustedes. Entonces, aquí les paso ese compromiso.
+Lo voy a dejar atado al requerimiento treinta y tres, treinta y tres, pero como una propuesta,
+
+01:41:18,338 --> 01:41:27,058 [speaker_1]
+Eh, sí, tal cual, yo te daría como tal los usuarios, eh, que puedan modificar, traer, eliminar, eh,
+cada, cada mantenimiento, cada tabla, ¿listo?
+
+01:41:27,298 --> 01:42:19,178 [speaker_2]
+Ya, y otra cosa que de pronto no hemos hablado y que nos ayudaría a entenderlo,
+es cómo hacer una división, como...
+
+01:42:19,198 --> 01:42:30,498 [speaker_1]
+Ah, okey, listo, no, sí, sí me parece bien. Ya entraré a mirar la, las tablas y validar en qué--
+cómo la podemos clasificar, po', como, como tú nos dices, y, y, y, y lo ajustamos. Dale.
+
+01:42:30,578 --> 01:42:33,888 [speaker_2]
+Lanza, lanza la primera y luego lo revisamos en conjunto y llegamos-
+
+01:42:33,938 --> 01:42:34,798 [speaker_1]
+Exacto.
+
+01:42:34,858 --> 01:42:39,018 [speaker_2]
+A una versión mejorada entre ustedes y nosotros.
+
+01:42:39,638 --> 01:43:07,638 [speaker_1]
+Eh, bueno, eh, ya se llegó la hora de la, de la finalización de la sesión.
+Pudimos adelantar unos buenos puntos.
+
+01:43:07,648 --> 01:43:07,708 [speaker_2]
+Sí.
+
+01:43:07,718 --> 01:43:24,938 [speaker_1]
+Digamos que si en la tarde tenemos equipos, correr equipos y terminar finalmente cross docking,
+que yo sé que, por ejemplo, la generación masiva, la generación de guías, pues ya lo van a entender,
+
+01:43:24,958 --> 01:43:24,968 [speaker_2]
+Ajá.
+
+01:43:24,968 --> 01:43:45,178 [speaker_1]
+Como estamos viendo, es totalmente nuevo, no lo habíamos visto, son procesos nuevos,
+pero que en otros procesos, de pronto, la, la, las palabras, los... las funciones,
+
+01:43:45,198 --> 01:43:45,608 [speaker_2]
+Seguro.
+
+01:43:45,678 --> 01:43:57,518 [speaker_1]
+Eh, considero yo que, eh, la reunión que tenemos programada para la tarde, sigamos, eh,
+con el cross docking y lo finalicemos como tal, que yo creo que no nos falta mucho,
+
+01:43:57,794 --> 01:44:06,834 [speaker_2]
+... Yo estoy de acuerdo. Eh,
+Deisy tiene la mano levantada y sino también preguntamos a los demás si, miembros del equipo,
+
+01:44:06,934 --> 01:44:13,934 [speaker_12]
+Sí, eh, es que, bueno,
+les quería pedir el favor de que si me pueden regalar acceso a todas las grabaciones.
+
+01:44:15,974 --> 01:44:31,894 [speaker_2]
+Eh, sí, esa es una solicitud que, que también ya nos había hecho César. No sé,
+[comunicación cruzada] Óscar, si ahí nos puedes apoyar con eso, de, de poder extraer las-
+
+01:44:34,254 --> 01:44:36,234 [speaker_1]
+Sí, señor, claro.
+
+01:44:36,254 --> 01:44:48,914 [speaker_2]
+Y compartirles acceso a esas, a esas grabaciones. Kelly, tú que eres la propietaria, ¿nos ayudas,
+porfa, a compartirles acceso a, a Deisy y a, y a César?
+
+01:44:50,174 --> 01:44:56,043 [speaker_12]
+Sí, es para que no se me vaya a quedar nada por fuera, y si no entiendo algo,
+pues poderme apoyar con las grabaciones.
+
+01:44:56,074 --> 01:45:34,054 [speaker_2]
+De una, de una, claro que sí. Eh,
+quisiera concluir este requerimiento treinta y tres solo con esta tranquilidad: de...
+
+01:45:35,214 --> 01:45:36,594 [speaker_12]
+Eh, sí.
+
+01:45:36,674 --> 01:45:43,614 [speaker_2]
+Es decir, no necesitaríamos ninguna otra explicación funcional, ninguna otra pantalla,
+aparte de las que ya observamos acá.
+
+01:45:43,654 --> 01:45:58,214 [speaker_12]
+Pues de lo que mostraron los chicos, de la parte de ellos, no. Si ya me falta es mi lado,
+poderles explicar y,
+
+01:45:58,314 --> 01:45:58,694 [speaker_2]
+Listo.
+
+01:45:58,714 --> 01:46:09,974 [speaker_12]
+Veamos, en la generación, yo entendería, y de pronto me estoy adelantando un poco,
+que va a quedar una sola opción para generar, eh, las guías-
+
+01:46:09,994 --> 01:46:10,254 [speaker_2]
+Mhm.
+
+01:46:10,314 --> 01:46:14,974 [speaker_12]
+Ya, ya mise equipos, ya mise repuestos o ya mise no CAT.
+
+01:46:14,984 --> 01:46:15,064 [speaker_2]
+De acuerdo.
+
+01:46:15,064 --> 01:46:37,314 [speaker_12]
+Actualmente, pues como se han dado cuenta, nosotros tenemos tres opciones. Entonces,
+sí voy a tratar de ser como muy específica en cuanto a las condicionales,
+
+01:46:37,324 --> 01:46:37,344 [speaker_2]
+Ojo
+
+01:46:37,344 --> 01:46:49,034 [speaker_12]
+... como ese tipo de explicación, eh, más al detalle.
+¿Ya sí entendieron muy bien el tema de las pantallas, ya lo que hace Anderson?
+
+01:46:49,104 --> 01:46:49,104 [speaker_2]
+Mhm.
+
+01:46:49,104 --> 01:46:52,174 [speaker_12]
+Eh, sí, creo que lo terminamos de cerrar es conmigo.
+
+01:46:52,214 --> 01:47:02,474 [speaker_2]
+Sí, no, entendimos perfecto, hasta que se digita información,
+se almacena y que después la podemos observar en otra pantalla,
+
+01:47:02,494 --> 01:47:02,534 [speaker_12]
+Ajá
+
+01:47:02,544 --> 01:47:20,934 [speaker_2]
+... y es, es sencillo, pero, pero sí depende que hubiera otra in-información cargada allí,
+porque alcanzamos a ver el enlace de ese correo que vimos el día de ayer, donde están las,
+
+01:47:20,954 --> 01:47:20,984 [speaker_12]
+Mhm.
+
+01:47:21,014 --> 01:47:26,194 [speaker_2]
+Entonces, creo que ahí nos devolvimos un poquito al, al paso anterior, entonces creo que se conectó-
+
+01:47:26,234 --> 01:47:26,354 [speaker_12]
+Sí
+
+01:47:26,554 --> 01:47:37,294 [speaker_2]
+... y no hay nada adicional de lo que ya vimos. Así que lo que vimos hoy, más lo que vimos ayer,
+resume las dos acciones más importantes del proceso de cross docking que llevamos hasta ahora.
+
+01:47:37,314 --> 01:47:39,494 [speaker_12]
+Listo.
+
+01:47:39,514 --> 01:47:40,394 [speaker_2]
+Muy bien.
+
+01:47:40,414 --> 01:47:46,794 [speaker_1]
+Sí, eh, en estas reunimos, reuniones hemos visto procesos de usuarios, ¿cierto?
+
+01:47:47,084 --> 01:47:47,084 [speaker_2]
+Sí.
+
+01:47:47,084 --> 01:47:56,694 [speaker_1]
+De usuarios que operan como tal el sistema. Eh,
+¿vamos a tener reuniones donde se mire el trasfondo de, de, del sistema?
+
+01:47:56,754 --> 01:47:57,094 [speaker_2]
+Sí.
+
+01:47:57,514 --> 01:47:59,894 [speaker_1]
+Más adelante, cuando se termine esto, ¿verdad?
+
+01:47:59,904 --> 01:47:59,904 [speaker_2]
+Sí, sí.
+
+01:47:59,904 --> 01:48:01,194 [speaker_1]
+¿O, o va a ser-
+
+01:48:03,094 --> 01:48:03,664 [speaker_2]
+Sí, yo creo que-
+
+01:48:03,694 --> 01:48:04,754 [speaker_1]
+aparte?
+
+01:48:04,854 --> 01:49:01,774 [speaker_2]
+Yo creo que es la misma explicación, eh, Deisy, gracias por la pregunta, Fabián,
+porque tú nos vas a enviar una información, nos vas-- en tus palabras, nos puedes remitir: "Mira,
+
+01:49:01,794 --> 01:49:19,014 [speaker_12]
+Claro que sí. Eh, ven, otra consulta, pero esta sí es como más para Anderson.
+En el momento en que ustedes generan, eh, las guías, hay diferentes errores que salen,
+
+01:49:19,094 --> 01:49:19,934 [speaker_14]
+Eh, cuando en-
+
+01:49:19,944 --> 01:49:27,154 [speaker_12]
+Porque es algo que Óscar tiene que tener presente, aparte del cross docking, de las cantidades,
+de discrepancia.
+
+01:49:27,174 --> 01:49:30,404 [speaker_1]
+Por ejemplo, cuando Anderson, cuando no tenga, no esté clasificada.
+
+01:49:30,414 --> 01:49:31,794 [speaker_12]
+Vale, exacto, eso.
+
+01:49:31,804 --> 01:49:34,414 [speaker_1]
+Cuando los errores de licencia-
+
+01:49:34,454 --> 01:49:35,914 [speaker_14]
+Lo que está en el requerimiento.
+
+01:49:35,974 --> 01:49:47,354 [speaker_1]
+Sí, ahí va, ahí va como que el que sigue. Espera, me miro.
+El sistema te tendrá la capacidad de identificar las referencias de manufacturadas que no cuente con
+
+01:49:47,374 --> 01:49:47,424 [speaker_12]
+Ah, sí.
+
+01:49:47,434 --> 01:49:51,034 [speaker_1]
+Órdenes. Sí, ese es justo el, el que seguía después de, de-
+
+01:49:51,054 --> 01:49:51,754 [speaker_12]
+El siguiente.
+
+01:49:51,764 --> 01:49:52,314 [speaker_1]
+Sí, pero sí.
+
+01:49:52,334 --> 01:49:53,054 [speaker_12]
+Perfecto.
+
+01:49:53,074 --> 01:49:54,704 [speaker_1]
+La alerta de los errores. Mhm.
+
+01:49:54,704 --> 01:50:26,866 [speaker_2]
+Y nosotros lo teníamos proyectado en el levantamiento de ese proceso técnico que se realiza en las
+discrepancias, Deisy, que es el compromiso del día anterior....
+
+01:50:26,966 --> 01:50:27,446 [speaker_3]
+Listo.
+
+01:50:27,466 --> 01:50:45,746 [speaker_1]
+Sí, a-a-allá, lo que estás hablando, eh, en ese proceso, es una alerta, un-- o una regla,
+y cuando Anderson nos muestra ya, eh, este, es otra validación, otra alerta,
+
+01:50:45,786 --> 01:51:10,905 [speaker_2]
+Ajá, sí, hay que especificar ahí en el masivo, por ejemplo, en individual se entiende muy bien.
+Yo valido estas, estas Z-noventa y cinco, las, las valido las,
+
+01:51:10,946 --> 01:51:12,216 [speaker_1]
+Eh, sí, sí, señor.
+
+01:51:12,216 --> 01:51:14,136 [speaker_2]
+Entonces, ustedes nos dicen eso y nosotros lo hacemos.
+
+01:51:14,136 --> 01:51:24,106 [speaker_1]
+Sí, eh, ahorita en la reunión de la tarde, Anderson,
+si quieres volvemos a reforzar el tema de masivos, que ahí fue donde quedamos, para que, eh,
+
+01:51:24,126 --> 01:51:28,226 [speaker_3]
+Sí, sí, sí, claro. Sí, ahí falta una parte que deben, deben entender.
+
+01:51:28,266 --> 01:51:28,676 [speaker_1]
+Ajá.
+
+01:51:28,686 --> 01:51:33,626 [speaker_3]
+Deben entender que es ya cómo se sube la información, cómo la toma el SI y cómo la, cómo la ejecuta.
+
+01:51:33,646 --> 01:51:36,506 [speaker_1]
+Y los errores que debe salir, todo.
+
+01:51:36,566 --> 01:51:43,366 [speaker_2]
+Sí, hasta ahí la tenemos como que graban la guía, no, no toma información de ningún otro lado.
+Esa fue la, la información que tomamos.
+
+01:51:43,466 --> 01:51:45,386 [speaker_3]
+Sí, sí, exactamente, de las tablas-
+
+01:51:45,426 --> 01:51:45,906 [speaker_2]
+Sí.
+
+01:51:45,946 --> 01:51:47,906 [speaker_3]
+De las tablas. Exacto, sí.
+
+01:51:47,946 --> 01:51:56,886 [speaker_2]
+Nos faltó unir con la... cuando toman las facturas y las asocian a una guía. Esa parte,
+esa parte la vamos a ver más adelante, ¿cierto?
+
+01:51:56,906 --> 01:51:57,206 [speaker_1]
+Sí, señor.
+
+01:51:57,226 --> 01:51:57,946 [speaker_3]
+Sí, correcto.
+
+01:51:57,966 --> 01:52:02,646 [speaker_1]
+Sí, señor, tal cual. Tal cual, ese es, tal cual como lo dices, ese es el paso a paso.
+
+01:52:02,726 --> 01:52:05,406 [speaker_3]
+Okey, entonces estamos tranquilos por ahora.
+
+01:52:05,426 --> 01:52:08,176 [speaker_1]
+Dale. Bueno, entonces muchísimas gracias a todos.
+
+01:52:08,176 --> 01:52:08,916 [speaker_3]
+Gracias a todos.
+
+01:52:08,926 --> 01:52:11,506 [speaker_1]
+Hablamos ahorita más tardecito. Muchísimas gracias, bueno-
+
+01:52:11,706 --> 01:52:12,075 [speaker_2]
+De una.
+
+01:52:12,286 --> 01:52:13,796 [speaker_3]
+Gracias, chao, chao.
+
+01:52:13,845 --> 01:52:18,526 [speaker_2]
+Eh, eh, Kelly, no sé si el pro-- ah, se desconectó. Bueno, vale, ya hablo con él. Gracias.
+
+01:52:18,546 --> 01:52:18,886 [speaker_1]
+De nada.
+
+01:52:18,896 --> 01:52:24,086 [speaker_3]
+Hasta luego. Chao.

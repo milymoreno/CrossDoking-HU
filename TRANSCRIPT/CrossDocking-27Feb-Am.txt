@@ -1,0 +1,2714 @@
+00:00:02,040 --> 00:00:06,610 [speaker_0]
+Ya inicié la grabación. Todos estamos de acuerdo con la grabación, ¿correcto?
+
+00:00:06,620 --> 00:00:07,800 [speaker_1]
+De acuerdo.
+
+00:00:07,880 --> 00:00:10,080 [speaker_0]
+Listo, empecemos entonces.
+
+00:00:13,860 --> 00:01:32,900 [speaker_1]
+Sí, de acuerdo.
+Para el día de hoy vamos a dar en esta sesión la finalidad del proceso de cross docking.
+
+00:01:32,980 --> 00:01:33,140 [speaker_2]
+Mmm.
+
+00:01:33,160 --> 00:01:36,540 [speaker_1]
+El, el número de identificación logístico que tenemos.
+
+00:01:36,550 --> 00:01:36,550 [speaker_2]
+Sí.
+
+00:01:36,560 --> 00:01:39,680 [speaker_1]
+Nosotros tenemos uno-unos y-
+
+00:01:40,680 --> 00:01:41,400 [speaker_2]
+Para cada-
+
+00:01:42,160 --> 00:01:42,810 [speaker_1]
+Sí, para cada-
+
+00:01:42,810 --> 00:01:43,230 [speaker_2]
+Para cada uno de esos, ¿no?
+
+00:01:43,230 --> 00:01:47,460 [speaker_1]
+Para cada... ¿Cómo te digo yo, Cam? Para cada proceso de, de negocio, ¿sí?
+
+00:01:47,540 --> 00:01:47,800 [speaker_2]
+En-
+
+00:01:47,810 --> 00:01:47,810 [speaker_0]
+Y-
+
+00:01:47,820 --> 00:01:51,800 [speaker_2]
+Que en este caso serían cross docking para marcas aliadas y equipos.
+
+00:01:51,840 --> 00:02:15,500 [speaker_1]
+Sí. Entonces en el cross docking manejamos... Espérame, voy a compartir pantalla. Sí, coló.
+No me comparte. ¿Por qué será? Anderson, ¿tú puedes compartir pantalla, por casualidad?
+
+00:02:16,220 --> 00:02:19,640 [speaker_3]
+Mmm. Buenos días. Sí, dame un segundo. Estoy intentando también.
+
+00:02:19,680 --> 00:02:27,410 [speaker_1]
+Ah, okey. Listo. Gracias. Eh, tú tienes la tablita, ¿verdad? La tablita de los-- de por ahí,
+creo que lo miramos ayer.
+
+00:02:27,940 --> 00:02:29,440 [speaker_3]
+Ayer la compartiré.
+
+00:02:29,500 --> 00:02:29,570 [speaker_1]
+Sí.
+
+00:02:29,600 --> 00:02:31,400 [speaker_3]
+Estoy mal.
+
+00:02:31,460 --> 00:02:34,300 [speaker_1]
+Sí, porfa.
+
+00:02:38,180 --> 00:02:38,780 [speaker_3]
+Listo.
+
+00:02:38,840 --> 00:03:00,200 [speaker_1]
+Eso, listo. Entonces, eh, los dealer, eh,
+están constituidos para los procesos tanto como cross docking, eh, aéreo,
+
+00:03:00,240 --> 00:03:00,510 [speaker_2]
+Mhm.
+
+00:03:00,510 --> 00:03:29,220 [speaker_1]
+¿Sí? Entonces, para los cross docking aéreo tenemos lo que es, eh, Rapit, R cuatro sesenta,
+R cuarenta y seis E, Resorb. En GECOLSA y en Reliance tenemos RCTO y RFRE. Y cada uno de estos,
+
+00:03:29,300 --> 00:03:45,220 [speaker_2]
+Eh, perdona un segundo. Para entender [carraspeo] ya este cuadro en detalle. Lo hemos mencionado,
+pero realmente no lo he interiorizado. Ahora, estos códigos,
+
+00:03:45,560 --> 00:03:45,840 [speaker_1]
+Sí-
+
+00:03:45,850 --> 00:03:46,160 [speaker_3]
+Yo-
+
+00:03:46,700 --> 00:03:47,380 [speaker_1]
+Eso, dale-
+
+00:03:47,480 --> 00:04:33,260 [speaker_3]
+Sí, te, te colaboro ahí, Fabián. Entonces, eh, aquí la explicación es y data de, de los dealers que,
+que Caterpillar tiene para nosotros, eh, como Colombia. ¿Sí? Un dealers, háblese de, de,
+
+00:04:33,280 --> 00:04:52,680 [speaker_2]
+Ya, pero quisiera que le, quisiera que le quitáramos el,
+el nombre de R porque es que nos va a confundir. Quisiera como hacer un ejemplo,
+
+00:04:53,700 --> 00:04:55,380 [speaker_3]
+No, no entiendo cómo así. O sea-
+
+00:04:55,400 --> 00:05:19,660 [speaker_2]
+Es decir,
+yo les estoy entendiendo de que ustedes van a utilizar estos operadores logísticos que determinan
+
+00:05:19,700 --> 00:05:21,120 [speaker_0]
+Qué dealer es.
+
+00:05:21,420 --> 00:05:29,260 [speaker_3]
+Sí, es que como le mencionaba, o sea, los dealers como tal es-- hacen referencia no a un, no a un,
+no a una persona-
+
+00:05:29,270 --> 00:05:30,260 [speaker_0]
+A una compañía.
+
+00:05:30,280 --> 00:05:37,870 [speaker_3]
+Ni a una compañía. Esto es un dealer de lugar, de sitio, almacén o distrito, ¿sí?
+Donde va a llegar la mercancía.
+
+00:05:37,870 --> 00:05:46,240 [speaker_0]
+Okey,
+entonces lo que dice Óscar es el distrito cómo se llamaría o ustedes lo llaman R quince y cómo sé
+
+00:05:46,280 --> 00:05:46,760 [speaker_2]
+Exacto.
+
+00:05:46,880 --> 00:05:47,930 [speaker_0]
+Eso es lo que dice Óscar.
+
+00:05:47,930 --> 00:06:08,540 [speaker_2]
+Cómo sé que, que esta es una, no sé, un Servientrega de los chiquitos o es un, eh,
+siete veinticuatro de un, de un almacén gigante que les hace toda la operación a ustedes. Es decir,
+
+00:06:09,740 --> 00:06:18,520 [speaker_1]
+Listo, deja-déjame yo le, yo le ilustro acá una, un ejemplo de cómo llega a este dealer. Mira-
+
+00:06:18,560 --> 00:06:19,570 [speaker_0]
+Gracias, Anderson.
+
+00:06:19,600 --> 00:06:52,380 [speaker_1]
+Mira, por ejemplo, acá tenemos este dealer, que es el dealer que nos, que nos da Caterpillar, ¿sí?
+Que es el R ciento setenta y dos, que está aquí en esta parte,
+
+00:06:52,390 --> 00:07:05,980 [speaker_0]
+¿Ustedes tienen como una matriz donde nosotros, eh,
+podamos ver que R ciento setenta y dos exactamente es Barranquilla?
+
+00:07:06,460 --> 00:07:21,460 [speaker_2]
+De acuerdo, porque yo no-- yo lo que estoy entendiendo es esto: eh, este es R de Rappi,
+pero Rappi puede llegar, por ejemplo, a Barranquilla, puede llegar a Medellín,
+
+00:07:21,520 --> 00:07:23,240 [speaker_1]
+Sí, correcto.
+
+00:07:23,260 --> 00:07:25,320 [speaker_2]
+Pero nosotros-
+
+00:07:25,340 --> 00:07:32,920 [speaker_1]
+Es que, es que depende. O sea, digamos,
+el R quince P y el Rappi son para el almacén de acá de Américas. O sea, digamos, eso es para acá,
+
+00:07:33,000 --> 00:07:47,410 [speaker_0]
+Exacto, eso es lo que queremos, lo que queremos saber. Así como lo identificas tú,
+que sabes que ese es para acá, ¿tienen alguna matriz o algo que nos lo, bueno,
+
+00:07:47,900 --> 00:07:49,900 [speaker_2]
+Claro, no, no tenemos que-
+
+00:07:50,100 --> 00:07:50,780 [speaker_1]
+Eeeh, sí.
+
+00:07:50,960 --> 00:07:52,960 [speaker_2]
+Eso hay que pedírselo-
+
+00:07:53,020 --> 00:07:53,960 [speaker_1]
+A control de inventarios.
+
+00:07:53,980 --> 00:07:54,910 [speaker_2]
+A control de inventarios.
+
+00:07:54,920 --> 00:08:01,240 [speaker_1]
+A control de inventarios, sí, porque aparte, aparte de, de este hay unos códigos de almacén, ¿no?
+
+00:08:01,300 --> 00:08:02,080 [speaker_2]
+Ajá.
+
+00:08:02,090 --> 00:08:35,640 [speaker_1]
+Hay unos códigos de almacén. Pero listos. Eh, yo me llevo el compromiso de,
+de identificar qué tiene cada, [carraspeo] cada dealer de Caterpillar, ¿vale? Que son los de,
+
+00:08:35,660 --> 00:09:26,750 [speaker_2]
+De acuerdo. Entonces, quiero enfatizar por qué hacemos esta pregunta y también para que ustedes, eh,
+realicen una ampliación siempre en los puntos donde utilicen información codificada,
+
+00:09:27,100 --> 00:09:46,180 [speaker_1]
+De, de, de igual manera, eh, Óscar, esos códigos de arriba no,
+no es que de pronto tengamos que inventarlos, digamos así,
+
+00:09:46,260 --> 00:09:46,620 [speaker_2]
+Ajá.
+
+00:09:46,670 --> 00:10:06,680 [speaker_1]
+Viene desde Dynamics con ese código, ¿listos? Entonces, desde Dynamics ya tiene, ya, ya,
+ya viene asignado ese código, ¿vale? Al, al, a la factura. Digamos, una Z noventa y cinco XXX, eh,
+
+00:10:06,740 --> 00:10:22,880 [speaker_2]
+Eh, ya Deisy tal vez nos-- no tanto Dynamics. Recuerden que no, no vamos tanto a Dynamics. Si no--
+sí vamos a Dynamics, si ustedes van a definir la información desde Dynamics, ¿listo?
+
+00:10:22,900 --> 00:10:23,740 [speaker_1]
+Gracias.
+
+00:10:23,800 --> 00:11:53,360 [speaker_4]
+Sí, eh, Anderson, ¿tú me puedes dejar ver otra vez el query, por favor? Acá les puedo,
+pues definir si vi-- si el nombre, eh, eh, digamos en este caso aquí dice Barranquilla,
+
+00:11:53,440 --> 00:11:56,660 [speaker_1]
+Okey, pero se almacena acá, ¿listo? Entonces-
+
+00:11:56,780 --> 00:12:10,060 [speaker_4]
+Sí, está relacionado la factura, el dealer y automáticamente la descripción de dónde es el--
+es la descripción de ese dealer, que en este caso, digamos para el ejemplo que tenían,
+
+00:12:10,584 --> 00:12:11,594 [speaker_2]
+Entonces lo que estaría pendiente-
+
+00:12:11,604 --> 00:12:13,024 [speaker_4]
+Ahí ya está asociado.
+
+00:12:13,104 --> 00:12:56,604 [speaker_2]
+Claro, ya la tengo. Gracias. Entonces, lo que estaría pendiente, Deisy,
+es que aclaremos cuál es el proceso que recupera esa información.
+
+00:12:57,524 --> 00:13:11,504 [speaker_4]
+Igual cuando yo te vaya a hacer la-- vaya especificando el tema de las tablas,
+pues ahí también va a estar, pues la descripción de, del campo en donde,
+
+00:13:11,584 --> 00:13:12,304 [speaker_2]
+Exacto.
+
+00:13:12,344 --> 00:13:22,204 [speaker_4]
+El código del dealer y la, y su descripción del dealer, que es en esta tabla.
+Pero pues también toca revisar lo que son las tablas de equipos y las de-
+
+00:13:22,764 --> 00:13:22,794 [speaker_2]
+Exacto.
+
+00:13:22,794 --> 00:13:24,144 [speaker_4]
+Y las demás.
+
+00:13:24,204 --> 00:13:35,474 [speaker_2]
+Vale, gracias por la precisión, porque una cosa es, eh, rec--
+ya tomarlo donde llegó y la otra es mantenerlo en el sistema para que ustedes lo gestionen.
+
+00:13:35,504 --> 00:14:29,644 [speaker_3]
+Sí, qué pena. Es que, este, un momento, es que creo que se nos fue por otro lado el requerimiento.
+Sí, si bien está muy bien lo que está explicando Deisy,
+
+00:14:29,744 --> 00:14:33,174 [speaker_2]
+Okey, eh, no, no lo tienen actualmente, es lo que dices.
+
+00:14:33,184 --> 00:14:53,784 [speaker_3]
+Sí, sí lo tenemos actualmente. Está actualmente parametrizado así, que si yo voy a generar una guía,
+por ejemplo, acá. Voy a generar una guía R460, que es nuestro back order, o sea,
+
+00:14:53,984 --> 00:14:58,464 [speaker_2]
+Exacto, los que acabamos de definir, que llegan, que llegan desde Dynamics.
+
+00:14:58,484 --> 00:15:06,284 [speaker_4]
+Qué pena. Ahí intervengo un momentico. Anderson, por fa, dale enter en la pantalla de la IC400.
+
+00:15:06,413 --> 00:15:07,344 [speaker_3]
+¿Acá?
+
+00:15:07,364 --> 00:15:11,864 [speaker_4]
+Sí, dale en-- enter como si fueras a generar.
+
+00:15:11,904 --> 00:15:12,264 [speaker_3]
+Ya.
+
+00:15:12,364 --> 00:15:23,244 [speaker_4]
+Eh, F9, por favor. Eh, en tipo de negociación es la-- el dealer que tú colocas, ¿verdad?
+De las facturas.
+
+00:15:23,253 --> 00:15:27,564 [speaker_3]
+¿Tipo de negociación? No, ese es el F-- ese es el término de negociación.
+
+00:15:29,144 --> 00:15:29,684 [speaker_4]
+Okey.
+
+00:15:29,724 --> 00:16:08,104 [speaker_3]
+Ese es el término de negociación. El dealer code es este,
+que ese ya está parametrizado como R460 y trae todo nuestro dealer de Caterpillar en, en, en eso.
+
+00:16:09,044 --> 00:17:09,624 [speaker_2]
+Eh, sí, voy a poner acá una nota solo para aclarar esta pantalla y entender. Esto es un Excel,
+¿cierto? Entonces ahora lo que quiero es entender cómo lo van a usar,
+
+00:17:09,644 --> 00:17:11,144 [speaker_3]
+Gracias, Óscar.
+
+00:17:11,604 --> 00:17:33,614 [speaker_4]
+Si te quedaría debiendo el tema de la relación del dealer, lo que está diciendo Anderson,
+de este 460, qué filtros, porque sé que cuando se hace la generación de las guías, eh,
+
+00:17:33,644 --> 00:17:46,884 [speaker_3]
+Listo. Yo, yo voy a complementar, Óscar, y, eh,
+aclarar entonces que no me llevo el requerimiento que habíamos dicho,
+
+00:17:46,924 --> 00:17:47,764 [speaker_2]
+Mhm.
+
+00:17:47,804 --> 00:18:15,864 [speaker_3]
+Listo. Entonces, eh, los dealers ya están creados como tal. No sé,
+en este momento no sé si se pueda crear uno. Si se puede crear, entonces nos tocaría validar, eh,
+
+00:18:16,208 --> 00:19:45,908 [speaker_1]
+Crear un dealer en caso de que el negocio quiera, eh, orientarse, eh,
+o identificar un tipo de mercancía en especial. Entonces sí, sí tener como, como esa base.
+
+00:19:45,928 --> 00:19:46,618 [speaker_2]
+Mhm.
+
+00:19:46,668 --> 00:20:55,948 [speaker_1]
+Ahora, ¿qué queremos? El sistema, que yo te diría que eso lo hace, Anderson. No, eso no lo hace. No,
+creo que no hace esa validación. Entonces, es, es algo que de pronto vamos a solicitar.
+
+00:20:56,028 --> 00:20:56,268 [speaker_2]
+Sí.
+
+00:20:56,278 --> 00:20:58,928 [speaker_1]
+O si de pronto me, me, me entendiste así. ¿Sí?
+
+00:20:59,268 --> 00:21:40,048 [speaker_2]
+Yo te lo entiendo perfecto. Pero entonces, mmm, tú me lo dices. Yo me imagino una cosa muy,
+muy simple.
+
+00:21:40,108 --> 00:21:41,488 [speaker_1]
+De acuerdo, tal cual. Entonces-
+
+00:21:41,508 --> 00:22:01,648 [speaker_2]
+Así me lo imagino, pero todavía no lo, no me lo imagino visto en el proceso, como: "Ah,
+lo voy a utilizar aquí. Entonces veo que me llegó. Ah, sí, veo que ya me--
+
+00:22:01,668 --> 00:22:07,908 [speaker_1]
+Sí, yo te hago el match,
+yo te hago el match y te pondría como tal las condiciones de lo que queremos.
+
+00:22:07,928 --> 00:22:08,368 [speaker_2]
+Mhm.
+
+00:22:09,128 --> 00:22:38,228 [speaker_1]
+Pero, eh, más que decirte qué dealer es, es porque como, como, como Dynamics lo trae y Dynamics--
+el dealer viene asociado es a la factura, a la Z noventa y cinco.
+
+00:22:38,308 --> 00:22:39,518 [speaker_2]
+Ajá. De acuerdo.
+
+00:22:39,548 --> 00:23:15,428 [speaker_1]
+Pero entonces nosotros cogemos es la Z noventa y cinco. O sea,
+cogemos es la Z noventa y cinco y es lo que generamos y es lo que vamos a seguir haciendo,
+
+00:23:15,468 --> 00:24:09,578 [speaker_2]
+Listo. Entonces aquí aprovecho algo que nos aporta Óscar. Gracias.
+Es que si ustedes lo que requieren es poder parametrizar esos dealers del sistema, ¿sí?
+
+00:24:09,608 --> 00:24:09,888 [speaker_1]
+Sí.
+
+00:24:09,928 --> 00:24:11,928 [speaker_2]
+Como en la misma tabla que ustedes están proyectando.
+
+00:24:11,968 --> 00:24:13,688 [speaker_1]
+Es que es esa.
+
+00:24:13,728 --> 00:24:13,978 [speaker_2]
+Parámetro.
+
+00:24:14,588 --> 00:24:16,598 [speaker_1]
+Es esa. O sea, si te doy la respuesta-
+
+00:24:16,598 --> 00:24:16,958 [speaker_2]
+Se me entendió.
+
+00:24:17,308 --> 00:24:26,508 [speaker_1]
+Te doy la respuesta de una vez y para repuestos, cross docking, aéreo y marítimo es esa tabla.
+¿Listos? Eso, eso no va a cambiar porque el, el, el negocio está así.
+
+00:24:26,528 --> 00:24:30,727 [speaker_2]
+De una. Eh, claro, pero hoy no tienes esa tabla, la tienes en Excel, ¿cierto?
+
+00:24:31,124 --> 00:24:39,104 [speaker_1]
+Eeeh, no, la compartimos en la imagen y pues en Excel también la tenemos. No, no hay problema.
+O sea, la, la volvemos a enviar. Eso no, eso no, no, no hay lío. Pero-
+
+00:24:39,184 --> 00:24:47,484 [speaker_2]
+Ya la tenemos. No, ya la tengo. Lo-- me re--
+me refiero es que si ustedes dentro del sistema sí tienen cómo gestionar esta, esta tabla.
+
+00:24:47,584 --> 00:24:51,304 [speaker_1]
+Eh, no, es, eso-- ah, bueno, eso es lo que necesito validar, eh-
+
+00:24:51,364 --> 00:24:51,744 [speaker_2]
+Okey.
+
+00:24:52,164 --> 00:24:59,204 [speaker_1]
+Que no lo conozco. No sé si Anderson tú me puedes ayudar.
+¿Nosotros tenemos la opción de crear dealers?
+
+00:24:59,264 --> 00:25:00,844 [speaker_3]
+No, no, para crear no.
+
+00:25:01,204 --> 00:25:09,764 [speaker_1]
+Deisy, por parte del equipo tuyo, en algún momento han hecho una solicitud de creación de dealer o,
+o, o, o, o ¿sabes? De pronto. No.
+
+00:25:09,804 --> 00:25:14,054 [speaker_3]
+Si de pronto esa información reposa en alguna tabla de LSI, es lo que creo que entiendo.
+
+00:25:14,504 --> 00:25:18,684 [speaker_1]
+No, no la tengo, no. Yo como administrador no, no, no la tengo.
+
+00:25:19,224 --> 00:25:34,184 [speaker_4]
+En este caso es donde, pues indico que les quedo debiendo esa parte,
+porque tengo que entrar a revisar directamente con el programa, eh,
+
+00:25:34,224 --> 00:25:34,494 [speaker_1]
+Diferente.
+
+00:25:34,504 --> 00:26:09,284 [speaker_4]
+Con relación de dealer que diga: R cuatro sesenta relacionado a tal ex-dealer. No,
+yo no lo he visto. Eh, sé que en la generación de la guía, eh,
+
+00:26:09,544 --> 00:26:09,894 [speaker_2]
+Vale.
+
+00:26:09,924 --> 00:26:12,784 [speaker_4]
+Les quedo-- ese, esa confirmación sí se las quedo debiendo también.
+
+00:26:12,804 --> 00:26:29,704 [speaker_1]
+Listo. De pr-- de pronto, esto es algo que lleva años en la compañía. Richi, de pronto, eh, en el,
+en, en la experiencia que tú tienes, del tiempo que llevas acá, tú de pronto conoces o sabes si, si,
+
+00:26:29,714 --> 00:26:32,554 [speaker_2]
+¿Los dealers que te refieres son los de Caterpillar?
+
+00:26:32,604 --> 00:26:36,204 [speaker_1]
+Eh, no, los de Caterpillar no, los logísticos. Porque Caterpillar, los de-
+
+00:26:36,224 --> 00:26:37,884 [speaker_2]
+Los nuestros sí los creamos nosotros.
+
+00:26:37,964 --> 00:26:41,324 [speaker_1]
+Eh, okey. Sí, porque los de Caterpillar viajan de Dynamics.
+
+00:26:41,444 --> 00:26:51,284 [speaker_2]
+Ajá. El R cuatro sesenta, R cuarenta y seis E, esos los crea Comercio Exterior.
+Y hay una tabla para eso.
+
+00:26:51,304 --> 00:26:51,754 [speaker_1]
+Hay una tabla.
+
+00:26:51,764 --> 00:26:53,594 [speaker_2]
+Hay una tabla para dealer de...
+
+00:26:53,604 --> 00:26:54,784 [speaker_1]
+Ah, okey, listo.
+
+00:26:54,804 --> 00:26:57,404 [speaker_2]
+De creación, mejor dicho. Entra uno de-
+
+00:26:57,864 --> 00:26:59,524 [speaker_1]
+¿En sí de CATOS?
+
+00:26:59,564 --> 00:27:01,584 [speaker_2]
+Sí. Sí, señor.
+
+00:27:01,604 --> 00:27:16,154 [speaker_1]
+Listo. Igual no, no nos quedemos pegados acá porque, pues esto requiere más información.
+Entonces creo que, pues no avanzaríamos mucho. Quedan estas pendientes para terminar de aclarar,
+
+00:27:16,964 --> 00:27:34,364 [speaker_5]
+Muchas gracias, eh, Óscar.
+Y mi aporte sería que sí consideremos que el nuevo sistema debería contener un-una opción de menú
+
+00:27:34,544 --> 00:27:34,604 [speaker_1]
+Mhm.
+
+00:27:34,624 --> 00:27:40,824 [speaker_5]
+Es una funcionalidad que es prerrequisito para esto que nos están explicando. Entonces, eh-
+
+00:27:41,204 --> 00:27:41,654 [speaker_1]
+Mhm.
+
+00:27:41,654 --> 00:28:01,204 [speaker_5]
+Sí, considerémoslo. Si hoy día se está manejando a través de un ticket, eh, y por debajo en el LSI,
+lo mejor es que el sis-- el nuevo sistema del LSI sí,
+
+00:28:01,244 --> 00:29:09,804 [speaker_2]
+De acuerdo. Gracias, César. Y voy a ir un poquito hacia atrás.
+Y es que el día de ayer también mencionamos que todas esas tablas que ustedes denominan como
+
+00:29:09,824 --> 00:29:28,424 [speaker_1]
+Listo. Eh, para-- antes de entrar al otro, respuesta rápida que ya la validé. Eh,
+el área de comercio exterior,
+
+00:29:28,464 --> 00:29:29,244 [speaker_2]
+De acuerdo.
+
+00:29:29,284 --> 00:29:35,304 [speaker_1]
+Daríamos ahí por cerrada. Entonces sí viene, sí hay, sí hay opción de crear, modificar y eliminar.
+
+00:29:35,324 --> 00:30:10,184 [speaker_2]
+De acuerdo. Entonces recuerda que tienes una tarea también transversal,
+que es tener claro cuáles son las funcionalidades que vamos a mantener dentro del sistema y cuáles
+
+00:30:12,364 --> 00:30:17,124 [speaker_1]
+Claro que sí. Ya aquí dejo el requerimiento a mi nombre, ¿vale?
+
+00:30:17,864 --> 00:30:18,774 [speaker_2]
+Gracias. [carraspeo]
+
+00:30:19,344 --> 00:30:24,864 [speaker_1]
+Entonces . Eh-
+
+00:30:24,874 --> 00:30:52,738 [speaker_2]
+Muchas gracias. Eh, también la invitación. Como les digo, yo estoy aquí en pronto un rol activo,
+tomando notas y generando compromisos, pero también, eh,
+
+00:30:52,738 --> 00:30:53,478 [speaker_1]
+A todos.
+
+00:30:53,488 --> 00:30:55,788 [speaker_2]
+Fabián. Adelante.
+
+00:30:55,798 --> 00:31:16,948 [speaker_1]
+Eh, sí. Requerimiento número treinta y seis, creo que es básico, ya lo hemos visto. Eh,
+Anderson también nos ayudarás ahí si es de lo que ya vimos.
+
+00:31:16,968 --> 00:31:18,188 [speaker_6]
+Sí, sí, correcto.
+
+00:31:18,208 --> 00:31:37,908 [speaker_2]
+Entonces, para cerrar el, el anterior, ¿se resume? Por favor, ya, ya, ya, no,
+no tenemos que devolvernos. Por favor, si quieres avanzamos con el treinta y seis, pero es--
+
+00:31:39,628 --> 00:32:10,608 [speaker_1]
+Sí, correcto. Digamos que ya para el requerimiento treinta y seis, más que un, un desarrollo,
+lo que necesitamos es como, como una validación, ¿sí? Eh,
+
+00:32:11,368 --> 00:32:11,708 [speaker_2]
+Okey. Dale.
+
+00:32:11,728 --> 00:32:57,677 [speaker_1]
+Digamos que en esta parte, eh, el programa actualmente, eh, antes de nosotros crear o, eh,
+generar un embarque, él nos arroja una alerta y nos da como un resumen de lo que se está generando,
+
+00:32:57,708 --> 00:33:03,588 [speaker_2]
+Sí, te entiendo la descripción, pero no te entiendo dónde, dónde se ve impactado este requerimiento.
+
+00:33:03,768 --> 00:33:15,448 [speaker_1]
+En el Crotok, o sea, en la generación de la guía del Crotok. En el sistema sería por este lado, acá.
+Por ejemplo, lo que nosotros les habíamos mostrado ayer, que digamos llenamos todo de-
+
+00:33:15,588 --> 00:33:18,388 [speaker_2]
+En una pantalla, generación de una guía. Esto es-
+
+00:33:18,408 --> 00:33:18,808 [speaker_1]
+Sí.
+
+00:33:19,208 --> 00:33:22,548 [speaker_2]
+Ahí nos vamos a ubicar en esa explicación.
+
+00:33:22,728 --> 00:33:38,868 [speaker_1]
+Cuando se tome individualmente, cuando se genere individual o cuando se genere masivo,
+que al final la respuesta sea: esta es la información que está recopilando, revísela, ¿está okey?
+
+00:33:38,878 --> 00:33:49,048 [speaker_2]
+Ah, ah, es decir, como antes de permitirle grabar es de, es decirle: confirme.
+Esto es lo que usted está tratando de realizar, ¿está seguro?
+
+00:33:49,068 --> 00:33:54,178 [speaker_1]
+¿Está seguro? Y cuando ya lo termine, entonces diga: "Ah, okey, listo. Esto fue lo que quería".
+
+00:33:54,188 --> 00:33:54,748 [speaker_2]
+Ojalismo.
+
+00:33:55,258 --> 00:34:01,868 [speaker_1]
+[risas] Exacto. Es, es, es eso a lo que se, se quiere llegar en ese, en esa, en esa historia.
+
+00:34:01,888 --> 00:34:11,737 [speaker_2]
+Claro. Pero la validación ya la tenemos cubierta por acá en otro lado. Desde,
+desde el requerimiento, desde el requerimiento treinta y tres ya la vimos.
+
+00:34:11,788 --> 00:34:16,908 [speaker_1]
+Sí, generación de guías, si no estoy mal. Sí, generación de guías.
+
+00:34:16,928 --> 00:34:24,688 [speaker_2]
+Tengo todo ese nivel, pero sí, el treinta y tres me voy, me voy como las gráficas y hago,
+hago match con el requerimiento. Entonces sería esta validación.
+
+00:34:24,878 --> 00:34:26,708 [speaker_1]
+Mhm.
+
+00:34:27,868 --> 00:34:31,328 [speaker_2]
+Más informativo, ¿cierto?
+
+00:34:31,368 --> 00:34:32,998 [speaker_1]
+Sí, más informativo.
+
+00:34:33,008 --> 00:34:44,308 [speaker_2]
+Es informativo. [carraspeo]
+
+00:34:44,388 --> 00:34:55,268 [speaker_1]
+Diría yo que es claro el, el requerimiento treinta y seis, ¿verdad? O sea, no,
+no lo veo complicado en ese sentido, la, la, la explicación para, para poder entenderlo.
+
+00:34:55,278 --> 00:34:55,278 [speaker_2]
+Sí.
+
+00:34:55,278 --> 00:34:55,438 [speaker_1]
+¿Cierto?
+
+00:34:55,448 --> 00:35:02,268 [speaker_2]
+Nos encargaríamos a, a darle eso en los detalles. C noventa y cinco tres y N tres.
+
+00:35:02,348 --> 00:35:03,248 [speaker_1]
+Exacto.
+
+00:35:03,258 --> 00:35:03,398 [speaker_2]
+¿Listo?
+
+00:35:03,427 --> 00:35:04,628 [speaker_1]
+Entonces, eh-
+
+00:35:04,638 --> 00:35:07,988 [speaker_2]
+Por si necesitan algo más, es, es el momento de decir.
+
+00:35:08,048 --> 00:35:28,448 [speaker_1]
+El valor. El valor FOB. Ahí, ahí dice. No solamente las, las cantidades, sino también el valor FOB,
+¿listo? Ya, ya las, las condiciones de que qué queremos que nos relacione,
+
+00:35:28,548 --> 00:35:42,208 [speaker_2]
+Eh, sería-- recordemos, sería antes de cerrar la historia de usuario,
+nosotros le vamos a pasar el borrador, ustedes lo chequean y sobre ese borrador,
+
+00:35:42,228 --> 00:35:45,728 [speaker_1]
+Ya no hay-- sí, ya las historias cerrarían como tal. ¿Correcto?
+
+00:35:45,808 --> 00:35:45,968 [speaker_2]
+Sí.
+
+00:35:45,988 --> 00:36:00,268 [speaker_1]
+Entonces, ya, ya entramos acá a validar y decir: "Tenémoslo igual, solo necesitamos eso,
+no necesitamos más". O digamos: "Ah, bueno,
+
+00:36:01,128 --> 00:36:19,228 [speaker_2]
+Listo. Y recuerden, tampoco vamos a poner en la historia de usuario nada de todos, etcétera,
+y en el futuro, y no se limita. En la historia de usuario esas palabras están prohibidas,
+
+00:36:19,248 --> 00:36:19,548 [speaker_1]
+Dale.
+
+00:36:19,588 --> 00:36:48,208 [speaker_2]
+Se, se espera, ponen características no funcionales.
+Se espera que sea flexible y que no me limite en el futuro, ¿sí?
+
+00:36:48,660 --> 00:36:50,600 [speaker_1]
+Para dejarlo abierto es lo que tú nos quieres decir-
+
+00:36:50,620 --> 00:36:50,680 [speaker_2]
+Sí.
+
+00:36:50,700 --> 00:37:04,420 [speaker_1]
+Porque hoy, hoy tenemos un negocio estructurado en la compañía,
+pero más adelante algo puede cambiar y el sistema tiene que permitir, de pronto,
+
+00:37:04,880 --> 00:37:47,600 [speaker_2]
+Sí, de acuerdo. Nosotros vamos a diseñar de forma que ustedes no tengan que sufrir para crecer el--
+y mantener el sistema, ¿sí? Pero no, no va a ser tan flexible como, eh:
+
+00:37:47,620 --> 00:37:49,240 [speaker_1]
+Listo. Gracias, Óscar.
+
+00:37:49,280 --> 00:37:51,230 [speaker_2]
+Listo. Se cierra entonces este.
+
+00:37:51,260 --> 00:37:51,810 [speaker_1]
+Treinta y seis.
+
+00:37:51,820 --> 00:37:53,220 [speaker_2]
+Treinta y seis. Bien.
+
+00:37:54,780 --> 00:38:36,190 [speaker_1]
+Antes de iniciar al siguiente, quiero preguntar:
+¿hay alguna duda con el proceso que hemos validado de los token? Preguntas.
+
+00:38:36,260 --> 00:38:41,520 [speaker_2]
+Eh, no. Eh, base o configuración, eso es lo que hemos hecho hasta ahora.
+
+00:38:41,540 --> 00:39:33,620 [speaker_1]
+Listo. Entonces, vamos a dar paso al treinta y siete, el cual es la radiación del DO.
+El sistema debe tener conexión con Faisila. Faisila es un programa de la Agencia de Aduanas, SIACO,
+
+00:39:33,680 --> 00:40:42,200 [speaker_2]
+Sí, antes de que avancemos. Eh, César y Deisy, aquí es el momento de hablar. Y es--
+recordemos que estamos buscando un sistema más flexible, un sistema que no dependa, de pronto,
+
+00:40:42,260 --> 00:41:24,480 [speaker_5]
+Ahí,
+ahí quisiera tener una salvedad y de repente el equipo de importaciones lo tiene claro y es que
+
+00:41:25,020 --> 00:41:45,390 [speaker_1]
+No, yo te diría que para aclarar de pronto todo ese tema de conexiones, eh,
+nos toca también tener una sesión directamente con la agencia de aduanas,
+
+00:41:45,420 --> 00:41:45,510 [speaker_5]
+Sí, eso.
+
+00:41:45,540 --> 00:41:55,340 [speaker_1]
+Cómo se lleva la información a SIACO, si SIACO es el que la lleva, la recoge, la pone, la sube. No,
+no, no te podría dar como tal esa, esa-
+
+00:41:55,350 --> 00:41:55,350 [speaker_5]
+Listo.
+
+00:41:55,380 --> 00:42:11,900 [speaker_1]
+Esa respuesta, César. Sí nos tocaría más profundamente ya las áreas TI, ledger,
+tanto de SIACO como de, de acá de Zoe y nosotros, y, y, y, y mirar cómo es que pasa eso, porque no,
+
+00:42:11,940 --> 00:42:17,390 [speaker_5]
+Está perfecto, Eder, y sí nos abrimos ese espacio, eh, porque es uno de los puntos que dentro-
+
+00:42:17,420 --> 00:42:17,850 [speaker_1]
+Bueno.
+
+00:42:17,860 --> 00:42:56,220 [speaker_5]
+Del equipo también quedó, eh, por confirmar. Hoy todavía no lo sé.
+Sabemos que nosotros sí administramos un, un servidor que es Faisila para, como decía Óscar,
+
+00:42:56,260 --> 00:42:59,840 [speaker_1]
+Entonces, gracias, DeisyTienes la mano levantadita.
+
+00:42:59,940 --> 00:43:47,420 [speaker_4]
+Sí, eh, yo quiero que entremos como, eh, a mostrarle a Ledger el proceso actual de,
+desde que cargué las facturas, porque siento que, eh, en esta parte hay una confusión,
+
+00:43:47,440 --> 00:43:47,450 [speaker_1]
+SIACO.
+
+00:43:47,460 --> 00:44:53,580 [speaker_4]
+Para llegar, llegamos en-- a esa pantalla para que, eh,
+Ledger lo tenga claro y poderles explicar más o menos cómo funciona. Eh,
+
+00:44:53,600 --> 00:44:53,990 [speaker_1]
+Tal cual.
+
+00:44:53,990 --> 00:44:56,800 [speaker_4]
+Anderson carga la información directamente.
+
+00:44:56,820 --> 00:45:16,420 [speaker_1]
+Pero, pero ven, pero yo pregunto si yo-- perdóname, Anderson. Eh, listo,
+sí tienes toda la razón de eso y esa, esa interacción de, eh,
+
+00:45:16,480 --> 00:45:16,589 [speaker_4]
+Ah, sí.
+
+00:45:16,600 --> 00:45:34,900 [speaker_1]
+Que sí sale el SI, que yo no sé si de lleve archivos o algo así, pero ¿qué estoy pensando yo?
+Que recopilo toda la información de ahorita, de todo lo que hicimos y, y la envía a SIACO por el SI.
+
+00:45:34,960 --> 00:45:35,220 [speaker_4]
+Sí, eso-
+
+00:45:35,240 --> 00:45:39,180 [speaker_1]
+Cuando, cuando lo envías por SI a... y, y el Faicila.
+
+00:45:39,190 --> 00:45:39,790 [speaker_4]
+Ese es el proceso.
+
+00:45:39,800 --> 00:45:40,660 [speaker_1]
+Mhm.
+
+00:45:40,700 --> 00:45:42,700 [speaker_4]
+Para ser superclaros con eso.
+
+00:45:42,980 --> 00:45:44,559 [speaker_1]
+Vale, muchas gracias.
+
+00:45:44,620 --> 00:45:53,680 [speaker_2]
+Listo, ahí les queda un compromiso. Fabián, te queda un compromiso de,
+de que nos envíes los formatos que hoy se cargan para entender qué es lo que se mueve hacia SIACO.
+
+00:45:53,920 --> 00:45:58,260 [speaker_1]
+Mmm, okey. Sí, pues. Listo, dale.
+
+00:45:58,280 --> 00:46:16,440 [speaker_3]
+Yo creería que primero mostremos cómo funciona esto y después sacamos conclusiones, porque creo que,
+eh, podríamos a-alinearlo un poco, porque si bien sí es cierto que se envía un, un,
+
+00:46:16,480 --> 00:46:16,920 [speaker_4]
+Sí.
+
+00:46:16,940 --> 00:46:30,720 [speaker_3]
+A manera digital, ¿sí? Porque a ellos también les llegan y también les llegan las facturas,
+también les llega el desglose de los ítems, los valores unitarios, eh, los valores totales y demás,
+
+00:46:30,740 --> 00:46:50,680 [speaker_2]
+¿Qué crees decir con esa separación? Porque como lo estaba entendiendo es, eh,
+tú pones un archivo en, en SIACO y va a ser una tarea,
+
+00:46:50,860 --> 00:46:51,890 [speaker_1]
+Dale, Anderson, muéstranos.
+
+00:46:51,890 --> 00:47:03,880 [speaker_3]
+Bueno, me quedo. Listo, entonces acá vamos a ingresar por la UPC dos mil quinientos,
+colsa y por los procesos generales.
+
+00:47:04,800 --> 00:47:05,200 [speaker_2]
+Mhm.
+
+00:47:05,220 --> 00:47:13,640 [speaker_3]
+Inicialmente, pues ya se hizo todo lo del módulo de las guías.
+Ahora vamos a proceder al módulo de las declaraciones, que es aquí donde ingresamos.
+
+00:47:13,700 --> 00:47:24,020 [speaker_2]
+Eh, ¿me puedes señalar? Para yo tomar una pantalla para que me quede resaltado, jefe. Ya, listo,
+ya la tengo, gracias. Y antes de avanzar de lo siguiente,
+
+00:47:24,040 --> 00:47:47,380 [speaker_3]
+Listo. Aquí vamos a ingresar por esta opción. Acá tenemos que nos despliega estas cuatro opciones,
+pero es aquí donde ya to-todos los archivos o todo el flujo documental que se hizo de la generación
+
+00:47:47,390 --> 00:47:58,480 [speaker_1]
+Perdón, Anderson, te interrumpo. Eh,
+tener en cuenta que aquí también entra todo lo que se hizo en clasificación arancelaria, ¿vale?
+
+00:47:58,560 --> 00:48:54,390 [speaker_3]
+Sí, sí. Sí, digamos que, eh, sí la lleva o si en dado caso, no sé,
+la clasificación arancelaria no pudo hacer la clasificación o necesita algún certificado,
+
+00:48:54,400 --> 00:49:09,500 [speaker_1]
+Yo tengo una pregunta. Sí, espérate. Tengo una pregunta, Anderson, o de pronto si ahí sí la sabe.
+¿Nosotros somos los que creamos el DO? O sea, ¿a nosotros nos queda un DO en el sistema o, o,
+
+00:49:09,840 --> 00:49:11,880 [speaker_7]
+Yo también he tenido esa pregunta siempre, porque acá simplemente nosotros-
+
+00:49:11,900 --> 00:49:40,390 [speaker_1]
+Porque si hacemos redacción de DEO, pero mi pregunta es:
+¿nosotros somos los que traemos el DEO y queda un DEO en nuestro sistema?
+
+00:49:40,420 --> 00:50:24,980 [speaker_4]
+Listo. Eh, efectivamente, esto era lo que, pues sí quería dejar claro para también Ledger,
+para que no hayan como algún tipo de confusión. Y es: desde esta pantalla se graba un archivo, eeeh,
+
+00:50:27,020 --> 00:50:27,510 [speaker_1]
+Gracias.
+
+00:50:27,520 --> 00:50:30,760 [speaker_7]
+Te tomamos, te tomamos el dato, pero recuerda que la, la actividad que debemos buscar-
+
+00:50:30,820 --> 00:50:30,830 [speaker_4]
+Sí.
+
+00:50:30,830 --> 00:50:36,200 [speaker_7]
+Es que por cada requerimiento apreciemos todas las entidades o tablas que, que hacen parte-
+
+00:50:36,220 --> 00:50:36,770 [speaker_4]
+Claro que sí, yo te do-
+
+00:50:36,770 --> 00:50:38,390 [speaker_7]
+De esa parte del proceso.
+
+00:50:38,440 --> 00:50:44,460 [speaker_4]
+Yo te la voy a, a detallar, solo es como para que, eh, ser un poquito clara.
+
+00:50:44,480 --> 00:50:46,600 [speaker_7]
+Mhm, ya. Entonces-
+
+00:50:46,640 --> 00:50:58,420 [speaker_4]
+Cuando ellos crean, se crea, pues esta información. Eh, aquí, como pueden ver, es algo, pues muy,
+como muy s-- básico, digámoslo así. Es el código de la compañía, la guía, la ficha-
+
+00:50:58,440 --> 00:51:03,200 [speaker_1]
+Discúlpame, Deisy, estamos viendo un Word, un, un [risas]
+
+00:51:03,220 --> 00:51:03,230 [speaker_4]
+Perdón.
+
+00:51:03,260 --> 00:51:06,710 [speaker_1]
+Dale, yo: "Pero ¿dónde está eso?" [risas]
+
+00:51:06,710 --> 00:51:07,930 [speaker_4]
+[risas] Ah, me confundí de pantalla.
+
+00:51:07,940 --> 00:51:11,150 [speaker_7]
+Esas notas. [risas]
+
+00:51:11,150 --> 00:51:15,100 [speaker_4]
+[risas] Listo. ¿Ya ahora sí ven mi pantalla?
+
+00:51:15,140 --> 00:51:15,990 [speaker_1]
+Ya se ve la pantalla.
+
+00:51:16,000 --> 00:51:17,060 [speaker_7]
+Sí, ya, pase.
+
+00:51:17,120 --> 00:51:26,120 [speaker_4]
+Listo. Esa es la tabla que se genera cuando ellos hacen ese proceso de crear, como de impulsar,
+como ellos le dicen, de impulsar la guía.
+
+00:51:26,140 --> 00:51:26,580 [speaker_1]
+Mhm.
+
+00:51:26,600 --> 00:52:43,009 [speaker_4]
+Viene el código de la compañía, eh, la guía, eh, la fecha de la guía, quién lo crea.
+Esto es como lo yo-- que se están manejando, pero pues eso ya es como más informativo de nosotros.
+
+00:52:43,060 --> 00:52:55,870 [speaker_7]
+Ya, espérame un segundito. Yo te digo, eh, me parece el web service,
+que ese nos lo compartió pronto César antes y quisiera ratificarlo en este espacio, porque-
+
+00:52:55,880 --> 00:52:58,860 [speaker_4]
+Ese documento también fue compartido.
+
+00:52:58,920 --> 00:52:59,030 [speaker_7]
+Sí, sí.
+
+00:52:59,040 --> 00:53:02,420 [speaker_4]
+Que está muy al detalle de lo que hace este web service.
+
+00:53:02,440 --> 00:53:08,640 [speaker_7]
+Mhm. Eh, está al detalle, sí, técnico.
+
+00:53:08,660 --> 00:53:08,670 [speaker_4]
+Mhm.
+
+00:53:08,740 --> 00:53:14,000 [speaker_7]
+Necesitamos terminar de, de entender exactamente cuál sería el propósito dentro del proceso.
+
+00:53:14,020 --> 00:53:30,199 [speaker_4]
+Claro. Eh, yo creo que para eso también sería importante, no sé,
+conectarnos con SIACO para que ellos también poder tener la visual de OpenComex,
+
+00:53:30,240 --> 00:53:30,400 [speaker_7]
+Sí-
+
+00:53:30,420 --> 00:53:31,310 [speaker_4]
+Porque a futuro, no sé-
+
+00:53:31,320 --> 00:53:33,420 [speaker_7]
+Ya tenemos ese dato de ellos.
+
+00:53:33,440 --> 00:53:39,440 [speaker_4]
+Entonces, no sé si a futuro van a seguir utilizando el mismo web service, van a manejar otra cosa.
+No sé, porque pues-
+
+00:53:39,500 --> 00:53:40,730 [speaker_1]
+Es este.
+
+00:53:42,080 --> 00:53:43,880 [speaker_7]
+Deisy, se te preguntó una cosita.
+
+00:53:43,900 --> 00:53:45,220 [speaker_4]
+Dime.
+
+00:53:45,280 --> 00:53:53,200 [speaker_7]
+Esto, es-es-esto mismo, esto mismo que nos estás mostrando aplica para, eh, cross docking,
+para marcas aliadas, para equipos-
+
+00:53:53,210 --> 00:53:56,660 [speaker_4]
+Para todos los que uti-- sí, para todos los que utilicen esa opción.
+
+00:53:56,740 --> 00:53:57,800 [speaker_7]
+Ah, okey.
+
+00:53:57,980 --> 00:54:12,780 [speaker_4]
+Entendería que sí, para todos es la misma comunicación,
+porque desde de lo que yo conozco y he ido aprendiendo también al lado del grupo de Comex,
+
+00:54:12,820 --> 00:54:21,860 [speaker_7]
+Ah, no, no, eso, eso es, eso es claro y también yo lo aclaro que, que, que quede acá. O sea,
+documentos PDF no se envían por el SEY.
+
+00:54:21,900 --> 00:54:22,230 [speaker_4]
+Exacto.
+
+00:54:24,540 --> 00:54:24,790 [speaker_7]
+Eso es-
+
+00:54:24,790 --> 00:54:25,570 [speaker_1]
+Se envían por correo electrónico.
+
+00:54:25,570 --> 00:54:31,840 [speaker_7]
+Se envían por correo electrónico y se, eh, suben a la plata-- al programa de SIACO directamente.
+
+00:54:31,860 --> 00:54:32,140 [speaker_4]
+Sí.
+
+00:54:32,149 --> 00:54:37,920 [speaker_7]
+¿Listos? Pero desde el SEY, mmm, al día de hoy no se sube documentación-
+
+00:54:37,930 --> 00:54:38,010 [speaker_4]
+Eso es lo que hace.
+
+00:54:38,080 --> 00:54:53,320 [speaker_7]
+No se sube documentación, eh, física, PDFs al sistema, ¿listos? Entonces,
+ya miraremos si eso es posible, no es posible. No sé si estén, no s--
+
+00:54:53,360 --> 00:55:00,760 [speaker_4]
+Que si, que si, eh, apunto porque sea algo que se pueda llegar a automatizar,
+eso pues ya metiendo un poco a, a Comex.
+
+00:55:00,770 --> 00:55:03,840 [speaker_7]
+Diferente, sí, diferente como tal. Mhm.
+
+00:55:03,860 --> 00:55:23,132 [speaker_4]
+Que se pueda automatizar, que de pronto los chicos no necesiten subir esta documentación manual,
+sinoDigo yo, estoy divagueando. Eh, no sé si esté dentro de los requerimientos,
+
+00:55:23,152 --> 00:55:23,512 [speaker_2]
+De acuerdo.
+
+00:55:23,532 --> 00:55:26,322 [speaker_4]
+Pero esta es la información que pues-
+
+00:55:26,372 --> 00:55:26,492 [speaker_2]
+Sí.
+
+00:55:26,502 --> 00:55:29,892 [speaker_4]
+ellos toman. El web service sí es el que tú me enviaste ahí-
+
+00:55:30,472 --> 00:55:30,732 [speaker_2]
+Mhm.
+
+00:55:30,832 --> 00:55:57,132 [speaker_4]
+Eeeh, por el, por el chat y básicamente eso es lo que hace el webs-web service. Va, se conecta.
+Incluso hay un usuario, eh, que eso lo estuvimos validando con los chicos de Infra.
+
+00:55:57,142 --> 00:55:57,142 [speaker_2]
+Mhm.
+
+00:55:57,232 --> 00:56:10,232 [speaker_4]
+un usuario,
+una contraseña en el cual él ingresa y va directamente a las tablas para hacer este tipo de consulta
+
+00:56:10,312 --> 00:56:18,312 [speaker_2]
+Ya, pero entonces ayúdame a entender una cosa. Ese, ese servicio,
+¿a qué se conecta realmente dentro del SI? ¿A los archivos?
+
+00:56:18,352 --> 00:56:20,932 [speaker_4]
+Sí, a las tablas.
+
+00:56:20,992 --> 00:56:32,132 [speaker_2]
+A las tablas. ¿Con qué mecanismo de conexión se conecta hoy? Sé que lo estamos a conservar.
+Lo que quiero es entender que no haya otro elemento de infraestructura adicional del que estemos
+
+00:56:32,192 --> 00:56:44,932 [speaker_4]
+No, no, no, no hay, digamos, no hay otro de más. Eeeh,
+todavía no hemos podido descomprimir este código, pues para poder identificar si es que de pronto,
+
+00:56:45,012 --> 00:56:45,422 [speaker_2]
+Exacto.
+
+00:56:45,472 --> 00:56:45,482 [speaker_4]
+Eh...
+
+00:56:45,492 --> 00:57:17,552 [speaker_2]
+O sea, ¿qué es lo que quiero evitar? Que ustedes tengan una base de datos por allá, eh, fantasma,
+donde parte del proceso está de esa base de datos. Entonces ustedes pueden echar un, un co-- un SQL,
+
+00:57:17,592 --> 00:57:17,892 [speaker_4]
+Sí.
+
+00:57:17,912 --> 00:57:18,832 [speaker_2]
+Si fuera así-
+
+00:57:18,852 --> 00:57:18,941 [speaker_4]
+Yo creo-
+
+00:57:18,941 --> 00:57:20,592 [speaker_2]
+es lo que haremos nosotros también.
+
+00:57:20,691 --> 00:57:27,372 [speaker_4]
+Eeeh, vuelvo y digo, no, no he podido descomprimir el, el código.
+Entonces está ayudando Infra para entregárnoslo.
+
+00:57:27,432 --> 00:57:28,052 [speaker_2]
+Mhm.
+
+00:57:28,072 --> 00:57:45,772 [speaker_4]
+Eh, pero en este caso, de lo que hemos visualizado y lo que hemos entrado a revisar,
+porque pues también infraestructura, eh,
+
+00:57:45,792 --> 00:57:45,902 [speaker_2]
+De acuerdo.
+
+00:57:45,912 --> 00:57:49,512 [speaker_4]
+Pero básicamente, o sea, es lo que hace.
+
+00:57:49,552 --> 00:58:13,512 [speaker_2]
+Dale, pero entonces separemos, separemos aquí la complejidad,
+porque no podríamos recibir la complejidad del entendimiento de cómo opera ese servicio,
+
+00:58:13,522 --> 00:58:13,522 [speaker_4]
+Okey.
+
+00:58:13,532 --> 00:58:34,192 [speaker_2]
+Padre e hijo. E-ese es el dato que realmente necesitamos,
+porque cuando ya empecemos nosotros a darle nombres formales,
+
+00:58:34,212 --> 00:58:34,572 [speaker_4]
+Claro.
+
+00:58:34,692 --> 00:58:39,532 [speaker_2]
+[risas] Counting Temp. Sí, es-- no se entiende muy bien.
+
+00:58:39,652 --> 00:58:53,292 [speaker_4]
+Incluso yo creería también que, eh, en este caso, pues si ustedes tienen la información de SIACO,
+de cómo ellos visualizan la información,
+
+00:58:53,312 --> 00:58:54,422 [speaker_2]
+Pues realmente-
+
+00:58:54,452 --> 00:58:56,492 [speaker_4]
+Apoyándome con esto.
+
+00:58:56,512 --> 00:59:47,672 [speaker_2]
+Ellos no nos dieron mucha información y realmente cerraron la puerta cuando indagamos sobre la
+información que recibían, porque lo que nos dijeron:
+
+00:59:47,692 --> 00:59:47,702 [speaker_4]
+Normalmente.
+
+00:59:47,732 --> 01:00:04,952 [speaker_2]
+Sí, exacto, de hacer algo con esa información. Y este sí APIs O360, eh, en el,
+en la migración César y Deisy,
+
+01:00:07,312 --> 01:00:16,732 [speaker_4]
+Okey, eso voy a levantar la mano y voy a consultar. Sí, eh,
+la consulta es si se deja este mismo o si se coloca otro. ¿Sí?
+
+01:00:16,752 --> 01:00:25,852 [speaker_2]
+No, no sería la misma, porque como estamos cambiando el sistema, le vamos a cambiar la, eh,
+la fuente de donde va a tomar la información, va a cambiar el query porque no va a ser el mismo,
+
+01:00:25,862 --> 01:00:25,862 [speaker_4]
+Ajá.
+
+01:00:25,872 --> 01:00:33,432 [speaker_2]
+pero no va a ser el mismo. Debe retornar la misma información, pero no será el mismo.
+Por eso hay que retirar este servicio y poner otro.
+
+01:00:33,532 --> 01:00:35,342 [speaker_4]
+Ah, okey, okey, okey, sí.
+
+01:00:35,352 --> 01:00:37,932 [speaker_2]
+Por eso.
+
+01:00:37,972 --> 01:00:44,532 [speaker_4]
+Igual si tú puedes desglosar lo que me acabas de preguntar ahí en el, en el chat,
+es que César se tuvo que ausentar.
+
+01:00:44,572 --> 01:01:11,352 [speaker_2]
+Dale, dame, dame un momento para yo terminar de organizar la idea. Mientras tanto, van adelantando,
+eh, la respuesta a esta pregunta mientras yo tomo nota de esta. No lo abramos,
+
+01:01:11,362 --> 01:01:11,582 [speaker_4]
+Mhm.
+
+01:01:11,932 --> 01:02:09,732 [speaker_2]
+Y luego complementaban con la tarea del RPA. Entonces, como que el RPA entraba a una URL,
+observaba la informaciónTomaba de allí una información, eh, de lo que retornaba ese servicio,
+
+01:02:09,792 --> 01:02:14,672 [speaker_4]
+El RPA es el robot que ellos utilizan dentro del sistema del SI.
+
+01:02:15,672 --> 01:02:19,892 [speaker_2]
+En, en el SI no hay un robot. El robot está del lado de SIACCO.
+
+01:02:19,912 --> 01:02:20,872 [speaker_4]
+De SIACCO sí-
+
+01:02:20,892 --> 01:02:20,902 [speaker_2]
+Sí, exacto.
+
+01:02:20,912 --> 01:02:23,862 [speaker_4]
+Pero ellos ingresan con el robot a la S cuatrocientos, al SI.
+
+01:02:24,612 --> 01:02:25,912 [speaker_2]
+Como si fuera un usuario normal-
+
+01:02:25,922 --> 01:02:25,922 [speaker_4]
+Ajá.
+
+01:02:25,972 --> 01:02:46,612 [speaker_2]
+Solo que no es un usuario, sino que es un robotcito.
+Pero ese usuario tiene la capacidad de navegar por el SI. Y la pregunta es:
+
+01:02:46,652 --> 01:03:00,172 [speaker_4]
+Yo creo que eso es más adelante. Porque, pues, se puede combinar, porque es que de este,
+de estos pasos todavía falta la carga que hace Anderson al, al file de SIACCO.
+
+01:03:00,892 --> 01:03:01,952 [speaker_2]
+Mhm.
+
+01:03:02,032 --> 01:03:32,492 [speaker_4]
+Y igual, eh, es importante tener, eh, presente, Anderson,
+que por favor expliques cómo es la generación de la declaración manual, un--
+
+01:03:32,532 --> 01:03:32,542 [speaker_2]
+Sí.
+
+01:03:32,552 --> 01:03:36,022 [speaker_4]
+Porque es prácticamente lo que hace el robot. Lo que ustedes saben hacer es lo que hace el robot.
+
+01:03:36,052 --> 01:03:36,592 [speaker_2]
+Mhm.
+
+01:03:36,632 --> 01:03:50,472 [speaker_1]
+Requerimiento, requerimiento treinta y nueve. Esta, esa, esa,
+esa información que nos dices de lo de la declaración de importación, el robot y todo eso.
+
+01:03:50,492 --> 01:03:51,392 [speaker_4]
+Listo. Entonces-
+
+01:03:51,412 --> 01:03:52,142 [speaker_1]
+Mi pregunta es-
+
+01:03:52,142 --> 01:03:53,612 [speaker_4]
+Podemos saltarnos, Óscar.
+
+01:03:53,812 --> 01:04:03,442 [speaker_2]
+Ya, ya, ya me regalaron espacio para yo terminar la nota. [risas] Ya, ya, ya, ya no,
+ya no continuamos. Si quieren seguir charlando ahí, pero,
+
+01:04:03,472 --> 01:04:03,852 [speaker_4]
+Bueno.
+
+01:04:03,952 --> 01:04:05,292 [speaker_2]
+Ya voy, ya voy.
+
+01:04:05,792 --> 01:04:42,401 [speaker_1]
+Bely, yo, yo-- la, la sesión la realizaste de ocho a nueve. No sé si todos puedan, eh,
+continuar para, para dar cierre o, o, o alguien se tiene que ausentar,
+
+01:04:43,652 --> 01:04:44,992 [speaker_8]
+Está hasta las diez.
+
+01:04:45,002 --> 01:04:45,002 [speaker_1]
+¿Esta hasta las diez?
+
+01:04:45,012 --> 01:04:45,872 [speaker_8]
+Sí, please.
+
+01:04:47,332 --> 01:04:51,912 [speaker_4]
+Sí, todavía no. Yo la tengo agendada hasta las diez.
+
+01:04:52,812 --> 01:04:56,742 [speaker_1]
+Ah, okey, pensé que era hasta las nueve. Pensé que era a las nueve. Discúlpame.
+
+01:04:56,752 --> 01:05:00,042 [speaker_8]
+Se me avanzó. [risas]
+
+01:05:00,052 --> 01:05:03,992 [speaker_1]
+Ah, perdóname. La cancelada era la que estaba hasta las nueve. Okey.
+
+01:05:04,002 --> 01:05:06,832 [speaker_8]
+Sí, porque, porque era comité. Sí. Ajá.
+
+01:05:06,872 --> 01:05:11,302 [speaker_1]
+Sí. Ah, listo. Súper. No, no, no. Qué pena con ustedes. Continuemos, continuemos.
+
+01:05:11,302 --> 01:05:18,272 [speaker_8]
+[risas] No, pero importante si se extiende después de las diez, si podemos estar,
+sería genial cerrarlo en la mañana de hoy, Crossdocking.
+
+01:05:18,312 --> 01:05:31,752 [speaker_1]
+Dale. Entonces, em, ya, ya vimos, eh, cómo se envía o cómo se impulsa desde el SI, eh,
+la información. ¿Correcto?
+
+01:05:33,732 --> 01:05:35,792 [speaker_2]
+Oye, sí te estoy mandando. Perdón un segundito.
+
+01:05:35,812 --> 01:05:36,661 [speaker_1]
+Dale, no te preocupes.
+
+01:05:37,452 --> 01:05:39,272 [speaker_4]
+Eh, mientras el...
+
+01:05:39,332 --> 01:05:42,302 [speaker_8]
+Vamos por el treinta y nueve, ¿no? Por el...
+
+01:05:42,332 --> 01:05:47,432 [speaker_1]
+No, quedamos en el treinta y siete todavía. Treinta y siete. Sí, ahí vamos todavía.
+
+01:05:48,852 --> 01:05:52,582 [speaker_8]
+[suspiro] Es que son siete. Habían siete que me interesan.
+
+01:05:52,582 --> 01:05:53,842 [speaker_1]
+[risas]
+
+01:05:53,842 --> 01:06:03,862 [speaker_8]
+Padre celestial. Está largo, largo. Bueno.
+
+01:06:03,972 --> 01:06:04,672 [speaker_1]
+No pareciera-
+
+01:06:04,752 --> 01:06:15,122 [speaker_4]
+Sí, considero que, que Crossdocking sí es el proceso un poco--
+es el más extenso y el que sí se tiene que tener muy, eh,
+
+01:06:15,122 --> 01:06:16,472 [speaker_8]
+Exacto.
+
+01:06:16,492 --> 01:06:21,712 [speaker_4]
+Ajá. Porque sí tiene muchas cosas que se atan las unas con las otras.
+
+01:06:23,412 --> 01:06:28,432 [speaker_8]
+Como el núcleo, me parece, ¿no? Sí.
+
+01:06:32,772 --> 01:06:49,112 [speaker_1]
+Yo creería que para equipos y marca salea lo van a entender más rápido.
+
+01:06:49,272 --> 01:06:50,552 [speaker_2]
+Sí, sí, claro.
+
+01:06:50,572 --> 01:06:59,222 [speaker_1]
+Acá ya se, se consume gran parte de lo que se-- de la dinámica que se hace en, en esos dos procesos.
+Acá consume bastante.
+
+01:06:59,222 --> 01:07:08,572 [speaker_8]
+Sí, por eso no reprogramé las sesiones esperando hoy cómo terminamos y ahí sí.
+Apenas terminemos Crossdocking, ahí sí empiezo a mover las sesiones que ya estaban.
+
+01:07:10,792 --> 01:07:12,312 [speaker_4]
+Entonces entendería que-
+
+01:07:13,392 --> 01:07:13,402 [speaker_8]
+De currio
+
+01:07:13,412 --> 01:07:26,222 [speaker_4]
+Entendería que lo que es de los-- de las demás se podría, digo yo, ¿no? Eh,
+se podría omitir la generación de la declaración, porque para todos funciona como igual.
+
+01:07:26,892 --> 01:07:27,072 [speaker_2]
+Sí.
+
+01:07:27,132 --> 01:07:32,271 [speaker_4]
+Las pantalla es la misma, todo.Pero es como la otra, tiene que ser el mismo proceso
+
+01:07:32,302 --> 01:07:38,092 [speaker_2]
+Se, se, se men-- se mencionaría ese requerimiento y se diría mismo que ya, lo mismo que ya vimos,
+protección así.
+
+01:07:38,102 --> 01:07:38,682 [speaker_4]
+Mhm.
+
+01:07:38,702 --> 01:07:42,532 [speaker_2]
+O sea, se, se re-- porque se tiene que revisar el, el requerimiento,
+que yo creo que es muy importante.
+
+01:07:42,562 --> 01:07:43,202 [speaker_4]
+Sí.
+
+01:07:43,282 --> 01:07:48,382 [speaker_2]
+Y si es lo mismo, pues entonces se va a decir: "Okey, contempla la misma, eh-
+
+01:07:48,402 --> 01:07:48,652 [speaker_4]
+Lógica.
+
+01:07:48,662 --> 01:07:55,422 [speaker_2]
+Mismo su proceso, misma lógica de lo que se ya se realizó". Entonces, check, uno menos.
+
+01:07:55,482 --> 01:08:05,762 [speaker_4]
+CPLN. [carraspeo] Listo.
+
+01:08:05,802 --> 01:08:23,762 [speaker_2]
+Eh, ya. Eh, sí, necesitamos terminar de, de revisar este servicio, Deisy,
+porque lo que está aquí en este formato que nos envía, formato de servicio copia, toque X, está las-
+
+01:08:23,782 --> 01:08:24,222 [speaker_4]
+Sí.
+
+01:08:24,242 --> 01:09:20,762 [speaker_2]
+Cuatro capacidades que él ofrece.
+El servicio de autenticación está como de donde toma la información, está perfecto.
+
+01:09:20,822 --> 01:09:30,082 [speaker_4]
+O sea, entiendo que cuando tú dices ese detalle, ejemplo, yo ingreso a mi IC cuatrocientos,
+que es donde se me facilita.
+
+01:09:30,102 --> 01:09:30,202 [speaker_2]
+Mhm.
+
+01:09:30,242 --> 01:09:38,382 [speaker_4]
+Creo esta consulta y les muestro qué es lo que retorna y les especifico cada columna a qué hace
+referencia, ¿sí?
+
+01:09:38,422 --> 01:10:00,282 [speaker_2]
+Puedes tomar, sí, puedes tomar en un mismo documento donde está la consulta y simplemente le sumas:
+mira, la primera, en la primera, la primera parte del select es tan sencillo como que es la orden.
+
+01:10:00,292 --> 01:10:01,411 [speaker_4]
+Okey, perfecto.
+
+01:10:01,422 --> 01:10:16,942 [speaker_2]
+Listo. Y como solo está para uno, nos dices: "No, es esta misma consulta,
+solo que los otros servicios hacen consulta por rango de fechas". Entonces, es lo mismo. Es decir,
+
+01:10:16,982 --> 01:10:31,892 [speaker_4]
+Ven, una consulta, si en, eh, en la consulta que tenemos en ese web service, eh,
+ahí están mapeadas las tablas y esas tablas sí están en el inventario, eeeh, que les envié,
+
+01:10:32,582 --> 01:10:33,262 [speaker_2]
+Mhm.
+
+01:10:33,362 --> 01:10:43,062 [speaker_4]
+Eso por parte de ustedes no podrían-- y que tienen ya su, la descripción del campo.
+¿Eso no lo podrían hacer directamente ustedes con esa consulta?
+
+01:10:43,142 --> 01:11:10,442 [speaker_2]
+Lo podríamos hacer si el campo es descriptivo y no tiene dudas,
+pero como lo hemos revisado en otros espacios, esa... muchas de esas tablas no,
+
+01:11:10,502 --> 01:11:11,222 [speaker_4]
+Ah, okey, perfecto.
+
+01:11:11,322 --> 01:11:26,682 [speaker_2]
+Lo hacemos en conjunto. Es decir, para nosotros lo más importante es tener la información,
+pero no queremos asumir que ya la tenemos y después de que vayamos a,
+
+01:11:27,522 --> 01:11:43,722 [speaker_4]
+Listo, perfecto. Entonces, de las tablas que se van entregando, yo te puedo decir: "Mira,
+de este select ya están mapeadas las o ya fueron entregadas en el inventario y con su, eeeh,
+
+01:11:43,742 --> 01:11:44,502 [speaker_2]
+Mhm.
+
+01:11:44,562 --> 01:11:44,892 [speaker_4]
+Okey.
+
+01:11:44,902 --> 01:12:08,382 [speaker_2]
+Porque ahí hay un, hay un servicio que, que está descrito, no sé cuál de, de todos esos es,
+que es el que tiene el, el SQL, pero hay otros dos que es, voy a asumir que es Get Resource,
+
+01:12:08,422 --> 01:12:09,422 [speaker_4]
+Okey.
+
+01:12:09,462 --> 01:12:09,802 [speaker_2]
+Entonces-
+
+01:12:09,902 --> 01:12:25,262 [speaker_4]
+Ah, ah, bueno, no, no, no, es que en este formato están dos procesos, sí. Inicialmente, el,
+el web service es solo lo de la consulta, que es la primera parte que, que explicamos-
+
+01:12:25,322 --> 01:12:25,662 [speaker_2]
+Mhm.
+
+01:12:25,702 --> 01:12:41,342 [speaker_4]
+Eh, con el apoyo de Anderson. Eh, él solo-- hasta ese momento es solo mirar ese web servi-- eh,
+ese web service, que son las consultas que hace SIACU para po-- eh, que consume por el web service,
+
+01:12:41,382 --> 01:12:50,342 [speaker_2]
+Entonces, eh, nos puedes indicar en este momento cuál de los tres, eh, Get Resource,
+Get Order Numbers o Obtener archivo de información DIÁN-
+
+01:12:50,362 --> 01:12:50,372 [speaker_4]
+Ah, ve.
+
+01:12:50,382 --> 01:12:57,252 [speaker_2]
+Cuál de los tres es el que se está utilizando en esta explicación de este servicio que nos dicen:
+"Esto es lo que va a utilizar SIACU".
+
+01:12:57,302 --> 01:13:06,162 [speaker_4]
+Es solo el... Ese de que recibe la información de la DIÁN no va en esta parte.
+
+01:13:07,722 --> 01:13:08,872 [speaker_2]
+Exacto. Quiero encontrar-
+
+01:13:08,872 --> 01:13:11,942 [speaker_4]
+Esos documentos no va en este momento.
+
+01:13:12,002 --> 01:13:12,092 [speaker_2]
+De acuerdo.
+
+01:13:12,092 --> 01:13:13,182 [speaker_4]
+Eso va más adelante.
+
+01:13:13,622 --> 01:13:32,162 [speaker_2]
+Ustedes nos referenciaron que el servicio SIA_API_V360 está representado por el resultado de esta
+consulta y está consignado en las tablas. Pero de las, de los tres servicios que están acá,
+
+01:13:33,634 --> 01:13:40,274 [speaker_4]
+Eeeh, qué pena. ¿Tú me puedes compartir pantalla y para tener más claridad?
+
+01:13:40,414 --> 01:13:44,254 [speaker_2]
+Voy, que debe estar acá. Es-
+
+01:13:44,514 --> 01:13:45,464 [speaker_4]
+Sí, sí me puedes compartir.
+
+01:13:45,464 --> 01:13:50,274 [speaker_2]
+Es Get Resource. Es Get Resource. Ya te voy a compartir.
+
+01:13:50,854 --> 01:13:54,094 [speaker_4]
+Sí, porfa, que me queda más claro así, qué pena.
+
+01:13:54,134 --> 01:14:21,814 [speaker_2]
+Entonces, creo que aquí por eso, por eso es importante que nos hagan una información,
+porque tú nos dices: "Allí está la información en ese documento",
+
+01:14:22,074 --> 01:14:24,384 [speaker_4]
+Ah, no. El, el cuatro...
+
+01:14:24,414 --> 01:14:25,814 [speaker_2]
+Sí, que no hace parte de este proceso.
+
+01:14:25,834 --> 01:14:26,884 [speaker_4]
+Exacto, sí.
+
+01:14:26,914 --> 01:14:52,274 [speaker_2]
+El documento, el documento no lo tiene.
+Y va a ser una pregunta que te vamos a hacer cuando lleguemos al uso de estos dos servicios,
+
+01:14:52,354 --> 01:15:09,654 [speaker_4]
+Listo, digamos, en este caso el primero, el segundo-- ah, no, bueno, el segundo y el tercero.
+Estos dos sí hacen parte del proceso que estaba explicando Anderson,
+
+01:15:10,314 --> 01:15:10,734 [speaker_2]
+Okey.
+
+01:15:10,754 --> 01:15:12,594 [speaker_4]
+Esas dos sí.
+
+01:15:12,694 --> 01:15:14,494 [speaker_2]
+Entonces, entonces la tercera...
+
+01:15:15,414 --> 01:15:21,114 [speaker_4]
+Es del proceso, eh, más adelante. Como para no, no mezclar acá.
+
+01:15:21,174 --> 01:15:28,834 [speaker_2]
+Okey, pero entonces en ese punto nos vas a regalar el query también que se realiza.
+Esto es una consulta.
+
+01:15:30,454 --> 01:15:34,694 [speaker_4]
+Listo, voy a revisarlo porque-- eh, ahí sí me corres.
+
+01:15:34,754 --> 01:16:31,474 [speaker_2]
+Sí, no te preocupes. Es-- sobre todo es, eh, siempre lo, lo vemos con esta orientación, Equito,
+y es: nosotros vamos a tener que resolver este servicio y para poderlo rese-- eh,
+
+01:16:31,484 --> 01:16:34,014 [speaker_4]
+Listo, perfecto.
+
+01:16:34,034 --> 01:16:35,014 [speaker_2]
+De una. Gracias.
+
+01:16:35,074 --> 01:16:37,394 [speaker_4]
+Lo, lo reviso y te, te las creo.
+
+01:16:38,374 --> 01:16:47,114 [speaker_2]
+Entonces por acá yo voy a tener como estas noticas que me ayuda después a ubicarme de qué fue,
+cuál fue la información que tomé.
+
+01:16:47,134 --> 01:16:48,723 [speaker_4]
+Sí, para esta parte sí.
+
+01:16:49,414 --> 01:17:56,014 [speaker_2]
+Exacto. De este único servicio, el número dos, es el que nos va a ayudar a entender esto,
+que va a ser el resultado. Vuelvo a resumir. De todo lo que acabamos de hacer, voy a hacerle zoom,
+
+01:17:57,314 --> 01:18:03,054 [speaker_3]
+Sí, correcto. Ahí ya generaría como tal o bueno, ya se enviaría de alguna u otra manera la,
+la información.
+
+01:18:03,574 --> 01:18:04,454 [speaker_2]
+Okey.
+
+01:18:04,494 --> 01:19:06,254 [speaker_3]
+Ya digamos que eso a nivel de, de, de sistema, eh,
+digamos que la información digital como tal y ya sería la otra parte que también mencionaba Deisy,
+
+01:19:06,274 --> 01:19:15,954 [speaker_2]
+Listo. Queremos entender ese de gestión documental.
+¿Aparece otro sistema o qué es exactamente eso de gestión documental? ¿O simplemente ponerlo en el,
+
+01:19:15,994 --> 01:19:35,954 [speaker_3]
+Sí, correcto. Entonces digamos, eh, acá lo que hacemos es, bueno, ya enviamos la instrucción, eh,
+le damos F2 y ya ahí dice que el registro se creó.
+
+01:19:36,294 --> 01:19:43,234 [speaker_1]
+O sea, en esta parte. Este es el FTP, el SFTP de la agencia de aduanas, ¿sí?
+
+01:19:43,254 --> 01:19:45,214 [speaker_2]
+¿Y qué haces allí? ¿Qué-
+
+01:19:45,274 --> 01:19:45,904 [speaker_1]
+Acá digamos-
+
+01:19:45,904 --> 01:19:47,814 [speaker_2]
+¿Qué tipo de carpetas manejas?
+
+01:19:47,834 --> 01:20:01,814 [speaker_1]
+Listo, entonces acá lo que yo manejo es, digamos, por ejemplo, yo ingreso por acá por trabaja,
+ingreso por documentos,
+
+01:20:01,954 --> 01:20:14,334 [speaker_2]
+Bueno, eh... esos son los,
+los NIT y es la forma como Siaco tiene cómo diferenciar a nombre de quién está haciendo la
+
+01:20:14,394 --> 01:20:16,774 [speaker_1]
+Sí, correcto.
+
+01:20:16,783 --> 01:20:21,634 [speaker_2]
+¿Y eso hace parte del requerimiento treinta y siete o es ya treinta y ocho?
+
+01:20:21,734 --> 01:20:28,754 [speaker_1]
+Eeeh, Fabián, ¿tú tienes el orden de los requerimientos? El tema del cargue al Faisila-
+
+01:20:28,874 --> 01:20:29,164 [speaker_2]
+Eeeh, no.
+
+01:20:29,164 --> 01:20:30,994 [speaker_1]
+¿Cuál cree que es este requerimiento?
+
+01:20:31,014 --> 01:20:33,194 [speaker_2]
+Todo eso va dentro de ahí, ese va-
+
+01:20:33,534 --> 01:20:34,214 [speaker_1]
+Ah, okey.
+
+01:20:34,224 --> 01:20:42,194 [speaker_2]
+Sí, listo. Yo, yo estoy aquí haciendo una tarea, em... una tarea mía.
+
+01:20:42,514 --> 01:20:42,524 [speaker_1]
+[risas]
+
+01:20:42,554 --> 01:20:43,414 [speaker_2]
+Estoy validando-
+
+01:20:44,094 --> 01:20:44,834 [speaker_1]
+Un trabajo.
+
+01:20:44,854 --> 01:21:06,754 [speaker_2]
+[risas] Sí. Estaba, estaba validando con Yuli. Ella me dice que Siaco le,
+le estaba como diciendo si el Faisila sí tiene algo que ver con el SII. Entonces,
+
+01:21:06,834 --> 01:21:08,214 [speaker_4]
+Es que ahí es donde-
+
+01:21:08,224 --> 01:21:09,434 [speaker_8]
+Es que lo del Faisila-
+
+01:21:09,444 --> 01:21:10,834 [speaker_4]
+[risas]
+
+01:21:11,734 --> 01:21:20,864 [speaker_8]
+Lo del Faisila, lo que nos dijeron ese día era que ellos era--
+lo hacían por FTP y lo dejaban ahí como en una carpeta. Era lo que dejaban como la información.
+
+01:21:20,934 --> 01:21:22,974 [speaker_2]
+Sí, sí, el sistema lo consuma.
+
+01:21:22,984 --> 01:21:31,154 [speaker_4]
+Incluso la relación que hay entre los, entre los-- entre el FTP, SFTP. Bueno,
+el Faisila decía que el Faisila de Zoe-
+
+01:21:31,254 --> 01:21:31,994 [speaker_8]
+Sí, ellos llaman así.
+
+01:21:32,014 --> 01:21:50,774 [speaker_4]
+Es un proceso más adelante. Es el último proceso que se hace. De la inte--
+de las integraciones entre Siaco y Zoe, es lo último que se hace, que es cuando llega... Es, es--
+
+01:21:50,794 --> 01:21:51,054 [speaker_2]
+Mhm.
+
+01:21:51,064 --> 01:22:27,094 [speaker_4]
+Pero cuando se-- cuando nosotros recibimos sin documentación por archivos planos de Siaco,
+es cuando todo el proceso con las declaraciones se termina,
+
+01:22:27,154 --> 01:22:27,224 [speaker_2]
+Ah, okey.
+
+01:22:27,224 --> 01:22:31,934 [speaker_4]
+Sí hay una intervención entre Faisilas, pero es lo último. Entonces sí considero que no-
+
+01:22:32,354 --> 01:22:32,364 [speaker_2]
+Ajá.
+
+01:22:32,374 --> 01:22:34,754 [speaker_4]
+Como que no nos adelantemos porque se va a generar-
+
+01:22:35,474 --> 01:22:35,564 [speaker_2]
+Mhm.
+
+01:22:35,574 --> 01:22:38,734 [speaker_4]
+Confusión tanto para Comex como para Legis.
+
+01:22:38,814 --> 01:22:57,694 [speaker_2]
+Ah, okey. Listo. Entonces voy a quitarla. Me, me quedó porque pues la verdad no lo conocía. No,
+no sabía si ellos-- porque siempre lo hemos visto de aquí para allá documentalmente,
+
+01:22:57,834 --> 01:22:58,354 [speaker_4]
+Eh-
+
+01:22:58,414 --> 01:23:00,654 [speaker_2]
+Ya, ya lo vimos con ellos y ellos realmente-
+
+01:23:00,674 --> 01:23:01,084 [speaker_1]
+Ah.
+
+01:23:01,084 --> 01:23:03,014 [speaker_2]
+Nos dieron más profundidad.
+
+01:23:03,114 --> 01:23:40,054 [speaker_4]
+Incluso cre-- eh, incluso acá, pues también levanto la mano, también si, si la memoria no me falla,
+me corrige Óscar si estoy mal. Eh, César, con el apoyo de César,
+
+01:23:40,174 --> 01:24:00,444 [speaker_2]
+Nosotros le dejamos claro a Siaco, solo para terminar de cerrar esa parte, y es--
+le dejamos claro a Siaco que el nuevo sistema,
+
+01:24:00,444 --> 01:24:01,334 [speaker_4]
+Mhm.
+
+01:24:01,354 --> 01:24:05,424 [speaker_2]
+Pero en esencia sí vamos a tratar de retirar esa conexión.
+
+01:24:07,034 --> 01:24:28,474 [speaker_1]
+Eh, aquí te-- sí, listos. Eh, muy-- muchas gracias. Sí, sí te entendí, Daisy. Entonces,
+para no adelantarnos, solo pregunto una cosa, Óscar,
+
+01:24:28,514 --> 01:24:28,524 [speaker_2]
+No, no tengo.
+
+01:24:28,614 --> 01:24:29,004 [speaker_1]
+Okey.
+
+01:24:29,374 --> 01:25:47,330 [speaker_2]
+No la tengo programada y hace parte del compromiso que les generé hace un rato a Daisy y a César de
+poder establecer la guía del Gobierno desde tecnología. Nosotros no-- nosotros estamos como,
+
+01:25:47,390 --> 01:25:55,010 [speaker_3]
+Okey, listo, Óscar. Vale, cualquier cosa, pues acá estamos, eh,
+disponibles también para apoyar en lo que necesiten. Entonces quedaríamos muy pendientes, ¿vale?
+
+01:25:55,050 --> 01:26:06,880 [speaker_2]
+De una.
+Por ahora nos sirve entender el proceso de cómo los datos se van a mover y nos sirve también para
+
+01:26:06,890 --> 01:26:09,750 [speaker_3]
+Continuemos entonces. Vale, gracias.
+
+01:26:09,770 --> 01:26:28,990 [speaker_2]
+Gracias. A esta parte del proceso se le llama-- porque estábamos seleccionando, eh,
+guías para enviar a SIACCO. Ahora,
+
+01:26:30,050 --> 01:26:33,330 [speaker_3]
+Es el cargue documental a Faisila.
+
+01:26:33,350 --> 01:26:37,110 [speaker_2]
+Cargue documental a Faisila.
+
+01:26:37,130 --> 01:27:25,650 [speaker_3]
+Entonces, como les mencionaba acá en el SFTP ya están creadas las compañías por--
+se identifican por sus números de NIT.
+
+01:27:25,660 --> 01:27:28,370 [speaker_2]
+¿Qué es esa I? I cuatro algo. ¿Qué es?
+
+01:27:28,430 --> 01:27:30,090 [speaker_3]
+Ese es el número de una guía.
+
+01:27:30,170 --> 01:27:38,750 [speaker_2]
+Ese es el número de la guía. Eh, I dos... Un segundito. Espérate, yo tomé ahí una pantalla.
+
+01:27:38,830 --> 01:27:46,570 [speaker_1]
+Solo por aclarar dónde son. En el-- en archivo tenías una guía y acá tienes otro número. ¿No?
+Eso no pasa nada, ¿no?
+
+01:27:46,590 --> 01:27:47,690 [speaker_3]
+No, ahorita la borro.
+
+01:27:47,750 --> 01:27:48,289 [speaker_1]
+Ah, okey.
+
+01:27:48,610 --> 01:27:50,230 [speaker_3]
+Es a manera de ejercicio.
+
+01:27:50,310 --> 01:27:53,160 [speaker_1]
+Ah, ejercicio. Listo. Dale entonces.
+
+01:27:53,170 --> 01:28:03,530 [speaker_2]
+Entonces, eh, se descargan de Dynamics, eh, la documentación de esas guías.
+Pones un nombre de carpeta por guía.
+
+01:28:03,550 --> 01:28:04,810 [speaker_3]
+Mhm.
+
+01:28:06,870 --> 01:28:10,290 [speaker_2]
+Eh, revisamos entonces. Tomando nota.
+
+01:28:11,090 --> 01:28:14,230 [speaker_3]
+¿Ya tomaste el pantallazo?
+
+01:28:14,250 --> 01:28:22,450 [speaker_2]
+Ya, yo ya, ya tomé pantalla del-- estoy en-- ubicado en el SFTP, voy en facturas. Sí, voy ahí mismo.
+
+01:28:23,690 --> 01:28:24,110 [speaker_3]
+Bórrala.
+
+01:28:30,570 --> 01:28:36,910 [speaker_2]
+Okey. ¿Qué pasa después?
+
+01:28:36,919 --> 01:28:51,910 [speaker_3]
+Ah, okey, listo. Después esto lo que va a ir a crear es en el archivo, bueno, ya en el,
+en el genio o en el río, que es el programa que tiene la Agencia de Aduanas. Él crea una fa--
+
+01:28:51,950 --> 01:29:02,750 [speaker_2]
+Eh, perdóname. En genio y en el río y ¿quién hace ese movimiento?
+Porque yo entiendo que lo hace manual, pero esto simplemente es como una carpeta.
+
+01:29:02,790 --> 01:29:12,870 [speaker_3]
+Ahí eso llega a una vista que el programa de SIACCO viene y lo re-- lo, lo, lo consume.
+No sé en qué momento acá crea el, el archivo, no sé en dónde lo pone. Solamente sé que está aquí.
+
+01:29:12,940 --> 01:29:14,530 [speaker_1]
+Para aclararlo. La agencia, la Agencia de Aduanas. ¿Vale?
+
+01:29:14,550 --> 01:29:14,710 [speaker_3]
+Sí.
+
+01:29:14,750 --> 01:29:41,730 [speaker_2]
+Okey, okey, bueno, queda del lado de SIACCO, pero entonces, ah, enfocándonos siempre en, en sí.
+Listo.
+
+01:29:42,130 --> 01:29:43,190 [speaker_1]
+Listo. Entonces-
+
+01:29:43,250 --> 01:29:44,170 [speaker_2]
+O un service.
+
+01:29:44,210 --> 01:29:48,350 [speaker_1]
+Daríamos cierre al requerimiento treinta y siete, ¿cierto? Ahí quedaría-
+
+01:29:48,360 --> 01:30:00,630 [speaker_3]
+Sí, hasta aquí quedaría el treinta y siete. Solamente la gen--
+el envío de la instrucción a SIACCO y, o sea,
+
+01:30:00,750 --> 01:30:04,850 [speaker_2]
+Pero exactamente, ¿cuál sería el requerimiento de ustedes?
+
+01:30:04,910 --> 01:30:33,310 [speaker_3]
+Acá el requerimiento es que en el SI dos punto cero también haya una opción que permita que cuando
+nosotros demos la instrucción de que se cree un DO allá,
+
+01:30:33,350 --> 01:30:33,360 [speaker_2]
+Sí.
+
+01:30:33,360 --> 01:30:35,870 [speaker_3]
+Como, como, como la-- como el requerimiento.
+
+01:30:35,910 --> 01:30:49,150 [speaker_1]
+Sí. Requerimiento en resumen sería, eh, impulsar desde el SI, eh, la información, eh,
+recopilada por documento de transporte.
+
+01:30:49,160 --> 01:30:51,920 [speaker_2]
+¿Qué quiere decir eso exactamente? Eh...
+
+01:30:51,930 --> 01:30:55,170 [speaker_1]
+Que nosotros hicimos una generación de guía, ¿cierto? Hicimos una generación-
+
+01:30:55,190 --> 01:30:55,250 [speaker_2]
+Sí.
+
+01:30:55,630 --> 01:31:00,870 [speaker_1]
+Generación de guía y, y va a pasar en todos los procesos. Siempre va a haber un número de guía,
+un núme-número de guía, un número de documento de transporte.
+
+01:31:00,910 --> 01:31:00,920 [speaker_2]
+Sí.
+
+01:31:00,950 --> 01:31:03,010 [speaker_1]
+Número, número de guía, dejémoslo así. Número de guía.
+
+01:31:03,030 --> 01:31:08,390 [speaker_2]
+Sí. Y eso ya lo hicimos, pero solamente como dejarlo acá en el sistema sentado.
+
+01:31:08,430 --> 01:31:15,130 [speaker_1]
+Sí. Ahí, eh, tiene que--
+desde el SI tiene que llevar esa información para allá para los sistemas de SIACCO.
+
+01:31:15,140 --> 01:31:16,730 [speaker_2]
+¿Y cómo lo vamos a llevar?
+
+01:31:16,750 --> 01:31:28,190 [speaker_1]
+Cómo lo van a llevar era lo que Deysennos-- me imagino que nos estaba mostrando ahorita,
+que por las tablas, que por los-- bueno, por, por todo este proceso, por los web service,
+
+01:31:28,230 --> 01:31:29,330 [speaker_2]
+Nosotros no-- nos hacemos eso.
+
+01:31:29,370 --> 01:31:47,974 [speaker_1]
+Sí, hoy lo hacemos por medio de ese menú. ¿Sí? Si no lo-- si nosotros no lo aplicamos manualmente,
+él, él, él, él no sale. La información queda en el SI y nunca va a llegar a, a la agencia.
+
+01:31:48,334 --> 01:32:08,874 [speaker_2]
+Hasta ahí me,
+me he ubicado en el requerimiento treinta y siete que va hasta ofrecer es-esa información a SIACO a
+
+01:32:08,894 --> 01:32:18,534 [speaker_1]
+No sé, Anderson, si se estaba haciendo un requerimiento específico con el Faisila,
+porque pues que el Faisila es netamente de, de SIACO y no entraría, eh-
+
+01:32:19,954 --> 01:32:20,024 [speaker_2]
+Ujum.
+
+01:32:20,024 --> 01:32:29,294 [speaker_1]
+No entraría con el SI. Entonces no sé si de pronto fue m--
+la mención para explicar el requerimiento o se pretende hacer algo ahí.
+
+01:32:29,794 --> 01:32:31,454 [speaker_2]
+Porque sí, el requerimiento no lo dice-
+
+01:32:31,554 --> 01:32:31,634 [speaker_1]
+Sí.
+
+01:32:31,654 --> 01:32:46,334 [speaker_2]
+Sino va hasta donde nos acabaron de explicar requerimiento treinta y siete, que es:
+ustedes realizan esa acción acá y eso es lo que va de forma sencilla, es tener la disp--
+
+01:32:46,354 --> 01:32:48,734 [speaker_1]
+Richie, tienes la mano levantada tanto.
+
+01:32:48,754 --> 01:33:13,034 [speaker_9]
+[carraspeo] Es que por ahí los he escuchado a ustedes también en algunas oportunidades diciendo:
+"Es que cada vez nos toca bajar más INVs a mano". Digamos, les toca llamarla, INV, sacar el PDF,
+
+01:33:13,514 --> 01:33:14,434 [speaker_2]
+Ujum.
+
+01:33:14,514 --> 01:33:31,174 [speaker_9]
+No sé si en alguna parte de los requerimientos colocaron:
+"Solicitú a Dynamics" [risas] o "No aplique aquí", no sé.
+
+01:33:31,214 --> 01:33:33,394 [speaker_1]
+Pero sería Dynamics.
+
+01:33:33,434 --> 01:33:33,444 [speaker_9]
+Sí.
+
+01:33:33,494 --> 01:33:35,464 [speaker_1]
+Más no al SI.
+
+01:33:35,634 --> 01:33:36,764 [speaker_9]
+Ah, okey, perfecto.
+
+01:33:36,774 --> 01:33:38,424 [speaker_2]
+Se necesita esa intermediación, porque-
+
+01:33:38,424 --> 01:33:39,164 [speaker_9]
+Buena aclaración.
+
+01:33:39,164 --> 01:33:40,014 [speaker_2]
+Se está haciendo manual.
+
+01:33:41,134 --> 01:34:32,434 [speaker_1]
+Sí sería, sí, si queremos descargar masivamente facturas y no una por hoy, es algo de Dynamics,
+netamente Dynamics. No, no del SI o, o en ese momento ni interactúa el SI, y pues no creo que,
+
+01:34:32,454 --> 01:34:33,114 [speaker_9]
+Correcto.
+
+01:34:33,194 --> 01:34:35,494 [speaker_1]
+Estos no, no, no pasan. No pasan por ahí.
+
+01:34:35,534 --> 01:34:36,204 [speaker_9]
+Dinámis.
+
+01:34:36,234 --> 01:35:18,354 [speaker_1]
+Dinámis, Dinámis. Ya ve cómo se descarga en Dynamics eso. Y se cargan al Faisila.
+Ya el tema de que Faisila recoje-- cómo se devuelve, me imagino que es archivos.
+
+01:35:19,914 --> 01:37:12,794 [speaker_3]
+Perdón. Eh, sí y no. O sea,
+nosotros con la Agencia de Aduanas y pues esto data de ya desde todo el tiempo que hemos venido
+
+01:37:12,834 --> 01:38:34,802 [speaker_4]
+Quiero hacer ahí una intervención, sí. Eh, quiero aclarar cómo fun-- o sea, más que todo para Comex.
+De pronto Óscar ya tiene claridad del tema o creería que ya lo entendió. No es-- o sea,
+
+01:38:34,842 --> 01:38:35,131 [speaker_2]
+Mmm.
+
+01:38:35,202 --> 01:39:26,202 [speaker_4]
+Entonces, sí o sí tienen que impulsarlo desde acá. Uno, eso. Eh, dos, eh,
+para la pregunta de Óscar en cuanto al requerimiento, aquí también me meto como a opinar, eh,
+
+01:39:26,222 --> 01:39:26,472 [speaker_2]
+De acuerdo.
+
+01:39:26,472 --> 01:39:27,172 [speaker_4]
+Entiendo yo.
+
+01:39:27,202 --> 01:39:27,782 [speaker_2]
+Súper, sí.
+
+01:39:27,862 --> 01:39:28,292 [speaker_4]
+Hasta ahí.
+
+01:39:28,322 --> 01:39:30,152 [speaker_2]
+Sí, sí, tú tienes toda la razón.
+
+01:39:30,202 --> 01:39:30,742 [speaker_4]
+Ya es-
+
+01:39:30,802 --> 01:39:31,342 [speaker_2]
+E-e-esa-
+
+01:39:31,352 --> 01:39:51,802 [speaker_4]
+Es una operación aparte. De pronto lo que dijeron de: "Ah, que Dynamics cargue la-la inform--
+los documentos directamente a Com-- a Siaco". Como Jorgito siempre ha dicho:
+
+01:39:51,842 --> 01:40:49,662 [speaker_2]
+De acuerdo, gracias. Gracias por la claridad, Daisy. Eh,
+efectivamente no alcanzamos a hacer temas de Dynamics.
+
+01:40:49,682 --> 01:40:58,682 [speaker_4]
+Para, para dejarla nota en chat, eh, Óscar,
+para que no nos vayamos a enredar cuando saque el listado de pendientes. Le digo: ¿retirar cuáles?
+
+01:40:58,722 --> 01:40:59,111 [speaker_2]
+Retirar-
+
+01:40:59,122 --> 01:40:59,712 [speaker_4]
+Retirar...
+
+01:40:59,722 --> 01:41:14,442 [speaker_2]
+Re-requerimiento treinta y siete, plantilla de documento en formato carga de datos Faisila Siaco.
+Todo lo que diga Faisila, excepto el primero que es transversal. Ese sí,
+
+01:41:14,562 --> 01:41:15,242 [speaker_4]
+Igual-
+
+01:41:15,282 --> 01:41:15,771 [speaker_2]
+Los otros sí.
+
+01:41:16,882 --> 01:41:51,831 [speaker_4]
+Igual también quiero, pues, hacer énfasis acá,
+que pues el equipo de Comex son los que ya tienen que entrar al detalle de qué es lo que quieren con
+
+01:41:51,942 --> 01:41:54,762 [speaker_6]
+Ah, te lo anotaste. Yo estaba escribiendo.
+
+01:41:54,782 --> 01:42:53,042 [speaker_4]
+Ya que si de pronto hay, eh, no sé, que dentro del requerimiento de Comex digan: "No,
+es que yo quiero automatizar esto, pero lo queremos hacer por medio del nuevo SI",
+
+01:42:53,102 --> 01:42:54,272 [speaker_2]
+Sí, la integración-
+
+01:42:54,272 --> 01:43:00,682 [speaker_4]
+Si se conserva, o sea, si se conserva el, eh, Web Service, si lo hacen de otra manera.
+
+01:43:00,742 --> 01:43:07,702 [speaker_2]
+Sí se conserva, eh, que es el compromiso que, que está allí. Sí se, sí se conserva la funcionalidad,
+no se conserva el servicio.
+
+01:43:07,712 --> 01:43:07,712 [speaker_4]
+Ajá.
+
+01:43:07,742 --> 01:43:11,002 [speaker_2]
+Ese servicio tenemos que retirarlo.
+
+01:43:11,422 --> 01:43:13,862 [speaker_4]
+Listo. Quería hacer como esa claridad.
+
+01:43:13,882 --> 01:43:54,462 [speaker_2]
+Y no, es impor-- superimportante lo que tú mencionas, porque aquí, eh, Kelly,
+yo no sé si acá está Giovanni, pues eso de retirar, cuando hablamos de retirar,
+
+01:43:54,922 --> 01:44:04,922 [speaker_6]
+Lo que ingresa y lo que sale. Pero que la UI va a cambiar, va a cambiar. ¿Listo?
+
+01:44:05,042 --> 01:44:08,882 [speaker_2]
+¿Me, me dan un segundito, porfa? Discúlpenme. Nosotros creamos el-
+
+01:44:10,502 --> 01:44:11,152 [speaker_8]
+Un segundo.
+
+01:44:11,542 --> 01:45:27,162 [speaker_2]
+Un segundo, porfa. Listo, ahí hago esa nota. Equipo. Kelly, ahí para que tú, tú le des también a,
+a Giovanni para que él se prepare.
+
+01:45:27,222 --> 01:45:31,922 [speaker_8]
+Ajá. Ya mismo voy pasándole la información.
+
+01:45:32,182 --> 01:45:41,722 [speaker_2]
+Vale, gracias. Una discusión amplia, pero le quedará ahí como esa tarea de,
+de empezar a hacer los enlaces con, con estos equipos.
+
+01:45:55,162 --> 01:46:23,382 [speaker_8]
+Sí, Óscar, sí, creo que es importante, eh, sí, evaluar mucho esta parte también, pues con Yile,
+que es la jefe de Comex, eeeh, para que, pues se aclaren bien esta carga de, de documentos.
+
+01:46:23,442 --> 01:47:33,162 [speaker_2]
+Sí, de acuerdo. No, no nos corresponde a nosotros cambiarla. Nos corresponde a nosotros indicar que,
+que hay algo de pronto que tenga que ajustarse.
+
+01:47:33,462 --> 01:48:17,302 [speaker_8]
+En mis memorias, eh, Óscar, decían ellos en esa sesión que tuvimos ese lunes,
+que esperaban también que de pronto se pudiera hacer una API.
+
+01:48:17,312 --> 01:48:20,602 [speaker_2]
+¿Yile? ¿Perdón?
+
+01:48:20,622 --> 01:48:22,671 [speaker_8]
+¿Hola? Ay, ¿me escuchas?
+
+01:48:22,671 --> 01:48:24,862 [speaker_2]
+Sí, sí, sí. No, yo te escuché. Lo que pasa es que-
+
+01:48:24,882 --> 01:48:25,712 [speaker_8]
+Ah. [risas]
+
+01:48:25,712 --> 01:48:29,061 [speaker_2]
+... otra cosa. No, no te presté atención. Perdón, perdón.
+
+01:48:29,162 --> 01:48:47,402 [speaker_8]
+Que en mis memorias tengo presente que el equipo de SIACO, el, el--
+la persona de tecnología de ellos, di-dijeron que si se podía cambiar el FileZilla,
+
+01:48:47,482 --> 01:48:48,522 [speaker_2]
+Ya, ya, claro.
+
+01:48:48,542 --> 01:48:52,702 [speaker_8]
+Porque si de pronto lo dicen, tener ahí como eso en el radar.
+
+01:48:52,722 --> 01:49:07,942 [speaker_2]
+Ya, claro. Pero es la conversación que estábamos realizando con,
+con Deisy y con Fabián de que realmente esa información no sale de acá. No, o sea, esas facturas,
+
+01:49:07,962 --> 01:49:09,842 [speaker_8]
+Las fa-- las facturas.
+
+01:49:09,882 --> 01:49:21,102 [speaker_2]
+Las facturas. Esas factu-- gracias. Esas facturas no salen de SIACO. Eh, perdón, no salen de-- sí,
+salen de Dynamics, que es la interacción que vimos, ¿no? Ellos ingresan a Dynamics-
+
+01:49:21,112 --> 01:49:21,112 [speaker_8]
+Ah, okey.
+
+01:49:21,122 --> 01:49:57,662 [speaker_2]
+... descargan los PDFs y luego los ponen aquí en el FileZilla.
+Mira que toda la interacción realmente es, eh, desde,
+
+01:49:57,682 --> 01:50:02,202 [speaker_8]
+Listo. Sí, porque entendería- Lo revisan al interior
+
+01:50:02,974 --> 01:50:21,294 [speaker_4]
+Sí, porque, bueno, hablo bajo un poco, eh [chasquido] , de falta de conocimiento también,
+pero en este caso, si lo quisieran cambiar a una API, ¿Comex estaría haciendo lo mismo?
+
+01:50:21,334 --> 01:50:21,844 [speaker_2]
+De acuerdo.
+
+01:50:21,854 --> 01:50:22,464 [speaker_4]
+Haría lo mismo.
+
+01:50:22,474 --> 01:50:24,294 [speaker_2]
+Desde Dynamics. Exacto.
+
+01:50:24,334 --> 01:50:25,064 [speaker_4]
+Sí, daría como los mismos-
+
+01:50:25,064 --> 01:50:49,534 [speaker_2]
+Consultaría dos servicios. Po-por ejemplo,
+consulta primero el servicio nuestro que les vamos a ofrecer hoy o que les ofreceremos en el futuro,
+
+01:50:49,574 --> 01:51:03,394 [speaker_1]
+Sí, volví. Qué pena. Es que estaba por acá validando una cosa, eh, directamente con Yily.
+Vamos a entrar a, a, a mirar bien ese punto treinta y siete, ¿vale?
+
+01:51:03,404 --> 01:51:03,404 [speaker_2]
+Okey.
+
+01:51:03,434 --> 01:51:42,334 [speaker_1]
+Y, y lo analizamos acá y, y lo miramos a ver realmente qué, qué... Explicar qué era la función,
+si era solamente validar el impulso, que, que quedara bien de,
+
+01:51:42,434 --> 01:52:19,614 [speaker_2]
+Eh, pero una parte. No, eh,
+aquí les estamos teniendo en el proceso y sí se ve claramente dónde está la responsabilidad dentro
+
+01:52:20,654 --> 01:52:21,094 [speaker_1]
+Sí, entonces-
+
+01:52:21,114 --> 01:52:36,034 [speaker_2]
+Entonces, no seríamos intermediarios de una responsabilidad de un tercero, es lo que quiero decir.
+Porque no,
+
+01:52:36,074 --> 01:52:56,914 [speaker_1]
+Sí, lo validamos, ya lo validamos nosotros acá, ya sabemos qué es lo que hace el, el sistema. Eh,
+ya entramos a validarlo con ellos y ellos nos dirán: "Venga, es que se interactúa no solamente esto,
+
+01:52:56,934 --> 01:53:44,284 [speaker_2]
+De una. Y es importante que nos acompañe equipo de tecnología de... Eh,
+no sé si es Andrés o con César, para que puedan fijar una posición de-- al respecto.
+
+01:53:44,314 --> 01:53:48,014 [speaker_1]
+Dale, dale. Eh, yo lo valido, yo lo valido con ellos-
+
+01:53:48,134 --> 01:53:50,214 [speaker_2]
+De una. Lo que necesiten de nuestro lado, ahí estaremos-
+
+01:53:50,224 --> 01:53:51,964 [speaker_1]
+Y también. Sí, claro que sí. Dale, dale.
+
+01:53:52,914 --> 01:54:01,704 [speaker_2]
+Hagamosle entonces. Eh, nos quedan, nos quedan cuatro minutos y nos quedan tres requerimientos,
+cuatro requerimientos. Uno por minuto.
+
+01:54:01,704 --> 01:54:09,334 [speaker_1]
+Listos. Eh, pasemos al, al, al requerimiento treinta y nueve, si está bien,
+ya que el treinta y ocho es-
+
+01:54:09,354 --> 01:54:09,364 [speaker_2]
+Treinta y ocho.
+
+01:54:09,394 --> 01:54:25,634 [speaker_1]
+Sí, el treinta y ocho dice: "El programa debe contar con una opción que permita generar un reporte",
+pero esto entraría como opciones de consultas.
+
+01:54:26,154 --> 01:54:26,664 [speaker_2]
+Entonces te dejo ese-
+
+01:54:26,664 --> 01:54:33,634 [speaker_1]
+Sí, eso es lo que ya nos decía como tal, como tal Deisy, que, que es importante, eh,
+revisarlo también. ¿Listos?
+
+01:54:33,714 --> 01:54:43,724 [speaker_2]
+Entonces te dejo el,
+el treinta y ocho como pendiente para que aclares exactamente cómo quieres observar ese reporte,
+
+01:54:43,774 --> 01:55:03,104 [speaker_1]
+Sí, porque mira, dice: "Reporte facturas generadas", y, y rápidamente, Anderson, eh:
+"El programa debe contar con una opción que permita generar un reporte de facturas Panamerican
+
+01:55:03,194 --> 01:56:06,774 [speaker_3]
+Sí, correcto. Lo, lo que mencionas es correcto, sí. Lo, lo, lo que realmente necesitamos es acá,
+que ya después de que se haya generado un documento o un embarque, eh,
+
+01:56:14,124 --> 01:56:53,314 [speaker_1]
+Utilizo el número de la guía y le doy enter y acá me trae como tal las facturas INV que se generaron
+en esa guía. ¿Sí? Saís esta cantidad. Adicional de que, pues obviamente para, para poderlas tomar,
+
+01:56:54,004 --> 01:57:40,904 [speaker_2]
+Es claro, es claro que necesitas, no es claro el requerimiento en su especificidad,
+pero aquí ya les paso algo que les puede ayudar. Y es: se d--
+
+01:57:40,944 --> 01:57:45,664 [speaker_1]
+Sí, solamente sería la columna de la factura. No necesitamos más nada acá.
+
+01:57:45,684 --> 01:57:46,174 [speaker_2]
+Exactamente.
+
+01:57:46,184 --> 01:57:46,944 [speaker_1]
+Ya el detalle-
+
+01:57:47,304 --> 01:57:55,544 [speaker_2]
+Si lo quieren definir así lo ponemos en este momento, que solamente enumera la--
+debe retornarse un archivo con el número de la factura.
+
+01:57:55,564 --> 01:59:13,004 [speaker_1]
+Sí, estamos, eh, trabajando como tal y desde el inicio de clasificación y eso, y,
+y ahí es que hay unos requerimientos que son solo, eh, reportes,
+
+01:59:14,064 --> 01:59:56,864 [speaker_2]
+Bueno, eh, vamos a retirar la palabra todos de las, de las solicitudes que ustedes nos realicen.
+Esa palabra no la vamos a recibir. Todos no, no son todos. Eh, un reporte genérico tampoco.
+
+01:59:56,904 --> 01:59:59,544 [speaker_1]
+Sí, sí, es personalizado. Lo, lo-
+
+01:59:59,604 --> 02:00:00,574 [speaker_2]
+Es, es personalizado.
+
+02:00:00,574 --> 02:00:01,804 [speaker_1]
+Es personalizado.
+
+02:00:01,864 --> 02:00:24,524 [speaker_2]
+Es personalizado.
+Y vamos a buscar que eso sí no quede como en un lugar con una zona definida de consulta,
+
+02:00:26,044 --> 02:00:37,924 [speaker_1]
+Por-- yo, yo no sé si tuvieron la, la, la, la opción de validar el, el, el documento que yo envié,
+Óscar. De pronto lo, lo pudiste validar o no, ¿no has alcanzado hasta allá todavía?
+
+02:00:37,984 --> 02:00:47,104 [speaker_2]
+No, no, no es por eso. Es porque yo estuve revisando ayer qué documentos tenía que,
+que me había llegado de tu parte y no lo tengo.
+
+02:00:47,144 --> 02:00:56,134 [speaker_1]
+Será que-- no, pero yo lo-- yo di respuesta sobre,
+sobre el mismo correo que Keilin envió del inicio de los requerimientos. No sé.
+
+02:00:56,134 --> 02:01:00,354 [speaker_2]
+Es que me pasó conmigo, Enrique. El documento de requerimientos no me llegó.
+
+02:01:00,504 --> 02:01:07,964 [speaker_1]
+Ejemplo, mira, aquí yo les estoy compartiendo una imagen. Eh, Anderson,
+¿tú me puedes hacer un favor? La puedes proyectar en la pantalla.
+
+02:01:08,024 --> 02:01:09,244 [speaker_7]
+Sí, dame un momento.
+
+02:01:09,364 --> 02:02:20,856 [speaker_1]
+Eso, listo, gracias. Mira, es-esto es como el módulo de consultas que tal, eh, queramos, eh,
+personalizar. ¿Sí? Con, con las cosas. Entonces, por ejemplo, en los--
+
+02:02:20,876 --> 02:02:21,456 [speaker_2]
+Mhm.
+
+02:02:21,476 --> 02:02:25,946 [speaker_1]
+Que es-- no sé, Anderson, a la izquierda, porfa. A la izquierda en la imagen que se ve.
+
+02:02:26,016 --> 02:02:27,076 [speaker_2]
+En la parte de abajo.
+
+02:02:27,116 --> 02:02:28,346 [speaker_1]
+En la parte de abajo.
+
+02:02:28,436 --> 02:02:36,756 [speaker_2]
+Esa expectativa, pero ya te hemos dicho que no vamos a poder lograr,
+no nos vamos a poder comprometer. Vamos a buscar que sea así de efectivo.
+
+02:02:36,776 --> 02:02:52,616 [speaker_1]
+No, no, no. Sí, sí, exactamente. Yo no te estoy relacionando y diciendo: "Venga,
+es que tiene que ser tal cual como esto",
+
+02:02:52,636 --> 02:02:53,416 [speaker_2]
+Mhm.
+
+02:02:53,496 --> 02:03:02,976 [speaker_1]
+Ya miraremos cómo se ajusta. Esto es una idea. O sea,
+no estoy diciendo es que tiene que ser así en estas características, un recuadro aquí,
+
+02:03:02,996 --> 02:03:03,365 [speaker_2]
+Sí.
+
+02:03:03,396 --> 02:03:15,816 [speaker_1]
+Pero sí aclaro que el-- entre todos los requerimientos hay procesos de consultas y reportes.
+¿Cuál era mi pensado? Que quede todo en un solo módulo. ¿Sí? Ese es mi pensado.
+
+02:03:16,636 --> 02:03:18,106 [speaker_2]
+En un solo módulo quedará. En un solo módulo quedará.
+
+02:03:18,116 --> 02:03:52,416 [speaker_1]
+Que va a facilitarlos tanto la, la relación a ustedes como la consulta a nosotros,
+porque pues sería-- hoy en día, ¿qué pasa? Que es lo que te decíamos al inicio cuando empezamos.
+
+02:03:52,456 --> 02:03:57,116 [speaker_2]
+Ya, ya lo vamos a revisar en detalle y te damos la respuesta formal, ¿vale? Pero-
+
+02:03:57,156 --> 02:03:57,806 [speaker_1]
+Dale, de una.
+
+02:03:57,816 --> 02:05:26,616 [speaker_2]
+Te digo que esto que tú estás buscando hace parte de un sistema que ya está resuelto,
+que se llama Power BI, que Power BI lo que es capaz es de consu--
+
+02:05:26,676 --> 02:05:32,276 [speaker_1]
+No, pero no, no, no. No. Lo de, lo, lo de la derecha es una declaración de importación.
+
+02:05:32,336 --> 02:05:33,396 [speaker_2]
+Okey.
+
+02:05:33,436 --> 02:06:12,316 [speaker_1]
+Sí, es un, es un do-- es un documento de la DIAN en sí. O sea,
+yo no estoy diciendo es que tiene que quedar. No, no, no, porque es que eso es, eso es de la DIAN.
+
+02:06:12,336 --> 02:06:13,016 [speaker_2]
+Mhm.
+
+02:06:13,076 --> 02:07:01,856 [speaker_1]
+Todo. Entonces, la información está en el sistema. Hoy en día está en el sistema. ¿Que qué,
+qué pasa? Es que se consulta por un lado, por lo que como son varias tablas,
+
+02:07:01,896 --> 02:08:52,772 [speaker_2]
+Ya. No, no. Tendríamos que prece-precisar cuál es ese requerimiento donde tú dices que puedo--
+pueda consultar cualquier tipo de información dentro del sistema, la que yo elija.
+
+02:08:52,792 --> 02:09:05,152 [speaker_1]
+No, pero eso sería súper, sí, sí, esa es, eh, de pronto la, la contraoferta que,
+que ustedes nos dicen: "Venga, de pronto por este lado no se los recomendamos,
+
+02:09:05,212 --> 02:10:35,252 [speaker_2]
+De acuerdo. Ahí ya, ahí ya lo tendrías. Podemos buscar ser muy flexibles en este desarrollo.
+Por ejemplo, si tú tienes-- nos dices: "El límite son estas quince o treinta columnas".
+
+02:10:37,852 --> 02:11:10,472 [speaker_4]
+Yo tengo una consulta. Si cuando se implemente, bueno, el nuevo SI, eh, y nosotros como iniciativa--
+solo es pregunta, ¿no? No es que lo sea así. Quisiéramos intervenir, eh, creando estos Power BI,
+
+02:11:10,532 --> 02:11:23,332 [speaker_2]
+Tranquila. Eh, la plataforma de Power BI es bastante intuitiva. Él te dice:
+"¿Con qué fuente de datos te quieres conectar?" Y pues como va a haber una base de datos detrás,
+
+02:11:23,341 --> 02:11:27,732 [speaker_4]
+¿Ustedes no se encargarían la entrega de esa base de datos?
+
+02:11:27,752 --> 02:11:34,132 [speaker_2]
+Claro, esa base de datos es de ustedes. Eh, simplemente que los acompañamos en cómo se conectan.
+
+02:11:34,212 --> 02:11:35,852 [speaker_4]
+Okey, okey.
+
+02:11:35,862 --> 02:12:37,812 [speaker_2]
+¿Listo? Y ese es el mecanismo. Ese es el mecanismo,
+porque Power BI lo que debe estar garantizando es que cuando operen sobre los datos,
+
+02:12:37,872 --> 02:12:38,632 [speaker_4]
+Sí.
+
+02:12:38,911 --> 02:13:05,132 [speaker_2]
+Es Power BI dentro de la suite que ustedes tienen, pero puede ser Tableau, también es otra,
+otra suite que hay para la misma-- también el mismo propósito. Databricks,
+
+02:13:05,152 --> 02:13:31,142 [speaker_4]
+Okey. Sí tenía como esa inquietud, si nos hacían la entrega,
+pues para plantearlo más adelante si se necesitara, porque sé que al, digamos,
+
+02:13:31,172 --> 02:14:19,772 [speaker_2]
+Listo, listo. Eh, lo charlamos y nuevamente lo acotamos contra nuestro alcance.
+Si los podemos asesorar, vamos hasta allá. Vamos hasta hacer una asesoría, una asesoría completa,
+
+02:14:22,996 --> 02:14:28,036 [speaker_1]
+Listo, Oscar. Gracias, gracias Deisy. Entonces, ahí quedaría el-
+
+02:14:28,056 --> 02:14:28,886 [speaker_2]
+Te queda el compromiso.
+
+02:14:28,916 --> 02:14:30,276 [speaker_1]
+Treinta y ocho, ¿cierto?
+
+02:14:30,316 --> 02:14:31,696 [speaker_2]
+Te queda ese compromiso.
+
+02:14:31,796 --> 02:14:35,716 [speaker_1]
+Eh, en todos los procesos va a quedar el mismo compromiso.
+
+02:14:35,756 --> 02:14:36,646 [speaker_2]
+Te va a quedar el mismo compromiso.
+
+02:14:36,656 --> 02:14:39,876 [speaker_1]
+Todos los mismos compromisos que se soliciten: reportes, consultas-
+
+02:14:39,916 --> 02:14:40,176 [speaker_2]
+Sí.
+
+02:14:40,196 --> 02:14:42,116 [speaker_1]
+Va a ser siempre ligado al mismo, ¿vale?
+
+02:14:42,136 --> 02:15:13,696 [speaker_2]
+Cua-- exacto. ¿Cuál, eh, reportes? ¿Cuál es el reporte? ¿Qué datos necesitas allí? ¿Listo? La cons--
+la diferencia entre una consulta y un reporte, básicamente es que se descarga o no.
+
+02:15:13,716 --> 02:15:26,716 [speaker_1]
+Li-listo, claro que sí. Entonces, yo en, en la documentación que envié, yo envié un, un, un,
+un inicial. Por favor, si su ayuda analizándolo, viéndolo y, y, y,
+
+02:15:26,756 --> 02:15:33,826 [speaker_2]
+De una. Eh, vamos a ver. Yo hasta le consulté ayer .
+
+02:15:33,836 --> 02:15:35,006 [speaker_1]
+No sale por aquí.
+
+02:15:35,096 --> 02:15:39,366 [speaker_2]
+Acá está. Aquí está. Diceee... Sí, aquí, ya, ya, ya lo tengo. Sí, sí lo tengo.
+
+02:15:39,416 --> 02:15:45,576 [speaker_1]
+Sí, lo, sí, lo, lo, lo validan y me dicen y, y, y, y quedamos atentos si,
+si es parte de nosotros de la mesa.
+
+02:15:45,596 --> 02:16:13,756 [speaker_2]
+El que estabas viendo ese, ¿cuál era? El que estabas proyectando, ese archivo en Excel,
+¿qué nombre tiene? Eh, proyecto, eh, reportes . No, justo ese no lo tengo. Tengo uno que es...
+
+02:16:13,796 --> 02:16:14,596 [speaker_1]
+Mmm.
+
+02:16:14,616 --> 02:16:21,096 [speaker_2]
+Ah, sí, sí, perdón. Sí está, está, está en una seguidilla de correos. Está sobre-
+
+02:16:21,216 --> 02:16:23,006 [speaker_1]
+Se quedan y...
+
+02:16:23,076 --> 02:16:38,646 [speaker_2]
+Sí, sí está proyectos y dos punto cero reportes y menús. Listo.
+Lo revisamos hoy que tenemos una sesión con el equipo para, para hacer el balance,
+
+02:16:38,646 --> 02:16:41,016 [speaker_1]
+Ah, muchísimas gracias. Sí, bien, bien.
+
+02:16:41,056 --> 02:16:46,986 [speaker_2]
+De una. Eh, y no pierdas estos formatos porque muchos de ellos se repiten. Recuerda,
+el de los menús.
+
+02:16:46,986 --> 02:17:02,236 [speaker_1]
+Sí, el de los menús se va a, a repetir bastante. El de los reportes,
+eso lo vamos a ver en todos los procesos, porque todos los subprocesos y,
+
+02:17:02,256 --> 02:17:06,076 [speaker_2]
+De acuerdo. Entonces no lo pierdas para que no te llenes de archivos y nosotros tampoco.
+
+02:17:06,096 --> 02:17:06,786 [speaker_1]
+Sí, exacto.
+
+02:17:06,796 --> 02:17:17,876 [speaker_2]
+Consolida los, eh, por dominios, como: está donde menús, bueno,
+tengo un archivo donde tengo todos los menús. O un archi-- eh, las consultas,
+
+02:17:17,896 --> 02:17:18,196 [speaker_1]
+Mhm.
+
+02:17:18,206 --> 02:17:19,376 [speaker_2]
+De la forma que tú lo veas-
+
+02:17:19,416 --> 02:17:22,526 [speaker_1]
+Sí, no, también lo tenemos por aquí organizadito en carpeticas.
+
+02:17:22,536 --> 02:17:23,376 [speaker_2]
+Vale, perfecto.
+
+02:17:23,476 --> 02:17:37,876 [speaker_1]
+Eeeh, treinta y nueve, cuarenta y cuarenta y uno. Nos quedaron tres requerimientos pendientes. Ya,
+pues Deisy ya, eh, acaba de, de retirarse. Eh, Kelly, no sé si podamos programar una reunión, eh,
+
+02:17:37,896 --> 02:17:37,906 [speaker_8]
+¿Una hora en la tarde?
+
+02:17:37,976 --> 02:17:38,706 [speaker_1]
+Sí, porque-
+
+02:17:38,706 --> 02:17:40,266 [speaker_8]
+¿Será que sí nos alcanza una hora? [risas]
+
+02:17:40,276 --> 02:17:45,836 [speaker_1]
+No sé. Anderson, ¿cómo lo ve? Anderson me está diciendo ahorita dos horas porque eso es largo.
+[risas]
+
+02:17:45,896 --> 02:17:46,936 [speaker_8]
+Sí, es que-
+
+02:17:46,945 --> 02:17:47,476 [speaker_6]
+Sí, es que es como la-
+
+02:17:47,716 --> 02:17:48,856 [speaker_8]
+Yo te dije en la mañana que alcanzaba.
+
+02:17:48,896 --> 02:17:56,436 [speaker_1]
+Es, es la base de, de vuelta y, y, y, y de, y de ya... Sí, es, es complicado.
+Entonces yo creería que dos horas, de dos a-
+
+02:17:56,496 --> 02:17:59,316 [speaker_8]
+Listo. Ya programamos de dos, dos y media.
+
+02:17:59,376 --> 02:18:04,836 [speaker_2]
+Eh, a las, a las tres, porfa. Tengo una reunión a las dos.
+
+02:18:04,876 --> 02:18:06,186 [speaker_8]
+Cerrado. De tres a cinco.
+
+02:18:06,256 --> 02:18:07,756 [speaker_1]
+Pasa cinco.
+
+02:18:07,766 --> 02:18:13,916 [speaker_2]
+Con mi procesor. Tengo, tengo asesor Comex para revisar lo que hemos hecho hasta ahora.
+
+02:18:13,936 --> 02:18:39,536 [speaker_1]
+Listo. Aquí también nos va a acompañar de pronto el compañero Nicolás del área de costos,
+porque el cierre del requerimiento tiene que ver con los costos de importación.
+
+02:18:39,545 --> 02:18:44,136 [speaker_2]
+De una.
+Entonces quedamos a las tres y todos están de acuerdo en el espacio que ya teníamos acordado para-
+
+02:18:44,156 --> 02:18:44,566 [speaker_1]
+Sí.
+
+02:18:44,616 --> 02:18:45,876 [speaker_2]
+Eh, marcas aliadas.
+
+02:18:45,916 --> 02:18:52,856 [speaker_1]
+Y hoy daríamos cierre, eh, como tal a, a cross docking.
+
+02:18:52,896 --> 02:18:53,176 [speaker_2]
+Sí.
+
+02:18:53,256 --> 02:18:57,656 [speaker_1]
+E iniciaríamos, Kelly, entonces otra vez a partir del lunes con los nuevos, con la-
+
+02:18:57,696 --> 02:18:57,916 [speaker_8]
+Mhm.
+
+02:18:57,976 --> 02:19:16,936 [speaker_1]
+Con los nuevos procesos y esperaríamos, no sé, el día de hoy,
+pero es que si no lo acabamos para la solicitud de los requerimientos como hemos venido haciendo,
+
+02:19:16,956 --> 02:19:17,796 [speaker_8]
+Sí.
+
+02:19:17,896 --> 02:19:27,276 [speaker_1]
+Después un-- eh, después unifi-unificar. Pues yo tengo por ejemplo, yo te puedo decir listo,
+yo he estado dándole respuesta a los requerimientos.
+
+02:19:27,296 --> 02:19:27,506 [speaker_8]
+Sí, Deisy ya envió los correos.
+
+02:19:27,506 --> 02:19:28,676 [speaker_1]
+Su organización.
+
+02:19:28,696 --> 02:19:36,146 [speaker_2]
+Lo que está pendiente, eh, Fabián, equipo y Kelly, es que nos organicemos en un espacio común.
+
+02:19:36,156 --> 02:19:36,386 [speaker_1]
+Sí.
+
+02:19:36,386 --> 02:19:49,456 [speaker_2]
+¿Listo? Es decir, donde podamos tener almacenada esta información.
+Los correos los utilizamos para decir: "Mire,
+
+02:19:49,956 --> 02:19:51,116 [speaker_1]
+Veo, veo que Giovanny-
+
+02:19:51,516 --> 02:19:51,606 [speaker_8]
+Hola.
+
+02:19:51,606 --> 02:19:57,786 [speaker_1]
+Hizo un, un, un canal de, de Ledger. No sé si de pronto les envió a ustedes la información de algo.
+
+02:19:57,796 --> 02:20:07,636 [speaker_8]
+A mí me llegó la notificación. Si quieres déjame, porque yo tengo que consolidar.
+Ya estoy consolidando la de cross docking porque ya van tres sesiones y después se me enredo.
+
+02:20:07,656 --> 02:20:07,996 [speaker_1]
+Sí.
+
+02:20:08,036 --> 02:20:13,596 [speaker_8]
+Y me faltaría la de hoy. Eh, anoté unas de hoy,
+no alcancé a meter todas y me faltaría la de la tarde.
+
+02:20:13,656 --> 02:20:13,666 [speaker_1]
+Listo.
+
+02:20:13,676 --> 02:20:37,466 [speaker_8]
+Y crear que, eh, Oscar me dio una idea de cómo llevar el,
+el archivito que se está llevando al interior. Entonces, eh, comparto ese mismo archivo en el,
+
+02:20:37,476 --> 02:20:49,756 [speaker_1]
+Listo, súper, súper. Para así mismo comenzar a dar respuestas sobre los requerimientos que,
+que ya tenemos y no se nos vaya a desordenar toda la información y después cómo conectamos.
+
+02:20:49,776 --> 02:20:50,156 [speaker_8]
+Sí.
+
+02:20:50,166 --> 02:20:56,186 [speaker_1]
+"Ay, venga, pero es que este archivo de que estaban hablando o este",
+entonces es para que quede todo organizado.
+
+02:20:56,256 --> 02:20:56,666 [speaker_2]
+Me retiro.
+
+02:20:56,676 --> 02:20:59,346 [speaker_8]
+Ahí ya les programé la sesión y se quedó-
+
+02:20:59,356 --> 02:21:01,436 [speaker_2]
+Muchas gracias. Chao. Buen día.
+
+02:21:01,456 --> 02:21:01,886 [speaker_1]
+Gracias, Oscar.
+
+02:21:01,916 --> 02:21:05,586 [speaker_2]
+Ya nos vemos en otra sesión, Kelly. Chao, chao.
+
+02:21:05,586 --> 02:21:05,586 [speaker_1]
+Listo.
+
+02:21:05,586 --> 02:21:05,586 [speaker_8]
+Bueno, chao.
+
+02:21:05,596 --> 02:21:07,836 [speaker_1]
+Kelly, muchísimas gracias. Bueno, ya, ya-
+
+02:21:07,846 --> 02:21:07,946 [speaker_8]
+Chao, chao.
+
+02:21:07,946 --> 02:21:12,316 [speaker_1]
+Ya nos sentamos para eso. Chao, que estén bien a todos. Un abrazo.
+
+02:21:12,336 --> 02:21:12,916 [speaker_8]
+Igualmente. Adiós.
+
+02:21:12,936 --> 02:21:14,316 [speaker_6]
+Gracias.
