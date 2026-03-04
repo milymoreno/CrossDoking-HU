@@ -56,7 +56,11 @@ Es el sistema ERP (Enterprise Resource Planning) de Microsoft que usan las empre
 ---
 
 **Dealer**
-Es el distribuidor o punto de venta autorizado. En este contexto, son las sucursales o concesionarios de maquinaria CAT que recibirán la mercancía. Cada guía de embarque está dirigida a un dealer específico. Los dealers varían según si la operación es de Gecolsa o de Relianz.
+En el proceso CrossDocking, el Dealer es el **destinatario logístico del embarque**: la empresa, sucursal o bodega regional a la que se debe entregar la mercancía una vez que pasa por aduana. Pueden ser sucursales de Gecolsa o Relianz en distintas ciudades o regiones (ej. Barranquilla, Bogotá).
+
+> **Aclaración importante:** Un Dealer en este contexto **no es** el espacio físico de almacenamiento dentro de un centro de distribución, sino el **punto de destino final** a quien van dirigidas las facturas y la guía. El objetivo del CrossDocking es justamente entregar directo al Dealer **sin pasar por una bodega intermedia**.
+>
+> Cada Dealer tiene un código único en el sistema y está asignado exclusivamente a una compañía (Gecolsa o Relianz).
 
 ---
 
