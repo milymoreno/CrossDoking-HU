@@ -15,7 +15,7 @@
 Analista de Comercio Exterior (Commex)
 
 ### Quiero:
-Que el sistema identifique automáticamente las referencias remanufacturadas que requieren licencia de importación pero no la tienen (o tienen saldo insuficiente o licencia vencida), y genere una alerta detallada antes de permitir generar la guía o la DIM.
+Que el sistema identifique automáticamente las referencias remanufacturadas que requieren licencia de importación pero no la tienen (o tienen saldo insuficiente o licencia vencida), y genere una **alerta sistémica inmediata** (reemplazando la notificación manual) para que el Analista de Commex pueda gestionarla directamente en el monitor de discrepancias.
 
 ### Para:
 Evitar generar guías o declaraciones de importación sin respaldo normativo para productos remanufacturados, previniendo sanciones por parte de la DIAN y garantizando el cumplimiento aduanero.
@@ -153,7 +153,7 @@ Entonces el sistema debe mostrar una alerta por cada referencia con problema
 | ID | Regla |
 |----|-------|
 | RN-01 | El **Reman Indicator = 1** es la única fuente oficial de identificación de remanufacturado. |
-| RN-02 | No se permite generar guía ni DIM si hay referencias reman con licencia faltante, vencida o sin saldo (cuando aplique). |
+| RN-02 | No se permite generar guía ni DIM si hay referencias reman con licencia faltante, vencida o sin saldo (cuando aplique). El sistema notificará automáticamente al Analista Commex CD. |
 | RN-03 | Las alertas deben ser descriptivas e incluir todos los campos del REQ-34 (OC, Factura PSC, Referencia, Caja, BTN, Cantidad, Comentario). |
 | RN-04 | La validación debe ejecutarse en tiempo real antes de generar el documento. |
 | RN-05 | La alerta no debe alterar los datos originales de las facturas ni de las licencias. |
@@ -168,5 +168,5 @@ Entonces el sistema debe mostrar una alerta por cada referencia con problema
 | # | Compromiso | Responsable |
 |---|-----------|-------------|
 | 1 | **Confirmar definición exacta del BTN:** composición del código arancelario, campos que almacena y de dónde viene (¿de Dynamics? ¿del paramétrico del SII?). | Commex / Daisy |
-| 2 | Confirmar si la alerta es solo en pantalla o también se debe enviar por correo a Operaciones. | Commex |
-| 3 | Definir qué hace el usuario cuando recibe la alerta (¿puede gestionar la licencia desde esa misma pantalla o debe ir a otro módulo?). | Commex / TI |
+| 2 | Confirmar la integración de la alerta "Sin Licencia" en el Monitor de Discrepancias para evitar correos manuales. | Fabian Higareda / Commex |
+| 3 | Definir el flujo de carga de licencias desde el SII para resolver las alertas sin depender de sistemas externos. | Commex / TI |

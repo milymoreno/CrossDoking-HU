@@ -27,8 +27,14 @@ Garantizar que la cantidad y el valor de lo que se va a nacionalizar corresponde
 1. Una vez que las **3 interfaces de Dynamics** (Z95, INV, OC) están disponibles en el SII, el analista de Commex ejecuta el proceso de discrepancias.
 2. El cruce se realiza entre la **Z95** (factura CAT) y la **INV** (factura PSC) usando la orden de compra como referencia adicional.
 3. Si se detectan discrepancias, el SII genera un reporte que se envía al equipo de operaciones.
-4. Las correcciones **pueden originarse en Dynamics** (cuando el error es de facturación) o **directamente en el SII** (cuando son los 5 campos editables de la INV).
-5. Una vez corregido, la interfaz se vuelve a ejecutar y se reprocesa el cruce.
+4. Las correcciones **pueden originarse en Dynamics** (cuando el error es de asociación Z95 vs INV o cantidades de fábrica) o **directamente en el SII** (cuando se trata de los **5 campos editables de la INV** para nacionalización).
+5. Los **5 campos editables en el SII** son:
+   - **Subpartida Arancelaria (BTN)**
+   - **Unidad de Medida**
+   - **Peso Neto**
+   - **País de Origen**
+   - **Descripción Arancelaria**
+6. Una vez corregido, la interfaz se vuelve a ejecutar (si el cambio fue en Dynamics) o se guarda el cambio local (si fue en el SII) y se reprocesa el cruce.
 6. Los **estados de la factura** en el sistema son visibles para el equipo de Tesorería (Z giros), quienes los usan para gestionar los giros al exterior.
 7. Una Z95 que ya fue utilizada en una guía **no debe aparecer nuevamente** en el proceso de discrepancias.
 
@@ -165,7 +171,7 @@ Entonces el sistema debe procesar únicamente las facturas seleccionadas
 | RN-02 | La validación de discrepancias debe realizarse por compañía (Gecolsa o Relianz por separado). |
 | RN-03 | El proceso debe permitir ejecución parcial por selección de facturas. |
 | RN-04 | Todo reporte generado debe quedar auditado: fecha, hora, usuario y correo de destino. |
-| RN-05 | Las discrepancias originadas en errores de Dynamics deben resolverse en Dynamics; el SII solo puede corregir los 5 campos habilitados de la INV. |
+| RN-05 | Las discrepancias de asociación (Z95 ↔ INV) o cantidades de fábrica deben resolverse en Dynamics; el SII solo permite ajustar los **5 campos críticos de la INV** (BTN, Unidad, Peso, Origen, Descripción). |
 | RN-06 | El proceso de discrepancias no debe alterar los datos originales de las interfaces; solo puede registrar correcciones auditadas. |
 | RN-07 | Una factura Z95 en estado "Con guía" queda bloqueada y no debe aparecer en el proceso de discrepancias. |
 | RN-08 | El correo de destino del reporte debe ser configurable como parámetro del sistema (no hardcodeado). |

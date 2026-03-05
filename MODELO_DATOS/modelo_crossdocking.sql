@@ -196,6 +196,13 @@ CREATE TABLE fac_inv_linea (
     valor_unitario   NUMERIC(14,4) NOT NULL,
     valor_fob_usd    NUMERIC(18,2) NOT NULL,
     reman_indicator  SMALLINT NOT NULL DEFAULT 0 CHECK (reman_indicator IN (0,1)),
+    -- 5 Campos Editables SII (Nacionalización) - HU-CD-28
+    subpartida_sii    VARCHAR(20),       -- BTN corregido
+    unidad_medida_sii VARCHAR(20),       -- UDM corregida
+    peso_neto_sii     NUMERIC(12,3),     -- Peso neto corregido
+    pais_origen_sii   VARCHAR(5),        -- Origen corregido
+    descripcion_sii   TEXT,              -- Descripción arancelaria corregida
+    ajustado_sii      BOOLEAN DEFAULT FALSE,
     created_at       TIMESTAMPTZ DEFAULT NOW()
 );
 
@@ -253,7 +260,7 @@ CREATE TABLE discrepancia (
     id                  SERIAL PRIMARY KEY,
     z95_id              INT NOT NULL REFERENCES fac_z95(id),
     inv_id              INT NOT NULL REFERENCES fac_inv(id),
-    tipo_discrepancia   VARCHAR(50) NOT NULL,    -- 'Cantidad', 'Valor FOB', 'Referencia', etc.
+    tipo_discrepancia   VARCHAR(50) NOT NULL,    -- 'Cantidad', 'Valor FOB', 'Referencia', 'Sin licencia', etc.
     descripcion         TEXT,
     valor_z95           NUMERIC(18,4),
     valor_inv           NUMERIC(18,4),
