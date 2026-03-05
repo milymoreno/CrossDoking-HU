@@ -1,15 +1,12 @@
 # HU-CD-35 — Documento de Diferencias y Justificaciones de Ajuste
 
 **HU:** HU-CD-35 – Validación de Dealer Logístico en Generación de Guía
-**HU Inicial:** `HU_Inicial/HU-CD-35 Validación de Dealer Log.md`
-**HU Final:** `HU_final/HU-CD-35.md`
-**Fecha de revisión:** 2026-03-04
-
----
-
-## Resumen General
-
-La HU inicial era correcta y concisa. La versión final agrega el contexto de negocio sobre por qué no se puede mezclar mercancía nueva y reman, desarrolla una tabla de casos con todas las combinaciones posibles (dealer vs compañía vs tipo de mercancía), y agrega el escenario de dealer no parametrizado.
+**HU Inicial:** `HU_final/HU-CD-35.md` (Versión previa)
+**HU Final:** `HU_final/HU-CD-35.md` (Versión ajustada)
+**Fecha de revisión:** 2026-03-05
+**Fuentes consultadas:**
+- Nota técnica de Deisy Rincón (RQ 35) y diagrama de mapeo por chat.
+- Requerimiento original: `REQUERIMIENTOS/requeriments.txt` (REQ-35)
 
 ---
 
@@ -17,13 +14,15 @@ La HU inicial era correcta y concisa. La versión final agrega el contexto de ne
 
 | # | Elemento | HU Inicial | HU Final | Justificación |
 |---|----------|-----------|----------|---------------|
-| 1 | **Contexto de negocio** | No existía. | Se explica que nueva y reman tienen **condiciones aduaneras distintas** y por eso no pueden ir en la misma guía. | Sin este contexto, el equipo de desarrollo podría entenderlo como una regla arbitraria. |
-| 2 | **Tabla de casos** | Solo texto descriptivo. | Se agrega **tabla con 6 combinaciones** posibles (compañía × dealer × tipo mercancía) y su resultado. | Elimina ambigüedad y facilita la implementación de la lógica de validación. |
-| 3 | **Escenario de dealer no parametrizado** | No existía. | Se agrega como **Escenario 5**. | Caso básico que faltaba: ¿qué pasa si el dealer simplemente no existe en el sistema? |
-| 4 | **RN-07 (Reman Indicator como fuente única)** | Implícito. | Declarado explícitamente como regla de negocio. | Consistencia con HU-CD-34 y HU-CD-35 donde se establece que el Reman Indicator es la **única** fuente oficial. |
+| 1 | **Concepto de Dealer** | Se trataba como un código único directo de la factura. | **Dealer CAT vs Logístico**: Distinción entre el origen (Dynamics) y el destino real (Estructura interna). | Según la nota de Deisy Rincón, un código de CAT (ej. R15Q) debe poder mapearse a un dealer logístico nuestro (ej. R460) según la vía de transporte. |
+| 2 | **Regla REMAN** | Validación genérica de no mezcla. | **Validación por Dealer Logístico**: El bloqueo ocurre al agrupar referencias para un mismo punto de entrega final. | Se aclaró que la restricción aduanera de no mezcla aplica a nivel de la guía consolidada para el depósito/distribuidor. |
+| 3 | **Casos Especiales** | No contemplados. | **Mapeo por Vía y Tipo**: Inclusión de lógica para diferenciar Aéreo de Marítimo en el destino del dealer. | La imagen proporcionada por el usuario muestra desgloses diferentes según la vía de transporte (Aéreo vs Marítimo). |
+| 4 | **Responsable Parametrización** | No definido. | **Analista Commex CD**: Encargado de mantener la tabla de mapeo y relaciones. | Se confirmó que este rol es el dueño de la verdad operativa para la distribución. |
 
 ---
 
 ## Decisiones de Diseño Clave
 
-> **La Tabla 1 es un compromiso pendiente:** El REQ-35 hace referencia explícita a una "Tabla 1 de reportes y casos especiales" que debe proporcionar Commex. Sin esa tabla, el equipo de desarrollo no puede implementar la validación de dealers válidos. Este es el pendiente más crítico de la HU.
+> **Normalización de Tablas**: Se creó la tabla `cat_dealer_mapeo` en el SQL para evitar duplicidad de datos y permitir que el sistema sea flexible ante cambios en la red logística de Gecolsa/Relianz sin alterar el código fuente.
+
+> **Bloqueo Preventivo**: La validación se movió al inicio del proceso de generación de guías para evitar que el usuario trabaje sobre lotes de facturas que técnicamente no pueden viajar juntas.

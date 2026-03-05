@@ -1,7 +1,7 @@
 # HU-CD-26: Recepción de Información Consolidada del Agente de Carga
 
 **Proceso:** CROSSDOCKING
-**Subproceso:** RECIBIR INFORMACIÓN DEL AGENTE DE CARGA
+**Subproceso:** RECEPCIÓN CONSOLIDADO (Módulo: **Gestor de Guías DHL**)
 **Requerimiento Original:** REQ-26 — El sistema deberá tener la capacidad de interactuar con el agente de carga en cuanto a la recepción de la información consolidada (Guías, facturas Z95, pesos y dealers).
 **Versión:** 2.0
 **Fecha de revisión:** 2026-03-04
@@ -12,7 +12,7 @@
 ## Historia de Usuario
 
 ### Como:
-Analista de Comercio Exterior / Operaciones CrossDocking
+Analista de Comercio Exterior / Operaciones CrossDocking (Rol: **Analista Commex CD**)
 
 ### Quiero:
 Que el sistema reciba la información consolidada enviada por el agente de carga (DHL u otro agente logístico), incluyendo guías, facturas Z95, pesos y dealers, mediante un mecanismo de carga automático o manual. El sistema debe permitir la **gestión de facturas Z95 incluso si aún no existe la factura INV** asociada en el sistema (Flujo Z95 sin INV).
@@ -146,6 +146,16 @@ Entonces el sistema debe informar que la Z95 está fuera del rango de carga
 
 ---
 
+## Requisitos No Funcionales (Crossdocking)
+
+| ID | Requisito | Detalle |
+|----|-----------|---------|
+| RNF-01 | **Concurrencia** | El sistema debe soportar hasta 150 usuarios trabajando de forma simultánea. |
+| RNF-02 | **Capacidad total** | Arquitectura diseñada para gestionar hasta 500 usuarios/roles en total. |
+| RNF-03 | **Disponibilidad** | Operación crítica durante las ventanas de carga de interfaces (~9 AM y ~1 PM). |
+
+---
+
 ## Pendientes / Compromisos Identificados en Sesión
 
 | # | Compromiso | Responsable |
@@ -153,7 +163,7 @@ Entonces el sistema debe informar que la Z95 está fuera del rango de carga
 | 1 | Validar y acordar el formato estándar del archivo de DHL (bot o Excel). | Fabián Barragán |
 | 2 | Confirmar con Caterpillar el mecanismo de intercambio de información (¿archivo plano o API?). | César / TI |
 | 3 | Documentar los 5 campos de la INB que pueden corregirse en el SII. | Deisy Rincón |
-| 4 | Definir las reglas de carga automática de archivos DHL para Z95 sin INV. | Fabián Barragán |
+| 4 | Validar con Caterpillar la ventana de tiempo para la generación automática desde el robot. | Fabián Barragán |
 | 5 | Describir programas, jobs y validaciones previas a la llegada de Z95. | Deisy Rincón |
 
 ---

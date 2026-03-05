@@ -254,3 +254,17 @@
 | 4 | Composición exacta del BTN (¿Dynamics o paramétrico?) | Commex |
 | 5 | Fuente oficial de la TRM (¿API o manual?) | TI / Financiero |
 | 6 | Recepción hitos aduaneros: ¿automática (push) o manual (pull)? | Commex / TI |
+
+---
+
+## Módulos y Roles (SII 2.0 - Crossdocking)
+
+**Analista Commex CD:** Rol de usuario con permisos para validar facturación Z95/INV, gestionar discrepancias y exportar reportes de control.
+
+**Monitor de Facturación CD:** Módulo del SII donde se visualiza la relación Z95 ↔ INV ↔ OC. Permite la validación visual y exportación a Excel.
+
+**Gestor de Guías DHL:** Módulo encargado de la recepción de archivos del agente de carga (automático vía Bot o manual). Cruza guías con facturas Z95.
+
+**Mesa de Discrepancias:** Funcionalidad para gestionar diferencias de valor, cantidad o referencia entre lo facturado por CAT y lo facturado por PSC.
+
+**Centro de Despacho (DO):** Módulo de salida que genera el Documento Operativo para la agencia de aduanas (SIACO).

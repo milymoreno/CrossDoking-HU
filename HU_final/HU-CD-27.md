@@ -1,7 +1,7 @@
 # HU-CD-27: Recepción y Visualización de Relación Facturación Z95 vs INV PSC
 
 **Proceso:** CROSSDOCKING
-**Subproceso:** RECEPCIÓN DE FACTURACIÓN
+**Subproceso:** RECEPCIÓN DE FACTURACIÓN (Módulo: **Monitor de Facturación CD**)
 **Requerimiento Original:** REQ-27 — El sistema debe permitir que la facturación emitida por PSC desde D365 llegue de manera automática a una tabla o archivo que permita visualizar la relación entre las Z95 CAT y las INV PSC. No debe limitar caracteres. Debe contemplar particularidades como remanufacturados (Premium + Core = Valor único total en SII).
 **Versión:** 2.0
 **Fecha de revisión:** 2026-03-04
@@ -12,7 +12,8 @@
 ## Historia de Usuario
 
 ### Como:
-Analista de Comercio Exterior (Commex)
+Analista de Comercio Exterior (Rol: **Analista Commex CD**)
+ (Commex)
 
 ### Quiero:
 Que el sistema consolide y muestre en una sola pantalla la relación entre las facturas **Z95 de Caterpillar** y las facturas **INV de Panamerican (PSC)**, obtenidas automáticamente desde Dynamics 365. El sistema debe soportar una **cardinalidad 1:N** (una factura Z95 puede estar relacionada con múltiples facturas INV PSC) y permitir la visualización de referencias sin restricción de caracteres.
@@ -169,6 +170,38 @@ Entonces debe marcarla como remanufacturada independientemente de su código o s
 | OC relacionada | Interfaz 3 | Orden de compra asociada |
 | Estado | Sistema | Relacionada / Pendiente INV / Inconsistente |
 | Fecha carga | Sistema | Fecha de ejecución de la interfaz |
+
+---
+
+## Formato de Exportación Excel (Validación RQ 26/27)
+
+El sistema permitirá exportar la vista de relación con los siguientes parámetros:
+
+**Filtros de Exportación:**
+- Número Z95
+- Número INV
+- Año (Año Proceso / Año Factura)
+
+**Columnas del reporte:**
+| Columna | Origen | Descripción |
+|-------|--------|-------------|
+| Compañía | INV PSC | Gecolsa / Relianz |
+| Factura Z95 | Z95 | Factura Caterpillar |
+| Año Z95 | Z95 | Año de emisión |
+| Factura INV | INV PSC | Factura Panamerican |
+| Orden de Compra | OC | OC asociada a la línea |
+| Referencia | Z95 / INV | Código de parte (200 chars, exacto OC) |
+| Cantidad | Z95 / INV | Unidades (1 para REMAN) |
+| Valor FOB USD | Z95 | Valor CAT |
+| Valor SII | INV PSC | Valor PSC (Premium + Core para REMAN) |
+| Estado | Sistema | ✅ / ⚠️ / ❌ |
+
+---
+
+## Requisitos No Funcionales (Concurrencia)
+
+- **Usuarios Simultáneos**: El monitor debe soportar hasta **150 usuarios** consultando y exportando reportes al mismo tiempo.
+- **Roles Totales**: Configuración base para **500 usuarios/roles**.
 
 ---
 

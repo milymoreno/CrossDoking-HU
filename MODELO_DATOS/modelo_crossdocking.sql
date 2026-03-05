@@ -1,8 +1,8 @@
--- =============================================================
--- MODELO DE DATOS POSTGRESQL — PROCESO CROSSDOCKING SII 2.0
+-- Estructura de Base de Datos para el Proceso de CrossDocking (SII 2.0)
 -- Basado en HU-CD-26 a HU-CD-41
--- Versión: 1.0 | Fecha: 2026-03-04
--- =============================================================
+-- Soporte Técnico: 500 Usuarios totales / 150 Usuarios simultáneos (Concurrencia Pico).
+-- Optimización: Aplicar Row-Level Locking y evitar bloqueos de tabla exclusivos en monitores.
+-- ==============================================================================
 -- CONVENCIONES:
 --   - snake_case para tablas y columnas
 --   - Prefijos por módulo: cat_, inv_, guia_, do_, dim_, costeo_
@@ -30,17 +30,32 @@ CREATE TABLE cat_compania (
     updated_at    TIMESTAMPTZ DEFAULT NOW()
 );
 
--- Tabla 1 de Dealers (HU-CD-35, ⚠️ pendiente entrega por Commex)
+-- Catálogo de Dealers Logísticos (Nuestros puntos de entrega/depósito)
+-- HU-CD-35 (Tabla 1 de Dealers)
 CREATE TABLE cat_dealer (
     id             SERIAL PRIMARY KEY,
-    codigo         VARCHAR(20) NOT NULL UNIQUE,
+    codigo         VARCHAR(20) NOT NULL UNIQUE,      -- Ej: 'RAPI', 'R460', 'RSOR'
     nombre         VARCHAR(150) NOT NULL,
-    compania_id    INT NOT NULL REFERENCES cat_compania(id),  -- Exclusivo de una compañía
+    compania_id    INT NOT NULL REFERENCES cat_compania(id),
     ciudad         VARCHAR(100),
     es_activo      BOOLEAN DEFAULT TRUE,
     created_at     TIMESTAMPTZ DEFAULT NOW(),
     updated_at     TIMESTAMPTZ DEFAULT NOW()
 );
+
+-- Mapeo de Dealers CAT (Dynamics) hacia Dealers Logísticos
+-- Soporta casos especiales por vía de transporte y tipo de inventario
+CREATE TABLE cat_dealer_mapeo (
+    id                  SERIAL PRIMARY KEY,
+    codigo_dealer_cat   VARCHAR(20) NOT NULL,        -- Ej: 'R15P', 'R15Q'
+    dealer_logistico_id INT NOT NULL REFERENCES cat_dealer(id),
+    via_transporte_id   INT REFERENCES cat_via_transporte(id),
+    tipo_inventario     VARCHAR(50),                 -- 'Stock', 'Backorder', 'Reman'
+    UNIQUE(codigo_dealer_cat, via_transporte_id, tipo_inventario),
+    created_at          TIMESTAMPTZ DEFAULT NOW()
+);
+
+COMMENT ON TABLE cat_dealer_mapeo IS 'Relaciona códigos de Dynamics con dealers de distribución real (RQ 35)';
 
 -- Transportadoras (HU-CD-33)
 CREATE TABLE cat_transportadora (
