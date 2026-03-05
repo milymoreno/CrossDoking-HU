@@ -89,7 +89,7 @@ CREATE TABLE cat_tipo_embalaje (
 -- Referencias/Productos (catálogo de partes CAT)
 CREATE TABLE cat_referencia (
     id                SERIAL PRIMARY KEY,
-    codigo_referencia VARCHAR(50) NOT NULL UNIQUE,
+    codigo_referencia VARCHAR(200) NOT NULL UNIQUE, -- Ampliado para soportar longitud extendida y caracteres especiales
     descripcion       VARCHAR(300),
     reman_indicator   SMALLINT NOT NULL DEFAULT 0  -- 0=Nueva, 1=Remanufacturada (HU-CD-34, HU-CD-35)
                       CHECK (reman_indicator IN (0,1)),
@@ -150,9 +150,10 @@ CREATE TABLE fac_z95_linea (
     created_at       TIMESTAMPTZ DEFAULT NOW()
 );
 
--- =====================
 -- MÓDULO 2: FACTURAS INV PSC (Panamerican → Gecolsa/Relianz)
 -- HU-CD-26, HU-CD-27, HU-CD-29
+-- NOTA: Cardinalidad 1:N (Una Z95 puede originar múltiples INV PSC).
+-- Lógica REMAN: En SII se visualiza Premium + Core como valor único.
 -- =====================
 
 CREATE TABLE fac_inv (

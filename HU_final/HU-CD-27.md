@@ -15,7 +15,7 @@
 Analista de Comercio Exterior (Commex)
 
 ### Quiero:
-Que el sistema consolide y muestre en una sola pantalla la relación entre las facturas **Z95 de Caterpillar** y las facturas **INV de Panamerican (PSC)**, obtenidas automáticamente desde Dynamics 365 vía tres interfaces, para poder validar de manera visual que toda la información de facturación está completa y consistente antes de iniciar el proceso de discrepancias.
+Que el sistema consolide y muestre en una sola pantalla la relación entre las facturas **Z95 de Caterpillar** y las facturas **INV de Panamerican (PSC)**, obtenidas automáticamente desde Dynamics 365. El sistema debe soportar una **cardinalidad 1:N** (una factura Z95 puede estar relacionada con múltiples facturas INV PSC) y permitir la visualización de referencias sin restricción de caracteres.
 
 ### Para:
 Asegurar que no se va a nacionalizar de más ni de menos, que todas las referencias están correctamente registradas, y que el proceso de generación de guía puede habilitarse sin inconsistencias.
@@ -75,6 +75,8 @@ El sistema debe:
    - Estado de relación
 
 8. **Soportar simultaneidad de usuarios** sin bloqueos entre compañías.
+
+9. **Manejo de Cardinalidad 1:N**: Permitir que una sola Z95 se desglose en múltiples INV PSC según el destinatario final (Gecolsa/Relianz) o parcializaciones de despacho.
 
 ---
 
@@ -146,6 +148,8 @@ Entonces debe marcarla como remanufacturada independientemente de su código o s
 | RN-10 | Todas las interfaces cargadas deben quedar auditadas (fecha, hora, usuario que ejecutó). |
 | RN-11 | El robot de SIACO no interactúa con esta pantalla; cualquier integración con SIACO corresponde a una HU posterior (DO). |
 | RN-12 | El término correcto es **INV** (Invoice), no INB. Todos los sistemas y documentación deben usar INV. |
+| RN-13 | **Multi-INV**: El sistema debe agrupar y mostrar todas las INV asociadas a una misma Z95 en la vista de relación. |
+| RN-14 | **Caracteres de Referencia**: La referencia NO debe ser limitante; debe aceptar mayúsculas, minúsculas, caracteres especiales y longitud extendida según venga en la OC. |
 
 ---
 
