@@ -60,7 +60,7 @@ Si alguna validación falla, el sistema debe **bloquear la generación** y mostr
 | Tipo de mercancía | Nueva / Remanufacturada | Obligatorio |
 | Exportador | Razón social del exportador | Obligatorio |
 | Aduana | Aduana de ingreso al país | Obligatorio |
-| Vía de transporte | Aérea / Marítima / Terrestre | Obligatorio |
+| Vía de transporte | Aérea / Marítima / Terrestre / Courier | Obligatorio |
 | Transportadora | Empresa transportadora | Obligatorio |
 | Embarcadora | Responsable del embarque | Obligatorio |
 | Fletes | Valor del flete | Obligatorio |
