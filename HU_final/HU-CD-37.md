@@ -26,9 +26,30 @@ Iniciar formalmente el proceso aduanero con la agencia, mantener trazabilidad en
 
 **DO (Documento Operativo):** Es el documento interno que consolida toda la información del embarque (facturas INV, cantidades, dealer, valor FOB) y que la agencia de aduanas necesita para iniciar el proceso de clasificación arancelaria, validar certificados VoBo y preparar la DIM.
 
-**SIACO / FileZilla:** SIACO es el sistema de la agencia de aduanas. FileZilla es el programa de transferencia de archivos mediante el cual el SII deposita los documentos (facturas INV) para que la agencia los procese. **No hay comunicación directa API entre SII y SIACO** — la integración es mediante archivos estructurados depositados en una carpeta compartida.
+**SIACO / FileZilla:** SIACO es el sistema de la agencia de aduanas. FileZilla es el programa de transferencia de archivos mediante el cual el SII deposita los documentos (facturas INV) para que la agencia los procese. 
 
-> ⚠️ **Nota sobre SIACO:** En sesiones anteriores (HU-CD-27) se confirmó que **SIACO no interactúa directamente con la pantalla de visualización Z95/INV**. La interacción ocurre exclusivamente en el momento de creación del DO.
+**Retiro de API soe360grados:** El sistema actual utiliza el endpoint `https://siiapi.soe360grados.com.co:8443/`. Este servicio será retirado y sus funciones serán asumidas por el nuevo modelo de datos y procesos internos del SII:
+1.  **GetToken**: Reemplazado por el nuevo esquema de autenticación Oauth2/JWT del SII.
+2.  **GetResource**: Reemplazado por consultas directas a las tablas `guia` y `dim_declaracion` para identificar guías sin DIM.
+3.  **GetOrderNumbers**: Reemplazado por la relación entre `fac_inv` y `oc_orden_compra`.
+4.  **Información_DIAN.prn**: Se implementará un proceso que conecte al SFTP de SIACO, descargue el archivo `.prn` y lo deposite en el FTP interno del SII, mitigando riesgos de seguridad con terceros.
+
+---
+
+## Envíos Courier
+
+El sistema debe permitir la gestión de envíos vía Courier (ej. DHL Express, FedEx) que tienen un tratamiento aduanero simplificado:
+- **Validación**: Se clasifican como "Courier" en la vía de transporte.
+- **Diferencia**: No siempre requieren un DO formal ante SIACO si el trámite lo hace directamente el Courier.
+- **Impacto**: El sistema debe permitir marcar una guía como "Courier" para que no bloquee procesos de nacionalización ordinaria.
+
+---
+
+## Tablas Legacy Involucradas
+
+Para la migración y coexistencia, se referencian las siguientes tablas del sistema anterior:
+- `LIBSII/SIPDLRC0`: Tabla maestra de dealers logísticos.
+- `UPPGUISE0`: Tabla de cabecera de guías en el entorno legacy.
 
 ---
 
@@ -153,6 +174,7 @@ Entonces el sistema debe bloquear la operación
 
 | # | Compromiso | Responsable |
 |---|-----------|-------------|
-| 1 | **Definir el formato exacto del archivo para FileZilla/SIACO** (CSV, XML, TXT y estructura de campos requerida). | Commex / Agencia de aduanas |
-| 2 | Confirmar si las actualizaciones desde SIACO llegarán automáticamente al SII o si el analista debe descargarlas manualmente. | Commex / TI |
-| 3 | Definir el tiempo máximo de espera entre envío del DO y primera respuesta de la agencia. | Commex |
+| 1 | **Definir el formato exacto del archivo para FileZilla/SIACO** (CSV, XML, TXT). | Fabián Barragán |
+| 2 | Caracterización de datos requeridos en la consulta de servicios para el reemplazo de la API actual. | Deisy Rincón / Cesar Forero |
+| 3 | Confirmar el endpoint y credenciales del nuevo SFTP de SIACO para el archivo `.prn`. | TI / Agencia de Aduanas |
+| 4 | Definir el flujo simplificado para envíos Courier y su impacto en el costeo. | Commex |

@@ -68,9 +68,11 @@ CREATE TABLE cat_transportadora (
 -- Vías de transporte (Aérea, Marítima, Terrestre)
 CREATE TABLE cat_via_transporte (
     id          SERIAL PRIMARY KEY,
-    codigo      VARCHAR(10) NOT NULL UNIQUE,   -- 'A', 'M', 'T'
+    codigo      VARCHAR(10) NOT NULL UNIQUE,   -- 'A', 'M', 'T', 'C'
     descripcion VARCHAR(50) NOT NULL
 );
+
+INSERT INTO cat_via_transporte (codigo, descripcion) VALUES ('A', 'Aérea'), ('M', 'Marítima'), ('T', 'Terrestre'), ('C', 'Courier');
 
 -- Modalidades de importación DIM (HU-CD-39)
 CREATE TABLE cat_modalidad_dim (
@@ -594,6 +596,32 @@ CREATE TABLE audit_dim_estado (
     observaciones   TEXT
 );
 
+
+-- =====================
+-- MÓDULO 13: COMUNICACIÓN CON AGENCIA (SIACO/FILEZILLA)
+-- HU-CD-37
+-- =====================
+
+CREATE TABLE comunicacion_agencia (
+    id                   SERIAL PRIMARY KEY,
+    tipo_archivo         VARCHAR(50) NOT NULL, -- 'DO_ENVIO', 'INF_DIAN_PRN', 'UPDATE_BTN'
+    nombre_archivo       VARCHAR(250) NOT NULL,
+    ruta_local           VARCHAR(500),
+    ruta_remota          VARCHAR(500),         -- Carpeta en SFTP SIACO o FTP Interno
+    fecha_operacion      TIMESTAMPTZ DEFAULT NOW(),
+    usuario_id           VARCHAR(100),         -- Sistema o Analista Commex
+    resultado            VARCHAR(20) CHECK (resultado IN ('Exitoso', 'Fallido', 'Pendiente')),
+    detalle_error        TEXT,
+    metadata             JSONB,                -- Para guardar tokens o ids de transaccion
+    created_at           TIMESTAMPTZ DEFAULT NOW()
+);
+
+COMMENT ON TABLE comunicacion_agencia IS 'Log de intercambio de archivos con SIACO y FileZilla (RQ 37)';
+
+-- NOTAS COEXISTENCIA LEGACY (AS/400)
+-- ---------------------------------
+-- Tabla SIPDLRC0 (LIBSII): Fuente legacy para Dealers Logísticos.
+-- Tabla UPPGUISE0: Referencia de cabecera de guías legacy.
 
 -- =====================
 -- ÍNDICES CLAVE
