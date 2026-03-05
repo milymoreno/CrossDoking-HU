@@ -94,6 +94,30 @@ Para esto, el SII debe:
 
 ---
 
+## Declaración Andina de Valor (DAV - Formulario 560)
+
+El sistema debe integrar la generación de la DAV Electrónica (Modelo 2011/Actual) asociada a la DIM:
+
+- **Reglas y Cálculos:** Determinación del valor en aduana basado en:
+    - Gastos de transporte, carga y manipulación (Casillas 115-120).
+    - Seguro (Casilla 121).
+    - Ajustes por comisiones, envases, reversiones, etc. (Casillas 98-112).
+- **Fuentes:** Datos tomados de las facturas INV/Z95 y los gastos prorrateados en HU-CD-41.
+- **Archivos para Correo:** Generación de los 3 archivos técnicos requeridos por el proceso DAV para su revisión previa al envío.
+
+---
+
+## Contingencia y Notificaciones (RQ 39)
+
+### Garantía de Integridad (Conectividad)
+- **Persistencia Local:** Ante fallas de conexión, el sistema debe garantizar que el grabado en el SII sea completo y persistente ("Garantizar lado completo").
+- **Descarga Manual:** Opción para descargar los **5 archivos técnicos** (DIM, DAV, .prn, etc.) que usualmente se envían por correo, permitiendo su gestión manual si el servicio de notificaciones falla.
+
+### Notificaciones Electrónicas
+- **Servicio:** Las notificaciones se enviarán a través del servicio definido (Dynamics / Sendgrid - Responsable: Cesar Forero).
+- **Configuración:** Las cuentas de correo y **listas de distribución** se configuran en el módulo de parámetros del sistema (Responsable: Deisy Rincón).
+- **Frecuencia:** Se notifica previsualización al grabar y confirmación al impulsar.
+
 ## Estados de la DIM
 
 | Estado | Descripción |

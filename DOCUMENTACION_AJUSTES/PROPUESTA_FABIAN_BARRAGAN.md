@@ -113,5 +113,19 @@ Se detallan los compromisos técnicos para la autonomía aduanera:
 
 ---
 
+## 7. DAV y Notificaciones (RQ 39)
+
+**Declaración Andina de Valor (DAV):**
+- **Formulario 560:** El SII 2.0 automatiza el diligenciamiento basado en las reglas de valoración aduanera (Deisy Rincón/Fabián Barragán).
+- **Salida Técnica:** Generación de 3 archivos base para el proceso DAV que acompañan la previsualización por correo.
+
+**Sistema de Notificaciones y Contingencia:**
+- **Servicio de Envío:** Integración con **Sendgrid / Dynamics** (pendiente confirmación técnica de Cesar Forero).
+- **Administración de Correos:** La configuración de remitentes, destinatarios y **listas de distribución** será paramétrica en el sistema.
+- **Resiliencia:** El sistema mantendrá los archivos generados (5 archivos totales) disponibles para **descarga directa** desde el Centro de Despacho, sirviendo como contingencia ante fallas de envío automático.
+- **Integridad:** Se implementarán mecanismos de reintento para asegurar que el grabado de la información sea exitoso incluso con latencia en la red ("Lado completo").
+
+---
+
 **¿Estás de acuerdo con este detalle técnico para proceder a los ajustes de las HUs y el Modelo SQL?**
 Puntos clave para tu revisión: filtros de año, nombres de módulos y niveles de concurrencia.
