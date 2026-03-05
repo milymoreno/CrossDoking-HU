@@ -68,5 +68,31 @@ Se valida la interacción con **FileZilla** mediante la siguiente estructura de 
 
 ---
 
+## 5. Especificación de Columnas Reporte (RQ 38)
+
+Basado en el requerimiento de Oscar Estrada y Fabián Barragán ("Monitor de solo reporte, de una columna"), el reporte consolidado de facturas por guía incluirá:
+
+**Campos de Identificación y Logística:**
+- Dealer
+- Orden de Compra (OC)
+- Landed Cost
+- Factura INV (PSC)
+- Factura CAT (Z95)
+- Serial
+- Suplidor
+- Marca
+
+**Campos por Ítem (Nivel Línea):**
+- Referencia
+- Cantidad
+- País de Origen por Ítem
+- Valor FOB USD
+- Tipo de mercancía (Nueva/REMAN)
+
+**Integración DIAN:**
+El motor de búsqueda permitirá incluir campos de la **Declaración de Importación (DIAN Página 3)**, permitiendo filtrado por rangos de valores y fechas.
+
+---
+
 **¿Estás de acuerdo con este detalle técnico para proceder a los ajustes de las HUs y el Modelo SQL?**
 Puntos clave para tu revisión: filtros de año, nombres de módulos y niveles de concurrencia.

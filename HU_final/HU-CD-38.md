@@ -44,18 +44,27 @@ El sistema debe permitir:
 |---|-------|-------------|
 | 1 | Número de Guía | Identificador del documento de transporte |
 | 2 | Compañía | Gecolsa / Relianz |
-| 3 | Dealer | Destinatario logístico del embarque |
-| 4 | Fecha Guía | Fecha de generación del documento de transporte |
-| 5 | Número Factura Z95 | Factura de Caterpillar relacionada |
-| 6 | Número Factura INV PSC | Factura de Panamerican asociada a la guía |
-| 7 | Referencia | Código de la referencia o repuesto |
-| 8 | Cantidad | Unidades efectivamente incluidas en la guía |
-| 9 | Valor Unitario | Precio por unidad (USD) |
-| 10 | Valor FOB | Valor FOB total de la línea |
-| 11 | Tipo de mercancía | Nueva / Remanufacturada |
-| 12 | Año Proceso | Año de proceso activo (HU-CD-30) |
-| 13 | Estado del DO | Estado actual del Documento Operativo (HU-CD-37) |
-| 14 | Estado del DIM | Estado actual de la DIM si ya fue generada (HU-CD-39) |
+| 3 | Dealer | Destinatario logístico (HU-CD-35) |
+| 4 | Fecha Guía | Fecha de generación del transport document |
+| 5 | Orden de Compra | OC asociada a la línea (Interfaz 3) |
+| 6 | Landed Cost | Costo puesto en destino (si aplica) |
+| 7 | Factura Z95 | Factura de Caterpillar relacionada |
+| 8 | Factura INV PSC | Factura de Panamerican asociada |
+| 9 | Serial | Número de serie del equipo/componente |
+| 10 | Referencia | Código de la pieza o repuesto |
+| 11 | País de Origen | Origen por ítem (DIAN) |
+| 12 | Suplidor | Proveedor de la mercancía |
+| 13 | Marca | Marca comercial del producto |
+| 14 | Cantidad | Unidades incluidas en la guía |
+| 15 | Valor Unitario | Precio por unidad (USD) |
+| 16 | Valor FOB | Valor FOB total de la línea |
+| 17 | Tipo de mercancía | Nueva / Remanufacturada |
+| 18 | Año Proceso | Año de proceso activo (HU-CD-30) |
+| 19 | Estado del DO | Estado en Centro de Despacho (HU-CD-37) |
+| 20 | Estado del DIM | Estado en Declaración (HU-CD-39) |
+
+> [!TIP]
+> El reporte debe incluir dinámicamente las casillas de la **página 3 de la cartilla de la DIAN** para la declaración de importación (Formulario 500) según la necesidad de la consulta.
 
 ---
 
