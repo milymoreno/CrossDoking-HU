@@ -45,34 +45,39 @@ La DIM es el documento legal más importante del proceso de importación. Se pre
 
 El sistema debe habilitar dinámicamente los siguientes campos según modalidad:
 
-| # | Campo | Descripción |
-|---|-------|-------------|
-| 1 | Tipo DIM | Regular / Anticipada / Temporal / otras |
-| 2 | Modalidad de importación | Consumo / Transformación / País especial / etc. |
-| 3 | Acuerdo comercial | TLC, preferencia arancelaria aplicable |
-| 4 | Forma de pago | Contado / Diferido / Otras |
-| 5 | Manifiesto de carga | Número del manifiesto de la guía aérea/marítima |
-| 6 | Fecha declaración | Fecha oficial de la declaración |
-| 7 | Tipo importación | Normal / Urgente / etc. |
-| 8 | Código depósito | Código de la bodega/depósito aduanero |
-| 9 | TRM | Tasa Representativa del Mercado aplicable a la fecha |
-| 10 | Fletes | Valor del flete internacional (USD) |
-| 11 | Bultos | Número de paquetes/cajas del embarque |
-| 12 | Tipo de embalaje | Caja / Pallet / Contenedor / etc. |
-| 13 | Peso bruto | Peso total del embarque (kg) |
-| 14 | País de origen | País de fabricación del producto |
-| 15 | País de procedencia | País desde donde se embarcó |
+| # | Campo | Tipo | Regla / Fuente |
+|---|-------|------|----------------|
+| 1 | Tipo DIM | `_Paramétrico` | Ordinaria / Anticipada / etc. (Tabla Tipos DIM) |
+| 2 | Modalidad | `_Paramétrico` | Consumo (C100), etc. (Tabla Modalidades) |
+| 3 | Acuerdo | `_Paramétrico` | TLCs, Preferencias (Tabla Acuerdos) |
+| 4 | Forma de pago | `_Paramétrico` | Contado / Diferido (Tabla Formas Pago) |
+| 5 | Manifiesto | Texto | Proviene del documento de transporte |
+| 6 | Fecha Manifiesto | Fecha | Fecha oficial del manifiesto |
+| 7 | Tipo Importación | `_Paramétrico` | Normal / Urgente (Tabla Tipos Importación) |
+| 8 | Código Depósito | `_Paramétrico` | Código DIAN de la bodega (Tabla Depósitos) |
+| 9 | TRM | Numérico | **Vigencia:** Fecha de presentación. Fuente: SII (HU-CD-29) |
+| 10 | Ciudad/Depto | `_Paramétrico` | **SII vs DIAN:** Validar diferencia SII vs Declaración |
+| 11 | Fletes | Numérico | Valor prorrateado (HU-CD-41) |
+| 12 | Bultos | Numérico | Total bultos del embarque |
+| 13 | Embalaje | `_Paramétrico` | Tipo de empaque (Tabla Embalajes) |
+| 14 | Peso Bruto | Numérico | Peso total en kg |
+
+> [!IMPORTANT]
+> Los campos marcados con `_Paramétrico` corresponden a tablas actuales del SII. Se requiere remitir el detalle de estas tablas (Responsable: Deisy Rincón).
 
 ---
 
-## Funcionalidad "Impulsar Declaración"
+## Funcionalidad "Impulsar Declaración" y Robot
 
-Cuando la DIM esté en estado **"Validada"**, el sistema debe permitir:
+Cuando la DIM esté en estado **"Validada"**, el sistema habilita el impulso y la integración con el **ROBOT SYNERGYSOFT**:
 
-1. Marcar la declaración como lista para transmisión.
-2. Generar el **archivo estructurado** requerido por la DIAN/agencia.
-3. Validar consistencia final (FOB, cantidades, subpartidas, licencias).
-4. Enviar electrónicamente o dejar listo para envío manual.
+1. **Grabado de la DIM:** Al confirmar el grabado, el sistema debe:
+    - **Cálculos:** Calcular base gravable, arancel, IVA y totales según modalidad.
+    - **Visualización:** Mostrar previsualización en pantalla con fuentes de datos SII.
+2. **Notificación por Correo:** Se envía automáticamente un correo con la previsualización de la DIM (Mismo formato y campos del sistema actual).
+3. **Transmisión para ROBOT:** Generación de archivo Excel estructurado para procesar mediante el Robot SynergySoft.
+    - **Casilla 91 (Descripción):** Toma la descripción de las mercancías consolidada de las facturas e ítems relacionados.
+4. **Respaldo:** Generar y guardar el archivo .prn o el formato requerido por la DIAN.
 
 ---
 

@@ -94,5 +94,24 @@ El motor de búsqueda permitirá incluir campos de la **Declaración de Importac
 
 ---
 
+## 6. Generación de DIM e Integración Robot (RQ 39)
+
+Se detallan los compromisos técnicos para la autonomía aduanera:
+
+**Reglas de Negocio DIM (Formulario 500):**
+- **TRM:** Se toma la TRM del día de presentación desde la tabla maestra del SII.
+- **Paramétricos:** Los campos marcados con `_` (Modalidad, Acuerdo, etc.) se validan contra las tablas maestras actuales. Deisy Rincón remitirá el detalle de valores y reglas.
+- **Diferencia Geográfica:** En caso de discrepancia entre Depto/Ciudad del SII vs Declaración, prevalece el dato declarado ante la DIAN para el Formulario 500.
+
+**ROBOT SYNERGYSOFT:**
+- **Transmisión:** El archivo generado para el Robot contendrá las columnas necesarias para el "Impulso" automático.
+- **Casilla 91:** La fuente de datos es el campo consolidado de `Descripción Mercancía` de las facturas relacionadas. Se aplicarán reglas de truncamiento si excede los límites DIAN.
+- **Grabado:** Al grabar, el sistema visualiza los cálculos de tributos basándose en las subpartidas (BTN) y valores FOB/Seguros/Fletes de la guía.
+
+**Notificaciones:**
+- El formato de previsualización enviado por correo será idéntico al actual para mantener consistencia con los usuarios Commex.
+
+---
+
 **¿Estás de acuerdo con este detalle técnico para proceder a los ajustes de las HUs y el Modelo SQL?**
 Puntos clave para tu revisión: filtros de año, nombres de módulos y niveles de concurrencia.
