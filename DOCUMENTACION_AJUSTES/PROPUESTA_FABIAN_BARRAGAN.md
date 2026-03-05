@@ -51,5 +51,22 @@ Se ajustará la arquitectura del SII 2.0 para soportar:
 
 ---
 
+## 4. Estructura SFTP SIACO (RQ 37)
+
+Se valida la interacción con **FileZilla** mediante la siguiente estructura de carpetas en el servidor de la Agencia:
+
+**Ruta Base:** `sftp://gecolsa2@45.169.253.42`
+**Directorios Remotos:**
+- `/[AÑO]/[NIT]/Informacion_DIAN`: Archivos .prn para nacionalización.
+- `/[AÑO]/[NIT]/pendientes`: Facturas INV y documentos para creación de DO.
+- `/[AÑO]/[NIT]/reporte_stickers`: Datos para rotulación de mercancía.
+
+**NITs por Compañía:**
+- **Gecolsa:** 860002576
+- **Relianz:** 900806600
+- **Panamerican:** 900519400 (si aplica)
+
+---
+
 **¿Estás de acuerdo con este detalle técnico para proceder a los ajustes de las HUs y el Modelo SQL?**
 Puntos clave para tu revisión: filtros de año, nombres de módulos y niveles de concurrencia.

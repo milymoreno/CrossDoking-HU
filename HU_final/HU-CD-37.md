@@ -32,7 +32,17 @@ Iniciar formalmente el proceso aduanero con la agencia, mantener trazabilidad en
 1.  **GetToken**: Reemplazado por el nuevo esquema de autenticación Oauth2/JWT del SII.
 2.  **GetResource**: Reemplazado por consultas directas a las tablas `guia` y `dim_declaracion` para identificar guías sin DIM.
 3.  **GetOrderNumbers**: Reemplazado por la relación entre `fac_inv` y `oc_orden_compra`.
-4.  **Información_DIAN.prn**: Se implementará un proceso que conecte al SFTP de SIACO, descargue el archivo `.prn` y lo deposite en el FTP interno del SII, mitigando riesgos de seguridad con terceros.
+4.  **Información_DIAN.prn**: Se implementará un proceso que conecte al SFTP de SIACO, descargue el archivo `.prn` y lo deposite en el FTP interno del SII, siguiendo la estructura de carpetas oficial (Años / NITs).
+
+### Estructura de Carpetas SIACO (FileZilla)
+Según lo definido con la Agencia de Aduanas, el intercambio de archivos se organiza bajo la siguiente jerarquía en el servidor remoto:
+- `/trabaja/documentos/`
+  - `[AÑO]/` (ej. 2026)
+    - `[NIT_COMPAÑIA]/` (ej. 860002576 para Gecolsa, 900806600 para Relianz)
+      - `Informacion_DIAN` (Carpeta para archivos .prn)
+      - `pendientes` (Documentos pendientes de proceso)
+      - `reporte_stickers` (Archivos para impresión de etiquetas)
+      - `SMUI...` (Archivos de interfaz de aduana)
 
 ---
 
