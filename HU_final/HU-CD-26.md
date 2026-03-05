@@ -12,7 +12,7 @@
 ## Historia de Usuario
 
 ### Como:
-Analista de Comercio Exterior / Operaciones CrossDocking (Rol: **Analista Commex CD**)
+Analista de Comercio Exterior / Operaciones CrossDocking (Rol: **Operador Logístico CD**)
 
 ### Quiero:
 Que el sistema reciba la información consolidada enviada por el agente de carga (DHL u otro agente logístico), incluyendo guías, facturas Z95, pesos y dealers, mediante un mecanismo de carga automático o manual. El sistema debe permitir la **gestión de facturas Z95 incluso si aún no existe la factura INV** asociada en el sistema (Flujo Z95 sin INV).

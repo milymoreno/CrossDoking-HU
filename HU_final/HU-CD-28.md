@@ -1,7 +1,7 @@
 # HU-CD-28: Gestión de Discrepancias entre Facturas Z95 (CAT) vs INV PSC
 
 **Proceso:** CROSSDOCKING
-**Subproceso:** DISCREPANCIAS
+**Subproceso:** GESTIÓN DE DISCREPANCIAS (Módulo: **Mesa de Discrepancias**)
 **Requerimiento Original:** REQ-28 — El sistema debe permitir hacer un paralelo entre las facturas CAT vs las facturas PSC para asegurar que no se va a nacionalizar de más o de menos (ej. cantidades facturadas).
 **Versión:** 2.0
 **Fecha de revisión:** 2026-03-04
@@ -12,7 +12,7 @@
 ## Historia de Usuario
 
 ### Como:
-Analista de Comercio Exterior (Commex)
+Analista de Comercio Exterior (Rol: **Auditor Commex**)
 
 ### Quiero:
 Ejecutar un proceso de validación que compare automáticamente las facturas **Z95 de Caterpillar** contra las facturas **INV de Panamerican (PSC)**, identifique diferencias y genere un reporte de inconsistencias, para que el equipo de operaciones pueda gestionarlas antes de generar la guía de embarque.

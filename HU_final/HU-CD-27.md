@@ -191,10 +191,10 @@ El sistema permitirá exportar la vista de relación con los siguientes parámet
 | Factura INV | INV PSC | Factura Panamerican |
 | Orden de Compra | OC | OC asociada a la línea |
 | Referencia | Z95 / INV | Código de parte (200 chars, exacto OC) |
-| Cantidad | Z95 / INV | Unidades (1 para REMAN) |
+| Cantidad Facturada | Z95 / INV | Unidades (1 para REMAN) |
 | Valor FOB USD | Z95 | Valor CAT |
-| Valor SII | INV PSC | Valor PSC (Premium + Core para REMAN) |
-| Estado | Sistema | ✅ / ⚠️ / ❌ |
+| Valor SII (Total) | INV PSC | Valor PSC (Premium + Core para REMAN) |
+| Estado Relación | Sistema | ✅ / ⚠️ / ❌ |
 
 ---
 

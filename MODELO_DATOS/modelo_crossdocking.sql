@@ -178,6 +178,7 @@ CREATE TABLE fac_inv (
     numero          VARCHAR(30) NOT NULL UNIQUE,
     compania_id     INT NOT NULL REFERENCES cat_compania(id),  -- Gecolsa o Relianz
     fecha_factura   DATE NOT NULL,
+    anio_proceso    SMALLINT,                            -- Año de proceso activo (HU-CD-30)
     dealer_id       INT REFERENCES cat_dealer(id),
     valor_fob_usd   NUMERIC(18,2) NOT NULL,
     moneda          VARCHAR(5) DEFAULT 'USD',
@@ -629,8 +630,13 @@ COMMENT ON TABLE comunicacion_agencia IS 'Log de intercambio de archivos con SIA
 
 CREATE INDEX idx_z95_clave_compuesta ON fac_z95(numero, anio_factura, compania_id);
 CREATE INDEX idx_z95_estado         ON fac_z95(estado);
+CREATE INDEX idx_z95_anio_proceso   ON fac_z95(anio_proceso);
+CREATE INDEX idx_inv_numero         ON fac_inv(numero);
 CREATE INDEX idx_inv_compania       ON fac_inv(compania_id);
 CREATE INDEX idx_inv_estado         ON fac_inv(estado);
+CREATE INDEX idx_inv_anio_proceso   ON fac_inv(anio_proceso);
+CREATE INDEX idx_z95_linea_ref      ON fac_z95_linea(referencia_id);
+CREATE INDEX idx_inv_linea_ref      ON fac_inv_linea(referencia_id);
 CREATE INDEX idx_guia_estado        ON guia(estado);
 CREATE INDEX idx_guia_dealer        ON guia(dealer_id);
 CREATE INDEX idx_dim_estado         ON dim_declaracion(estado);

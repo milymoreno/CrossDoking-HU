@@ -1,7 +1,7 @@
 # HU-CD-37: Creación DO – Integración con Agencia de Aduanas
 
 **Proceso:** CROSSDOCKING
-**Subproceso:** CREACIÓN DO
+**Subproceso:** CREACIÓN DO (Módulo: **Centro de Despacho (DO)**)
 **Requerimiento Original:** REQ-37 — El sistema debe tener conexión con FILEZILA (programa de SIACO) donde se cargan las facturas INV para creación de DO. El programa debe generar un DO por medio de interfaz que permita interacción entre el sistema interno y la agencia de aduanas, y que se actualice a medida que avance el proceso (clasificación arancelaria, certificados VoBo, etc.).
 **Versión:** 2.0
 **Fecha de revisión:** 2026-03-04
@@ -12,7 +12,7 @@
 ## Historia de Usuario
 
 ### Como:
-Analista de Comercio Exterior (Commex)
+Analista de Comercio Exterior (Rol: **Coordinador Aduanero**)
 
 ### Quiero:
 Crear el Documento Operativo (DO) desde el SII y transmitirlo automáticamente al sistema de la agencia de aduanas (SIACO / FileZilla), con actualización progresiva del estado a medida que la agencia avanza en el proceso aduanero.
