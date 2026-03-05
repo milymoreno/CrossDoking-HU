@@ -112,6 +112,7 @@ CREATE TABLE cat_trm (
 -- =====================
 -- MÓDULO 1: FACTURAS Z95 (CAT → Panamerican)
 -- HU-CD-26, HU-CD-27, HU-CD-29, HU-CD-30
+-- NOTA: El sistema debe permitir la existencia de Z95 antes de su INV asociada (Flujo Z95 sin INV).
 -- =====================
 
 CREATE TABLE fac_z95 (
@@ -201,6 +202,7 @@ CREATE TABLE oc_orden_compra (
 -- =====================
 -- MÓDULO 4: CONSOLIDADO AGENTE DE CARGA (DHL)
 -- HU-CD-26
+-- NOTA: La carga masiva de DHL valida integridad de maestros (cat_*) antes de insertar.
 -- =====================
 
 CREATE TABLE consolidado_dhl (

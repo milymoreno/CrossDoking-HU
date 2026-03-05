@@ -15,7 +15,7 @@
 Analista de Comercio Exterior / Operaciones CrossDocking
 
 ### Quiero:
-Que el sistema reciba la información consolidada enviada por el agente de carga (DHL u otro agente logístico), incluyendo guías, facturas Z95, pesos y dealers, mediante un mecanismo de carga automático o manual con formato estándar definido.
+Que el sistema reciba la información consolidada enviada por el agente de carga (DHL u otro agente logístico), incluyendo guías, facturas Z95, pesos y dealers, mediante un mecanismo de carga automático o manual. El sistema debe permitir la **gestión de facturas Z95 incluso si aún no existe la factura INV** asociada en el sistema (Flujo Z95 sin INV).
 
 ### Para:
 Validar que las facturas Z95 estén disponibles en el sistema antes de iniciar el proceso de discrepancias, asegurar la trazabilidad del embarque y habilitar las siguientes etapas del flujo CrossDocking.
@@ -130,6 +130,7 @@ Entonces el sistema debe informar que la Z95 está fuera del rango de carga
 | RN-06 | El sistema debe validar por compañía (Gecolsa y Relianz operan con dealers distintos). |
 | RN-07 | Los procesos de carga de interfaces de Dynamics no son configurables desde el SII; se ejecutan en ventanas de tiempo definidas (~9:00 AM y ~1:00 PM). |
 | RN-08 | El pendiente de definición del formato DHL debe resolverse antes del desarrollo de la integración automática; mientras tanto, la carga manual es el mecanismo de contingencia. |
+| RN-09 | **Validación Previa**: Antes de la carga de Z95, se deben ejecutar los programas y jobs de validación de integridad de datos maestros (Compañías, Dealers, Referencias). |
 
 ---
 
@@ -149,10 +150,11 @@ Entonces el sistema debe informar que la Z95 está fuera del rango de carga
 
 | # | Compromiso | Responsable |
 |---|-----------|-------------|
-| 1 | Validar y acordar el formato estándar del archivo de DHL (bot o Excel). | Eder / Operaciones con DHL |
+| 1 | Validar y acordar el formato estándar del archivo de DHL (bot o Excel). | Fabián Barragán |
 | 2 | Confirmar con Caterpillar el mecanismo de intercambio de información (¿archivo plano o API?). | César / TI |
-| 3 | Documentar los 5 campos de la INB que pueden corregirse en el SII. | Daisy / Equipo de Transformación |
-| 4 | Definir las reglas de carga automática: rangos de filas, frecuencia, manejo de errores. | Oscar / Equipo desarrollo |
+| 3 | Documentar los 5 campos de la INB que pueden corregirse en el SII. | Deisy Rincón |
+| 4 | Definir las reglas de carga automática de archivos DHL para Z95 sin INV. | Fabián Barragán |
+| 5 | Describir programas, jobs y validaciones previas a la llegada de Z95. | Deisy Rincón |
 
 ---
 
