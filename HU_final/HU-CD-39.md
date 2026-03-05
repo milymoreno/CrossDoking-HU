@@ -24,7 +24,7 @@ Garantizar continuidad operativa y autonomía del proceso aduanero, sin depender
 
 ## Contexto del Proceso
 
-La DIM es el documento legal más importante del proceso de importación. Se presenta ante la DIAN para declarar qué se importa, en qué cantidad, a qué valor y bajo qué condiciones. Hasta el momento, este proceso dependía completamente de los sistemas de la agencia de aduanas (SIACO). El SII 2.0 debe poder generarla de forma autónoma.
+La DIM es el documento legal más importante del proceso de importación. Se presenta ante la DIAN para declarar qué se importa, en qué cantidad, a qué valor y bajo qué condiciones. En el SII, esta información se gestiona principalmente en la **Tabla DIM H**, que consolida los datos de las declaraciones. El SII 2.0 debe poder generarla de forma autónoma, reemplazando la dependencia directa de los sistemas de la agencia de aduanas (SIACO).
 
 ---
 
@@ -84,7 +84,7 @@ El sistema debe garantizar que el analista pueda **generar y preparar la DIM loc
 
 Para esto, el SII debe:
 - Conservar respaldo de todos los archivos generados.
-- Mantener historial de versiones de la DIM.
+- Mantener historial de versiones de la DIM en la **Tabla DIM H**.
 - Permitir retransmisión cuando el sistema externo se recupere.
 
 ---
@@ -178,8 +178,9 @@ Entonces el sistema debe crear y guardar la DIM localmente
 | RN-04 | La DIM debe ser auditable en todas sus etapas y versiones. |
 | RN-05 | El sistema debe permitir operación autónoma ante fallas de sistemas externos. |
 | RN-06 | No se permite modificar una DIM aceptada — se debe crear nueva versión. |
-| RN-07 | La información de la DIM debe estar disponible para migración a D365 (HU-CD-41). |
+| RN-07 | La información de la DIM debe estar disponible para migración a D365 y procesos de costeo (HU-CD-41). |
 | RN-08 | El saldo de licencias de importación se descuenta definitivamente al impulsar/transmitir la DIM. |
+| RN-09 | Toda DIM generada debe quedar registrada y versionada en la Tabla DIM H para auditoría legal. |
 
 ---
 

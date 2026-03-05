@@ -40,12 +40,12 @@ El sistema debe soportar **3 modalidades de parcialización**:
 ### Modalidad 2 — Por Referencia
 - El usuario selecciona una o varias **referencias específicas** dentro de una Z95.
 - El sistema genera la guía solo con esas referencias.
-- Las referencias **no seleccionadas quedan disponibles** en tabla de pendientes.
+- Las referencias **no seleccionadas son movidas por el sistema a una nueva "Guía Hija"** (con sufijo `-001`, `-002`, etc.) que queda disponible en la tabla de pendientes.
 
 ### Modalidad 3 — Por Unidades de Referencia
 - El usuario selecciona una referencia y especifica una **cantidad parcial** (menor a la disponible).
 - El sistema genera la guía con esa cantidad.
-- El **saldo restante queda disponible** para futuras guías.
+- El **saldo restante es movido a una nueva "Guía Hija"** (con sufijo `-001`, `-002`, etc.) para su posterior procesamiento.
 
 ---
 
@@ -65,10 +65,10 @@ Al generar cualquier guía parcial, el sistema debe:
 | Estado | Descripción |
 |--------|-------------|
 | Pendiente | Sin ninguna guía generada |
-| Parcialmente utilizada | Al menos una guía generada; quedan cantidades disponibles |
+| Parcialmente utilizada | Al menos una guía generada; se han creado guías "hijas" para el saldo restante |
 | Lista para guía | Sin discrepancias activas, disponible para procesar |
 | Bloqueada por discrepancia | No se puede generar guía hasta resolver discrepancias |
-| Procesada | Saldo = 0; retirada de tabla de pendientes |
+| Procesada | Saldo = 0; la "Madre" o "Hija" final queda cerrada |
 
 ---
 
@@ -139,6 +139,8 @@ Entonces el sistema debe bloquear la operación
 | RN-05 | Toda generación parcial queda auditada (usuario, fecha, hora, cantidades). |
 | RN-06 | El estado de la Z95 refleja el nivel de consumo en tiempo real. |
 | RN-07 | No se pueden mezclar Z95 de diferentes años en la misma guía. |
+| RN-08 | El sistema genera automáticamente el sufijo `-001`, `-002`, etc., para identificar las guías hijas resultantes de una parcialización. |
+| RN-09 | Una vez consolidada una guía (Madre o Hija), sus datos de cabecera y líneas procesadas no pueden ser modificados. |
 
 ---
 

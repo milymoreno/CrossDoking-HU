@@ -69,6 +69,16 @@ El consumo definitivo se realiza al **generar la DIM** (Declaración de Importac
 - Si el saldo llega a 0, el estado de la licencia cambia a **"Agotada"**.
 - Si la fecha supera la vigencia, el estado cambia a **"Vencida"**.
 
+### Estados de la Licencia
+
+| Estado | Descripción |
+|--------|-------------|
+| Borrador | Licencia parametrizada pero no asignada a una operación |
+| Activa | Licencia con saldo disponible y vigente |
+| Agotada | Saldo = 0; no se puede consumir más |
+| Vencida | Fecha de vigencia superada; no se puede consumir más |
+| Bloqueada | Suspendida temporalmente por el usuario |
+
 ---
 
 ## Parametrización
@@ -79,6 +89,12 @@ El sistema debe permitir configurar:
 - Saldo inicial de cada licencia.
 
 Esta parametrización debe ser mantenible por el área de Commex sin necesidad de desarrollo.
+
+### 5. Detección de Errores en Generación
+Si durante la generación de guía o DIM el sistema detecta inconsistencias en licencias:
+1. El sistema genera un log de error en el **spool (AS400)**.
+2. Se envía una notificación por correo al analista con el detalle: Referencia, Factura, Motivo (Sin Saldo, Vencida, Sin Licencia).
+3. La operación se bloquea hasta que el usuario asigne una licencia válida a través del menú de mantenimiento.
 
 ---
 
@@ -148,6 +164,7 @@ Entonces el sistema debe bloquear la asignación
 | RN-07 | La lógica aplica transversalmente: CrossDocking, Equipos y Marcas Aliadas. |
 | RN-08 | No se permite usar documentos de importación de una compañía diferente a la de la operación. |
 | RN-09 | Los remanufacturados deben someterse a la misma validación (no bloquear si no requieren licencia). |
+| RN-10 | El sistema debe emitir alertas inmediatas (correo/spool) cuando detecte que una referencia obligatoria carece de licencia con saldo. |
 
 ---
 

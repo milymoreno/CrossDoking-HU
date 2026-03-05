@@ -24,8 +24,7 @@ Completar el cierre financiero y contable del proceso de importación, reflejar 
 
 ## Contexto del Proceso
 
-HU-CD-41 es el **cierre financiero del proceso CrossDocking**. Una vez que la mercancía tiene levante (HU-CD-40), el SII migra toda la información aduanera a D365 para que:
-
+HU-CD-41 es el **cierre financiero del proceso CrossDocking**. Una vez que la mercancía tiene levante (HU-CD-40), el SII debe tener una interfaz que permita consolidar toda la información de un embarque, aplicar los prorrateos de costos (fletes, seguros, gastos aduaneros) y migrar los registros finales a Dynamics 365 (D365) para el cierre contable y determinación del costo final.
 1. El área de **Costos** pueda asignar el costo exacto a cada referencia importada.
 2. El sistema calcule y distribuya los **gastos asociados** (flete, tributos, 2% estimado).
 3. D365 genere el **DRS** como evidencia formal del cierre financiero.
@@ -153,6 +152,17 @@ Cuando se intente iniciar el proceso de costeo
 Entonces el sistema debe bloquear la operación
   Y mostrar: "El embarque debe tener levante antes de iniciar el costeo".
 ```
+
+### 1. Consolidación de información
+El sistema debe agrupar todas las facturas INV, guías y DIM correspondientes a un mismo embarque o proceso. Esta consolidación es el paso previo al costeo final.
+
+### 2. Prorrateo de Costos (Nicolás / Área de Costos)
+El sistema debe permitir aplicar prorrateos de los gastos globales del embarque (Fletes, Seguros, Aranceles) a nivel de cada código de referencia, basado en:
+- Valor FOB.
+- Peso bruto / Peso neto.
+- Cantidad de bultos.
+
+Los porcentajes y reglas de prorrateo deben ser validados por el analista de costos antes de la migración.
 
 ### Escenario 5 – Error de migración con reproceso
 ```gherkin

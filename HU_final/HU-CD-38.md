@@ -33,7 +33,7 @@ El sistema debe permitir:
 | Formato | Descripción |
 |---------|-------------|
 | Vista en pantalla | Tabla paginada, consultable en el sistema |
-| Excel (.xlsx) | Descarga para análisis o envío |
+| Excel (.xlsx) | Descarga para análisis o envío (Formato propuesto por Fabián Barragán) |
 | PDF | Descarga para archivo formal o presentación |
 
 ---
@@ -53,8 +53,9 @@ El sistema debe permitir:
 | 9 | Valor Unitario | Precio por unidad (USD) |
 | 10 | Valor FOB | Valor FOB total de la línea |
 | 11 | Tipo de mercancía | Nueva / Remanufacturada |
-| 12 | Estado del DO | Estado actual del Documento Operativo (HU-CD-37) |
-| 13 | Estado del DIM | Estado actual de la DIM si ya fue generada (HU-CD-39) |
+| 12 | Año Proceso | Año de proceso activo (HU-CD-30) |
+| 13 | Estado del DO | Estado actual del Documento Operativo (HU-CD-37) |
+| 14 | Estado del DIM | Estado actual de la DIM si ya fue generada (HU-CD-39) |
 
 ---
 
@@ -65,6 +66,7 @@ El sistema debe permitir filtrar por:
 | Filtro | Tipo |
 |--------|------|
 | Número de Guía | Texto libre / búsqueda exacta |
+| Año Proceso | Lista desplegable (HU-CD-30) |
 | Compañía | Lista desplegable (Gecolsa / Relianz) |
 | Dealer | Lista desplegable |
 | Fecha de guía | Rango de fechas |
