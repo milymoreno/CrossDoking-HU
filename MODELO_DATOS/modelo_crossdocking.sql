@@ -236,11 +236,19 @@ CREATE TABLE consolidado_dhl (
     fecha_recepcion TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     fuente          VARCHAR(20) NOT NULL DEFAULT 'Bot DHL',  -- 'Bot DHL' | 'Manual'
     archivo_nombre  VARCHAR(200),
-    estado          VARCHAR(20) NOT NULL DEFAULT 'Recibido'
-                    CHECK (estado IN ('Recibido','Procesado','Con errores')),
+    archivo_blob_url VARCHAR(500),                           -- Ubicación en Storage del archivo recibido
+    usuario_carga   VARCHAR(100),                            -- Audita quién lo subió (en caso manual)
+    tamano_kb       INT,
+    total_registros INT DEFAULT 0,
+    z95_encontradas INT DEFAULT 0,
+    z95_faltantes   INT DEFAULT 0,
+    estado          VARCHAR(20) NOT NULL DEFAULT 'Cargado'
+                    CHECK (estado IN ('Cargado','Validado','Parcial','Error')),
     observaciones   TEXT,
-    created_at      TIMESTAMPTZ DEFAULT NOW()
+    created_at      TIMESTAMPTZ DEFAULT NOW(),
+    updated_at      TIMESTAMPTZ DEFAULT NOW()
 );
+
 
 -- Líneas del consolidado DHL
 CREATE TABLE consolidado_dhl_linea (
@@ -259,12 +267,30 @@ CREATE TABLE consolidado_dhl_linea (
 -- MÓDULO 5: DISCREPANCIAS (HU-CD-28)
 -- =====================
 
-CREATE TABLE discrepancia (
+-- Cabecera: Registro de cada vez que se ejecuta el proceso de cruce
+CREATE TABLE discrepancia_ejecucion (
     id                  SERIAL PRIMARY KEY,
+    compania_id         INT NOT NULL REFERENCES cat_compania(id),
+    ejecutado_por       VARCHAR(100) NOT NULL,
+    fecha_ejecucion     TIMESTAMPTZ DEFAULT NOW(),
+    total_z95_evaluadas INT DEFAULT 0,
+    discrepancias_halladas INT DEFAULT 0,
+    estado              VARCHAR(30) NOT NULL DEFAULT 'Completado'
+                        CHECK (estado IN ('Completado','Con Errores','En Proceso')),
+    reporte_blob_url    VARCHAR(500),         -- URL del archivo Excel generado
+    created_at          TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Detalle: Cada inconsistencia encontrada en una ejecución específica
+CREATE TABLE discrepancia_detalle (
+    id                  SERIAL PRIMARY KEY,
+    ejecucion_id        INT NOT NULL REFERENCES discrepancia_ejecucion(id),
     z95_id              INT NOT NULL REFERENCES fac_z95(id),
-    inv_id              INT NOT NULL REFERENCES fac_inv(id),
-    tipo_discrepancia   VARCHAR(50) NOT NULL,    -- 'Cantidad', 'Valor FOB', 'Referencia', 'Sin licencia', etc.
+    inv_id              INT REFERENCES fac_inv(id),           -- Puede ser null si es 'SIN_INV'
+    tipo_discrepancia   VARCHAR(50) NOT NULL,                 -- 'Cantidad', 'Valor FOB', 'Referencia', 'Sin INV', etc.
     descripcion         TEXT,
+    referencia_z95      VARCHAR(200),
+    referencia_inv      VARCHAR(200),
     valor_z95           NUMERIC(18,4),
     valor_inv           NUMERIC(18,4),
     diferencia          NUMERIC(18,4),
@@ -272,7 +298,7 @@ CREATE TABLE discrepancia (
                         CHECK (estado IN ('Activa','Resuelta','Cerrada')),
     resuelta_en         TIMESTAMPTZ,
     resuelta_por        VARCHAR(100),
-    origen_correccion   VARCHAR(30),              -- 'Dynamics' | 'SII'
+    origen_correccion   VARCHAR(30),                          -- 'Dynamics' | 'SII' (Mantenido de la versión Mily)
     created_at          TIMESTAMPTZ DEFAULT NOW(),
     updated_at          TIMESTAMPTZ DEFAULT NOW()
 );
@@ -642,7 +668,7 @@ CREATE INDEX idx_guia_dealer        ON guia(dealer_id);
 CREATE INDEX idx_dim_estado         ON dim_declaracion(estado);
 CREATE INDEX idx_dim_do             ON dim_declaracion(do_id);
 CREATE INDEX idx_costeo_estado      ON costeo_embarque(estado);
-CREATE INDEX idx_discrepancia_estado ON discrepancia(estado);
+CREATE INDEX idx_discrepancia_estado ON discrepancia_detalle(estado);
 CREATE INDEX idx_licencia_estado    ON licencia_importacion(estado);
 CREATE INDEX idx_alerta_reman_estado ON alerta_reman(estado);
 CREATE INDEX idx_guia_linea_referencia ON guia_linea(referencia_id);
